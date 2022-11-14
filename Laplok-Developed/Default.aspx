@@ -65,14 +65,9 @@ theft. And now that the world is your office, laptop thieves are in more places 
               <h1 class="display-6 pb-lg-3 mb-3">Why Laplok?</h1>
               <div class="d-flex justify-content-center justify-content-lg-start text-start mb-2">
                
-                <div class="fs-xl">Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents
-a significant risk.
-                 The professional world is moving increasingly remote, but there’s a greater risk when working outside of an
-office or home.
-                    <br />
-                    That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is
-the perfect solution for keeping your laptop safe no matter where in the world you’re working.
-                 
+                <div class="fs-xl">
+                    <p>Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents a significant risk.</p>
+                   <p> That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is the perfect solution for keeping your laptop safe no matter where in the world you’re working.</p>
                </div>
                   
               </div>
@@ -207,7 +202,6 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                     <p class=" d-lg-block pb-3 mb-2 mb-md-3">Laplok is designed with the highest-grade and highest-performing materials in the world. </p>
                         <p>Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
                                 world travel while offering unrivaled levels of protection from theft.</p>
-                    </p>
                     <p class=" d-lg-block pb-3 mb-2 mb-md-3"> This creative and innovative design makes Laplok one of the most unique items of its kind on the market.</p>
                   </div>
                 </div>
