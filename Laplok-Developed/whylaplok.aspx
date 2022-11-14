@@ -43,8 +43,9 @@
             </div>
           </div>
           <div class="col-md-6 col-lg-5 col-xl-6 offset-xl-1 order-md-1 pb-md-4">
-            <h2 class="pb-3 text-light fs-4"><br />LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement
-that’s skyrocketed over the past few years alone.<br /> It&#39;s the ultimate pocket-sized anti-theft device designed to
+            <h2 class="pt-3 text-light fs-4">LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement
+that’s skyrocketed over the past few years alone..</h2> 
+               <h2 class="pb-3 text-light fs-4">It&#39;s the ultimate pocket-sized anti-theft device designed to
 conveniently secure your laptop any time, any place.</h2>
           
           </div>
