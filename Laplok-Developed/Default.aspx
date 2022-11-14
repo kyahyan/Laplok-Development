@@ -77,7 +77,7 @@ theft. And now that the world is your office, laptop thieves are in more places 
               </div>
           
               <div class="fs-xl">
-                For details on how laplok works, you can click <a href="howlaplok.html">here</a>.
+                For details on how laplok works, you can click <a href="/howlaplok">here</a>.
              </div>
 
             </div>
