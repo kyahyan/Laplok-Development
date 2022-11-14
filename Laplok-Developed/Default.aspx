@@ -204,9 +204,9 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Aircraft-Grade Aluminum</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">Laplok is designed with the highest-grade and highest-performing materials in the world. 
-                        <br />Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
-                                world travel while offering unrivaled levels of protection from theft.
+                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">Laplok is designed with the highest-grade and highest-performing materials in the world. </p>
+                        <p>Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
+                                world travel while offering unrivaled levels of protection from theft.</p>
                     </p>
                     <p class=" d-lg-block pb-3 mb-2 mb-md-3"> This creative and innovative design makes Laplok one of the most unique items of its kind on the market.</p>
                   </div>
