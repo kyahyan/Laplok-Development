@@ -16,12 +16,12 @@
                     <img src="assets/img/logo/logo-light-v2.png" width="350" alt="Taplok">
                   </div>
 
-                  
+
                 <h1 class="fs-4 d-xl-block pb-lg-4 pb-sm-5">Real-world protection when the world is your office</h1>
                   <p class="fs-5">Airports, cafes, restaurants, high schools, colleges, even shared workspaces. They&#39;re all hotbeds for laptop
 theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
                   <p class="fs-5">LapLok is a new pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
-                
+
 
 
 
@@ -39,7 +39,7 @@ theft. And now that the world is your office, laptop thieves are in more places 
                 <div class="parallax-layer zindex-2" data-depth="0.1">
                   <img src="assets/img/landing/saas-3/hero/layer04.png" alt="Card">
                 </div>
-            
+
               </div>
             </div>
           </div>
@@ -52,11 +52,11 @@ theft. And now that the world is your office, laptop thieves are in more places 
         <div class="row g-0 ">
           <div class="col-xl-7 col-lg-6 pe-lg-5">
             <div class="d-flex d-sm-flex h-100 pe-xl-4 justify-content-center align-items-center">
-           
+
               <!-- <video class="w-100" autoplay muted loop controls style="object-fit: cover;" data-yt2html5="https://www.youtube.com/watch?v=ScMzIvxBSi4" controls></video> -->
               <iframe class="w-100 h-100px" style="object-fit: cover;" src="https://www.youtube.com/embed/jDhd0MaBzSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
-            
+
+
             </div>
           </div>
           <div class="col-xl-5 col-lg-6 position-relative py-lg-0 py-xl-0 py-xxl-0 py-5">
@@ -64,20 +64,20 @@ theft. And now that the world is your office, laptop thieves are in more places 
             <div class="position-relative zindex-5 text-center text-lg-start px-3 px-lg-0 py-xl-4 py-xxl-5 mt-lg-3 mx-auto mx-lg-0" style="max-width: 530px;">
               <h1 class="display-6 pb-lg-3 mb-3">Why Laplok?</h1>
               <div class="d-flex justify-content-center justify-content-lg-start text-start mb-2">
-               
+
                 <div class="fs-xl"><p>Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents a significant risk.</p>
-                                   <p>That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is the perfect solution for keeping your laptop safe no matter where in the world you’re working.</p> 
-                 
+                                   <p>That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is the perfect solution for keeping your laptop safe no matter where in the world you’re working.</p>
+
                </div>
-                  
+
               </div>
               <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-lg-start py-4 py-lg-4">
                 <a href="/whylaplok" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Learn More</a>
 
               </div>
-          
+
               <div class="fs-xl">
-                For details on how laplok works, you can click <a href="howlaplok.html">here</a>.
+                For details on how laplok works, you can click <a href="/howlaplok">here</a>.
              </div>
 
             </div>
@@ -144,7 +144,7 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
             </div>
           </div>
 
- 
+
 
           <!-- Pagination (bullets) -->
           <div class="swiper-pagination position-relative pt-2 pt-sm-3 mt-4"></div>
@@ -152,36 +152,36 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
       </section>
 
       <section class="container mt-5 mb-md-3 mb-lg-2 pb-4">
-        
+
           <!-- Nav tabs alternative style -->
           <ul class="nav nav-tabs-alt" role="tablist">
             <li class="nav-item">
               <a href="#num1" class="nav-link active" data-bs-toggle="tab" role="tab">
-               
+
                 Aircraft-Grade Aluminum
               </a>
             </li>
             <li class="nav-item">
               <a href="#num2" class="nav-link" data-bs-toggle="tab" role="tab">
-              
+
               Next Generation Locking Solutions
               </a>
             </li>
             <li class="nav-item">
               <a href="#num3" class="nav-link" data-bs-toggle="tab" role="tab">
-              
+
               Software Enabled Password Management
               </a>
             </li>
             <li class="nav-item">
               <a href="#num4" class="nav-link" data-bs-toggle="tab" role="tab">
-               
+
               Dual Purpose Functionality
               </a>
             </li>
             <li class="nav-item">
               <a href="#num5" class="nav-link" data-bs-toggle="tab" role="tab">
-               
+
               Device Compatibility
               </a>
             </li>
@@ -191,7 +191,7 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
           <div class="tab-content">
             <div class="tab-pane fade show active" id="num1" role="tabpanel">
               <div class="row pt-5">
-                <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0"> 
+                <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
                   <a href="#" class="float-md-end">
                     <img src="assets/img/portfolio/list/11.jpg" class="rounded-3" width="600" alt="Image">
                   </a>
@@ -199,11 +199,10 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Aircraft-Grade Aluminum</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">Laplok is designed with the highest-grade and highest-performing materials in the world. 
-                        <br />Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
-                                world travel while offering unrivaled levels of protection from theft.
-                    </p>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3"> This creative and innovative design makes Laplok one of the most unique items of its kind on the market.</p>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">Laplok is designed with the highest-grade and highest-performing materials in the world. </p>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
+                                world travel while offering unrivaled levels of protection from theft.</p>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1"> This creative and innovative design makes Laplok one of the most unique items of its kind on the market.</p>
                   </div>
                 </div>
               </div>
@@ -218,19 +217,16 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Next Generation Locking Solutions</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">
-                       Traditional methods of protecting unaccompanied laptops have been ineffective and impractical.
-                        <br />
-                        LapLok is a next-generation locking solution that allows users to secure their laptops anywhere they work.
-                        This is the most high-tech and modern solution available, making it a must-have for work-from-anywhere
-                        professionals.
+                   <p class=" d-lg-block pb-1 mb-1 mb-md-1">
+                       Traditional methods of protecting unaccompanied laptops have been ineffective and impractical.</p>
+                        <p class=" d-lg-block pb-1 mb-1 mb-md-1">LapLok is a next-generation locking solution that allows users to secure their laptops anywhere they work.
+                      This is the most high-tech and modern solution available, making it a must-have for work-from-anywhere professionals.</p>
 
-                    </p>
-                   <p class=" d-lg-block pb-3 mb-2 mb-md-3">This intelligent device has an adjustable arm, 
+               <p class=" d-lg-block pb-1 mb-1 mb-md-1">This intelligent device has an adjustable arm,
                        an alarm, an accelerometer, and a host of other security
                        features to keep your device safe.</p>
-            
-                      
+
+
                   </div>
                 </div>
               </div>
@@ -245,9 +241,10 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Software Enabled Password Management</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">Take full control of your passwords with Laplok&#39;s built-in password management algorithm. Say goodbye to
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">Take full control of your passwords with Laplok&#39;s built-in password management algorithm. </p>
+                        <p class=" d-lg-block pb-1 mb-1 mb-md-1">Say goodbye to
 annoying and inefficient physical keys and hello to advanced and secure cloud password technology.</p>
-                      <p class=" d-lg-block pb-3 mb-2 mb-md-3">You can easily reset &amp; recover passwords when necessary due to employee changes or if a code is
+                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">You can easily reset &amp; recover passwords when necessary due to employee changes or if a code is
 forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                   </div>
                 </div>
@@ -263,10 +260,11 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Dual Purpose Functionality</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">You&#39;re rarely working alone with just a laptop. Typically, it&#39;s accompanied by an entire bag of belongings
-                                                    you need to keep safe too. That&#39;s why we&#39;ve equipped Laplok with a built-in bag-locking feature that
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">You&#39;re rarely working alone with just a laptop. Typically, it&#39;s accompanied by an entire bag of belongings
+                                                    you need to keep safe too. </p>
+                        <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why we&#39;ve equipped Laplok with a built-in bag-locking feature that
                                                     provides a convenient and secure place to leave your bag.</p>
-                     <p class=" d-lg-block pb-3 mb-2 mb-md-3">BagLok is sold separately but directly attaches to the LapLok product for an easy-to-carry, lightweight, and
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">BagLok is sold separately but directly attaches to the LapLok product for an easy-to-carry, lightweight, and
                                 dynamic protection device. </p>
                   </div>
                 </div>
@@ -281,28 +279,27 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                 </div>
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
-                    <h2 class="h3">Device Compability</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">The work-from-anywhere professional needs a holistic protection solution that works with a wide variety of
-devices. That&#39;s why Laplok is designed to function seamlessly with any device including all laptops and all
-tablets. No need for a cable lock slot with our design.</p>
+                    <h2 class="h3">Device Compatibility</h2>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">The work-from-anywhere professional needs a holistic protection solution that works with a wide variety of devices. </p>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why Laplok is designed to function seamlessly with any device including all laptops and all tablets. No need for a cable lock slot with our design.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-         
-        </div>
-       
+
+
+
       </section>
 
-  
+
     <!-- Testimonials -->
     <section class="py-4 mb-md-2" style="background: radial-gradient(116.18% 118% at 50% 100%, rgba(2, 50, 149, 0.1) 0%, rgba(218, 70, 239, 0.05) 41.83%, rgba(241, 244, 253, 0.07) 82.52%);">
       <div class="container py-lg-4">
         <div class="row py-md-3">
           <div class="col-xl-3 col-lg-4 pt-2">
             <h2 class="h1 text-center text-lg-start pb-2">Our Satisfied Customers Have a Lot to Say</h2>
-            
+
             <!-- Slider prev/next buttons -->
             <!-- <div class="d-flex justify-content-center justify-content-lg-start pt-lg-5">
               <button type="button" id="prev-review" class="btn btn-prev btn-icon btn-sm me-3">
@@ -317,13 +314,13 @@ tablets. No need for a cable lock slot with our design.</p>
             <div class="px-2 px-sm-0">
               <div class="swiper mx-n2" data-swiper-options='{
                 "slidesPerView": 1,
-                
+
                 "spaceBetween": 8,
                 "navigation": {
                   "prevEl": "#prev-review",
                   "nextEl": "#next-review"
                 },
-               
+
                 "loop": true,
                 "autoplay": {
                   "delay": "5000"
@@ -333,7 +330,7 @@ tablets. No need for a cable lock slot with our design.</p>
                 }
               }'>
                 <div class="swiper-wrapper">
-    
+
                   <!-- Item -->
                   <div class="swiper-slide h-auto pt-4 pb-3 px-2" >
                     <div class="d-flex flex-column h-100 px-2 px-sm-0 mb-0">
@@ -360,7 +357,7 @@ tablets. No need for a cable lock slot with our design.</p>
                       </div>
                     </div>
                   </div>
-    
+
                   <!-- Item -->
                   <div class="swiper-slide h-auto pb-3 px-2 pt-4">
                     <div class="d-flex flex-column h-100 px-2 px-sm-0 mb-0">
@@ -387,7 +384,7 @@ tablets. No need for a cable lock slot with our design.</p>
                       </div>
                     </div>
                   </div>
-    
+
                   <!-- Item -->
                   <div class="swiper-slide h-auto pb-3 px-2 pt-4">
                     <div class="d-flex flex-column h-100 px-2 px-sm-0 mb-0">
@@ -414,7 +411,7 @@ tablets. No need for a cable lock slot with our design.</p>
                       </div>
                     </div>
                   </div>
-    
+
                   <!-- Item -->
                   <div class="swiper-slide h-auto pb-3 px-2 pt-4">
                     <div class="d-flex flex-column h-100 px-2 px-sm-0 mb-0">

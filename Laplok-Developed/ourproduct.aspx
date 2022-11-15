@@ -4,13 +4,13 @@
 
 
             <section class="bg-dark mb-2 mb-lg-3">
-          
+
               <div class="container">
                   <div class="row justify-content-center text-center pb-sm-2 py-lg-5">
                     <div class="col-xl-8 col-lg-9 col-md-10 py-4">
                       <h1 class="display-5 text-light pt-lg-5 pt-sm-5 pb-2 pb-sm-2 mb-3 pt-5">Next Generation Laptop Security.</h1>
                       <h2 class="h4 pb-0 pb-lg-0 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to stay safe and protected while working anywhere, at any time. </h2>
-                    
+
                     </div>
                   </div>
                 </div>
@@ -24,9 +24,9 @@
         <!-- Item -->
         <div class="row pb-5 mb-md-4 mb-lg-5 pt-5">
           <div class=" col-md-6 pb-1 mb-3 pb-md-0 mb-md-0">
-           
+
               <img src="assets/img/portfolio/list/01.jpg" class="rounded-3" width="600" alt="Image">
-       
+
           </div>
           <div class=" col-md-6" >
             <div class="ps-md-4 ms-md-2 mt-5">
@@ -40,9 +40,9 @@
         <!-- Item -->
         <div class="row pb-5 mb-md-4 mb-lg-5">
           <div class=" col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
-           
+
               <img src="assets/img/portfolio/list/02.jpg" class="float-md-end rounded-3" width="600" alt="Image">
-         
+
           </div>
           <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
             <div class="pe-md-4 me-md-2">
@@ -56,9 +56,9 @@
         <!-- Item -->
         <div class="row pb-5 mb-md-4 mb-lg-5">
           <div class=" col-md-6 pb-1 mb-3 pb-md-0 mb-md-0">
-         
+
               <img src="assets/img/portfolio/list/03.jpg" class="rounded-3" width="600" alt="Image">
-           
+
           </div>
           <div class=" col-md-6 pt-md-4 pt-lg-5" >
             <div class="ps-md-4 ms-md-2">
@@ -71,9 +71,9 @@
         <!-- Item -->
         <div class="row pb-5 mb-md-4 mb-lg-5">
           <div class=" col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
-       
+
               <img src="assets/img/portfolio/list/04.jpg" class="float-md-end rounded-3" width="600" alt="Image">
-           
+
           </div>
           <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
             <div class="pe-md-4 me-md-2">
@@ -86,9 +86,9 @@
          <!-- Item -->
          <div class="row pb-5 mb-md-4 mb-lg-5">
           <div class=" col-md-6 pb-1 mb-3 pb-md-0 mb-md-0">
-           
+
               <img src="assets/img/portfolio/list/05.jpg" class="rounded-3" width="600" alt="Image">
-            
+
           </div>
           <div class=" col-md-6 pt-md-4 pt-lg-5" >
             <div class="ps-md-4 ms-md-2">
@@ -98,12 +98,12 @@
           </div>
           </div>
         </div>
-    
+
       </section>
-    
+
       <section class="position-relative  bg-dark overflow-hidden ">
         <div class="position-relative zindex-4 pt-lg-3 pt-xl-3">
-  
+
           <!-- Text -->
           <div class="container zindex-5 pt-5">
             <div class="row justify-content-center text-center pt-4 pb-sm-1 py-lg-5">
@@ -111,7 +111,7 @@
                 <div class="display-5 text-light pt-sm-1 pb-1 pb-sm-3 mb-3 h1">Keep your laptop secure &amp; protected <br />wherever you work</div>
                 <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">Combat grab & go theft with simple, convenient solutions.</p>
                 <p class="fs-xl text-light opacity-70 pb-3 pb-sm-1 mb-4 mb-sm-3 ">We believe in security solutions that help others and help make the world a better place.</p>
-               
+
               </div>
             </div>
           </div>
@@ -144,7 +144,7 @@
 
             <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: 26.8%; right: 2.9%;">
-              
+
               <div class="btn btn-icon btn-primary bg-transparent fs-lg text-white fw-bold rounded-circle pe-none">4</div>
               <div class="fs-xl text-white opacity-70 ms-3 d-none d-md-block">100 dB alarm</div>
               <div class="fs-sm text-white opacity-70 ms-2 d-md-none">100 dB alarm</div>
@@ -193,7 +193,7 @@
             <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: -1%; left: 47.7%;" height="16" width="16">
              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">3</div>
-              
+
               <div class="fs-xs text-white opacity-70 ms-2 d-md-none">LEDs</div>
             </div>
 
@@ -203,17 +203,17 @@
               <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">2</div>
             </div>
 
-               
+
             <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: 22.8%; right: -4%;">
-              
+
               <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">4</div>
-               <br />   
+               <br />
               <div class="fs-xs text-white opacity-70 ms-1 d-md-none ">100 dB alarm</div>
             </div>
                <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: 12%; left: -1%;">
-             
+
               <div class="fs-xs text-white opacity-70 me-1 d-md-none">Anti-Theft Sensor</div>
               <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">5</div>
             </div>
@@ -226,7 +226,7 @@
 
             <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: 62%; right: 60.5%;">
-             
+
               <div class="fs-xs text-white opacity-70 me-2 text-end d-md-none">Steel Upright</div>
               <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">7</div>
             </div>
@@ -234,7 +234,7 @@
             <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: 59%; left: 72.5%;">
               <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">8</div>
-            
+
               <div class="fs-xs text-white opacity-70 ms-2 d-md-none ">Soft Rubber Pads</div>
             </div>
           </div>
@@ -247,7 +247,7 @@
               <div class="gallery-item-caption fs-sm fw-medium">Image 1</div>
             </a>
           </div>
-       
+
           <div class="col">
             <a href="assets/img/portfolio/courses/04.jpg" class="gallery-item rounded-3" data-sub-html='<h6 class="fs- sm text-light">Image 2</h6>'>
               <img src="assets/img/portfolio/courses/04.jpg" alt="Gallery thumbnail">
@@ -260,26 +260,26 @@
               <div class="gallery-item-caption fs-sm fw-medium">Image 3</div>
             </a>
           </div>
-    
-         
+
+
         </div>
         <div class="container position-relative zindex-2 pt-5">
-          
+
          <!--<div class="row row-cols-1 row-cols-md-2 pt-2 pt-md-3 pb-5 mb-md-2 mb-lg-4">
-            
+
             <div class="col mb-4">
               <h2 class="h1 mb-0 text-light">Under Product Information<span class="text-primary">  - Laplok</span></h2>
             </div>
             <div class="col">
               <p class="fs-xl mb-0 text-light">To combat grab & go theft with simple, convenient solutions. We believe in security solutions that help others and help make the world a better place.</p>
             </div>
-          </div>--> 
-        
+          </div>-->
+
         </div>
 
       </section>
       <!-- Service -->
-     
+
       <section class="container pt-5 pb-2 mt-3 mt-sm-4 mt-xl-5">
         <h2 class="h1 text-center pb-3 pb-lg-4">Product Information</h2>
 
@@ -330,7 +330,7 @@
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">LapLok</h2>
                 <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras.</p>
-            
+
                 <div class="border rounded-3 mb-4 mb-lg-5">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
@@ -362,7 +362,7 @@
                         <p class="fs-xs mb-0">Orci bibendum ullamcorper lorem.</p>
                       </div>
                     </div>
-                    
+
                     <div class="col d-flex align-items-center p-3">
                       <i class="bx bx-bulb fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
@@ -384,7 +384,7 @@
                   </li>
                 </ul>
               </div>
-             
+
             </div>
           </div>
 
@@ -397,7 +397,7 @@
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">BagLok</h2>
                 <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
-            
+
                 <div class="border rounded-3 mb-4 mb-lg-5">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
@@ -442,7 +442,7 @@
                   </li>
                 </ul>
               </div>
-             
+
             </div>
           </div>
 
@@ -455,7 +455,7 @@
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">Smartphone Holster</h2>
                 <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
-            
+
                 <div class="border rounded-3 mb-4 mb-lg-5">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
@@ -479,7 +479,7 @@
                         <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
                       </div>
                     </div>
-                    
+
                   </div>
                 </div>
                 <h1 class="h4">Weight & Dimensions:</h1>
@@ -494,7 +494,7 @@
                     </li>
                 </ul>
 
-             
+
 
 
 
@@ -502,7 +502,7 @@
 
 
               </div>
-             
+
             </div>
           </div>
 
@@ -515,7 +515,7 @@
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">Portlok</h2>
                 <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
-            
+
                 <div class="border rounded-3 mb-4 mb-lg-5">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
@@ -539,7 +539,7 @@
                         <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
                       </div>
                     </div>
-                    
+
                   </div>
                 </div>
                 <h1 class="h4">Weight & Dimensions:</h1>
@@ -554,7 +554,7 @@
                     </li>
                 </ul>
 
-             
+
 
 
 
@@ -562,7 +562,7 @@
 
 
               </div>
-             
+
             </div>
           </div>
 
@@ -575,7 +575,7 @@
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">Additional Arm Mount</h2>
                 <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
-            
+
                 <div class="border rounded-3 mb-4 mb-lg-5">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
@@ -599,7 +599,7 @@
                         <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
                       </div>
                     </div>
-                    
+
                   </div>
                 </div>
                 <h1 class="h4">Weight & Dimensions:</h1>
@@ -615,11 +615,11 @@
                 </ul>
 
               </div>
-             
+
             </div>
           </div>
 
         </div>
       </section>
-   
+
 </asp:Content>

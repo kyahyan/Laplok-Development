@@ -92,7 +92,8 @@ device or simply scroll down for step-by-step instructions.</div>
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
             <h3 class="mb-lg-4">Install semi-permanent mounting arm</h3>
-            <p>First, make sure that your LapLok has a clean surface that you can adhere the mounting arm to. Clean your device with the included cleaning wipe & primer. This assures that good contact will be made. </p>
+            <p>First, make sure that your LapLok has a clean surface that you can adhere the mounting arm to.
+                <br />Clean your device with the included cleaning wipe & primer. This assures that good contact will be made. </p>
             <p>Then, install semi-permanent adhesive mounting arm.</p>
           
            
