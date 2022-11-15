@@ -65,18 +65,13 @@ theft. And now that the world is your office, laptop thieves are in more places 
               <h1 class="display-6 pb-lg-3 mb-3">Why Laplok?</h1>
               <div class="d-flex justify-content-center justify-content-lg-start text-start mb-2">
                
-                <div class="fs-xl">Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents
-a significant risk.
-                 The professional world is moving increasingly remote, but there’s a greater risk when working outside of an
-office or home.
-                    <br />
-                    That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is
-the perfect solution for keeping your laptop safe no matter where in the world you’re working.
+                <div class="fs-xl"><p>Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents a significant risk.</p>
+                                   <p>That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is the perfect solution for keeping your laptop safe no matter where in the world you’re working.</p> 
                  
                </div>
                   
               </div>
-              <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-lg-start py-4 py-lg-5">
+              <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-lg-start py-4 py-lg-4">
                 <a href="/whylaplok" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Learn More</a>
 
               </div>
