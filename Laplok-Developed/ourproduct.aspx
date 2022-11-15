@@ -7,10 +7,9 @@
           
               <div class="container">
                   <div class="row justify-content-center text-center pb-sm-2 py-lg-5">
-                    <div class="col-xl-8 col-lg-9 col-md-10 py-5">
-                      <h1 class="display-4 text-light pt-lg-1 pt-sm-5 pb-1 pb-sm-3 mb-2 pt-4">Next Generation Laptop Security.</h1>
-                      <h2 class="h3 pb-2 pb-lg-3 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to
-stay safe and protected while working anywhere, at any time.</h2>
+                    <div class="col-xl-8 col-lg-9 col-md-10 py-4">
+                      <h1 class="display-5 text-light pt-lg-5 pt-sm-5 pb-2 pb-sm-2 mb-3 pt-5">Next Generation Laptop Security.</h1>
+                      <h2 class="h4 pb-0 pb-lg-0 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to stay safe and protected while working anywhere, at any time. </h2>
                     
                     </div>
                   </div>
@@ -31,10 +30,9 @@ stay safe and protected while working anywhere, at any time.</h2>
           </div>
           <div class=" col-md-6" >
             <div class="ps-md-4 ms-md-2 mt-5">
-              <h2 class="h3 pt-5">Works with all Laptops &amp; tablets</h2>
-              <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Your workflow relies on a host of devices which is why LapLok is designed to accommodate all laptops and
-tablets no matter the brand or design. This gives you ultimate protection over your entire suite of devices. <br /> Additionally, if you have multiple devices you can buy an additional mount arm to use LapLok with multiple
-devices.</p>
+              <h2 class="h3 pt-5">Works with all laptops and tablets</h2>
+              <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">Your workflow relies on a host of devices which is why LapLok is designed to accommodate all laptops and tablets no matter the brand or design. This gives you ultimate protection over your entire suite of devices. </p>
+            <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">Additionally, if you have multiple devices you can buy an additional mount arm to use LapLok with multiple devices.</p>
             </div>
           </div>
         </div>
@@ -48,11 +46,9 @@ devices.</p>
           </div>
           <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
             <div class="pe-md-4 me-md-2">
-                <h2 class="h3 pt-5">A 100-Decibel Optional Alarm Alerts You of Snatchers</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">You and everyone in the vicinity of your laptop will be alerted to any attempted theft with an adjustable
-                    alarm.
-                     You can set LapLok to high, medium, low volume, or off altogether depending on your specific needs and
-                      location demands.</p>
+                <h2 class="h3 pt-5">100 Decibel alarm alerts everyone around</h2>
+               <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">You and everyone in the vicinity of your laptop will be alerted to any attempted theft with an adjustable alarm. </p>
+               <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">You can set LapLok to high, medium, low volume, or off altogether depending on your specific needs and location demands.</p>
             </div>
           </div>
         </div>
@@ -66,10 +62,9 @@ devices.</p>
           </div>
           <div class=" col-md-6 pt-md-4 pt-lg-5" >
             <div class="ps-md-4 ms-md-2">
-                <h2 class="h3 pt-5">No More bulky cable ties</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Keep those awkward, bulky, and heavy bulky cable ties where they belong - tying down bikes and other
-large items. LapLok is a one-of-a-kind, convenient, lightweight, and highly portable anti-theft device that doesn&#39;t need a
-lock slot or cable port to work.</p>
+                <h2 class="h3 pt-5">No more bulky cable ties</h2>
+               <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">Keep those awkward, bulky, and heavy bulky cable ties where they belong - tying down bikes and other large items. </p>
+                <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">LapLok is a one-of-a-kind, convenient, lightweight, and highly portable anti-theft device that doesn&#39;t need a lock slot or cable port to work.</p>
             </div>
           </div>
         </div>
@@ -82,10 +77,9 @@ lock slot or cable port to work.</p>
           </div>
           <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
             <div class="pe-md-4 me-md-2">
-                <h2 class="h3 pt-5">Intelligent Password Management</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Easily manage your passwords directly from the LapLok system so you can easily change your code when
-necessary. The password system is highly secure and easy to use. It just takes a few minutes to come up with an
-entirely new password, and you don&#39;t have to log in to another system or download an app.</p>
+                <h2 class="h3 pt-5">Intelligent password management</h2>
+               <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">Easily manage your passwords directly from the LapLok system so you can easily change your code when necessary.</p>
+                <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">The password system is highly secure and easy to use. It just takes a few minutes to come up with an entirely new password, and you don&#39;t have to log in to another system or download an app.</p>
             </div>
           </div>
         </div>
@@ -98,10 +92,10 @@ entirely new password, and you don&#39;t have to log in to another system or dow
           </div>
           <div class=" col-md-6 pt-md-4 pt-lg-5" >
             <div class="ps-md-4 ms-md-2">
-                <h2 class="h3 pt-5">Security and Convenience Combined</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">You no longer have to make a choice between security and convenience. LapLok gives you both in a sleek,
-easy-to-carry, and highly secure anti-theft device.</p>
+                <h2 class="h3 pt-5">Security and convenience combined</h2>
+                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">You no longer have to make a choice between security and convenience. LapLok gives you both in a sleek, easy-to-carry, and highly secure anti-theft device.</p>
             </div>
+          </div>
           </div>
         </div>
     
@@ -112,10 +106,11 @@ easy-to-carry, and highly secure anti-theft device.</p>
   
           <!-- Text -->
           <div class="container zindex-5 pt-5">
-            <div class="row justify-content-center text-center pt-4 pb-sm-2 py-lg-5">
+            <div class="row justify-content-center text-center pt-4 pb-sm-1 py-lg-5">
               <div class="col-xl-8 col-lg-9 col-md-10 py-5 lh-3">
-                <h1 class="display-4 text-light pt-sm-2 pb-1 pb-sm-3 mb-3">Keep your laptop secure &amp; protected Wherever you work</h1>
-                <p class="fs-lg text-light opacity-70 pb-2 pb-sm-0 mb-4 mb-sm-5 ">To combat grab & go theft with simple, convenient solutions. We believe in security solutions that help others and help make the world a better place.</p>
+                <div class="display-5 text-light pt-sm-1 pb-1 pb-sm-3 mb-3 h1">Keep your laptop secure &amp; protected <br />wherever you work</div>
+                <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">Combat grab & go theft with simple, convenient solutions.</p>
+                <p class="fs-xl text-light opacity-70 pb-3 pb-sm-1 mb-4 mb-sm-3 ">We believe in security solutions that help others and help make the world a better place.</p>
                
               </div>
             </div>
