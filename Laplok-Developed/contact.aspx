@@ -118,9 +118,14 @@
             <i class="bx bx-map text-primary fs-xl me-2" style="margin-top: .125rem;"></i>
             Techlok Solutions, LLC 33717 Woodward Ave.#588 Birmingham, MI 48009
           </li>
+          
           <li class="d-flex pb-1 mb-2">
             <i class="bx bx-phone-call text-primary fs-xl me-2" style="margin-top: .125rem;"></i>
-            (406) 555-0120
+           <a class="text-primary" href="tel:(406) 555-0120">(406) 555-0120</a> 
+          </li>
+              <li class="d-flex pb-1 mb-2">
+           <i class="bx bx-envelope text-primary fs-xl me-2" style="margin-top: .125rem;"></i>
+           <a class="text-primary" href="mailto:contact-us@laplok.com" > contact-us&#64;laplok.com</a>
           </li>
           <li class="d-flex">
             <i class="bx bx-time-five text-primary fs-xl me-2" style="margin-top: .125rem;"></i>
