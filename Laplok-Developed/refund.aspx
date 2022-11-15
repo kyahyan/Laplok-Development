@@ -52,10 +52,12 @@
               <p class="fs-5 mb-3">You can always contact us for any return question at <a href="mailto:email@example.com" class="text-primary">Ryan@laplok.com</a>. </p>
               <p class="fs-lg fw-bolder mb-0">Damages and Issues</p>
               <p class="fs-5 mb-3">Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>
-              <p class="fs-lg fw-bolder mb-0">Exceptions / Non-Returnable Items</p>
+              
+              <%--<p class="fs-lg fw-bolder mb-0">Exceptions / Non-Returnable Items</p>
               <p class="fs-5 mb-3">Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>
-              <p class="fs-5 mb-3">Unfortunately, we cannot accept returns on sale items or gift cards.</p>
-              <p class="fs-lg fw-bolder mb-0">Exchanges</p>
+              <p class="fs-5 mb-3">Unfortunately, we cannot accept returns on sale items or gift cards.</p>--%>
+              
+               <p class="fs-lg fw-bolder mb-0">Exchanges</p>
               <p class="fs-5 mb-3">The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>
               <p class="fs-lg fw-bolder mb-0">Refunds</p>
               <p class="fs-5 mb-3">We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>
