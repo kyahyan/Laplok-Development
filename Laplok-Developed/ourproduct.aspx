@@ -413,8 +413,7 @@
                       <i class="bx bx-cut fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Non-cuttable nylon</h3>
-                        <p class="fs-xs2 mb-0">Highly durable nylon that’s virtually impossible to cut. 
-</p>
+                        <p class="fs-xs2 mb-0">Highly durable nylon that’s virtually impossible to cut. </p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
@@ -518,10 +517,10 @@
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">Portlok</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Secure your laptop through the lock slot when the LapLok arm strap won't cut it. 
+                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-2">Secure your laptop through the lock slot when the LapLok arm strap won't cut it. 
                     This way, you can work comfortably in any environment with the peace of mind of knowing your laptop is secure. Portlok is just as protective as its larger counterpart but comes in a pinch when the LapLok doesn't function.</p>
 
-                <div class="border rounded-3 mb-4 mb-lg-5">
+                <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
                       <i class='bx bx-user-check fs-1'></i>
