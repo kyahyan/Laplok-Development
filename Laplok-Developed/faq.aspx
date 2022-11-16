@@ -252,7 +252,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-13" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> You can email questions to Info@Laplok.com and also see our “how to use” LapLok page </p><a href="https://www.youtube.com/watch?t=87&v=jDhd0MaBzSw&feature=youtu.be">here.</a>
+                    <p> You can email questions to <a class="text-primary" href="mailto:Info@Laplok.com">Info@Laplok.com</a> and also see our “how to use” LapLok page <a class="text-primary" href="https://www.youtube.com/watch?t=87&v=jDhd0MaBzSw&feature=youtu.be">here.</a></p>
                   </div>
                 </div>
               </div>
@@ -278,7 +278,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-15" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> Instructions & video to change your pin code can be found </p><a href="https://www.youtube.com/watch?v=jDhd0MaBzSw">here.</a>
+                    <p> Instructions & video to change your pin code can be found <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">here.</a></p>
                   </div>
                 </div>
               </div>
@@ -291,7 +291,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-16" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> Instructions & video to change volume can be found </p><a href="https://www.youtube.com/watch?v=jDhd0MaBzSw">here.</a>
+                    <p> Instructions & video to change volume can be found <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">here.</a></p>
                   </div>
                 </div>
               </div>
