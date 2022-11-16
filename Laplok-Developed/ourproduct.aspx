@@ -304,13 +304,13 @@
             </button>
           </li>
           <li class="nav-item" role="presentation">
-            <button class="nav-link text-nowrap" id="product-release-tab" data-bs-toggle="tab" data-bs-target="#port-lok" type="button" role="tab" aria-controls="product-release" aria-selected="false">
+            <button class="nav-link text-nowrap" id="product-release-tab2" data-bs-toggle="tab" data-bs-target="#port-lok" type="button" role="tab" aria-controls="product-release" aria-selected="false">
               <i class="bx bxs-lock fs-lg opacity-60 me-2"></i>
              Portlok
             </button>
           </li>
           <li class="nav-item" role="presentation">
-            <button class="nav-link text-nowrap" id="product-release-tab" data-bs-toggle="tab" data-bs-target="#connecting-arm" type="button" role="tab" aria-controls="product-release" aria-selected="false">
+            <button class="nav-link text-nowrap" id="product-release-tab3" data-bs-toggle="tab" data-bs-target="#connecting-arm" type="button" role="tab" aria-controls="product-release" aria-selected="false">
               <i class="bx bx-stats fs-lg opacity-60 me-2"></i>
              Additional Arm Mount
             </button>
@@ -511,7 +511,7 @@
           </div>
 
           <!--Portlok-->
-          <div class="tab-pane fade " id="port-lok" role="tabpanel" aria-labelledby="product-release-tab">
+          <div class="tab-pane fade " id="port-lok" role="tabpanel" aria-labelledby="product-release-tab2">
             <div class="row align-items-center pt-3 pt-sm-4 pt-md-2 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-3" >
                 <img src="assets/img/pro-4.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image" style="border: 1px solid black;" >
@@ -564,7 +564,7 @@
           </div>
 
             <!--Swivel Arm-->
-          <div class="tab-pane fade" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab">
+          <div class="tab-pane fade" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab3">
             <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-3">
                 <img src="assets/img/pro-5.png" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
