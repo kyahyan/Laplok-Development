@@ -8,7 +8,7 @@
               <div class="container">
                   <div class="row justify-content-center text-center pb-sm-2 py-lg-5">
                     <div class="col-xl-8 col-lg-9 col-md-10 py-4">
-                      <h1 class="display-5 text-light pt-lg-5 pt-sm-5 pb-2 pb-sm-2 mb-3 pt-5">Next Generation Laptop Security.</h1>
+                      <h1 class="display-5 text-light pt-lg-5 pt-sm-5 pb-2 pb-sm-2 mb-3 pt-5">Next Generation Laptop Security</h1>
                       <h2 class="h4 pb-0 pb-lg-0 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to stay safe and protected while working anywhere, at any time. </h2>
 
                     </div>
@@ -322,36 +322,37 @@
         <div class="tab-content rounded-3 py-4">
 
           <!-- Project Management -->
-          <div class="tab-pane fade show active" id="project-management" role="tabpanel" aria-labelledby="project-management-tab">
-            <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
-              <div class="col-lg-6 col-md-7 mt-md-4">
+          <div class="tab-pane fade  show active" id="project-management" role="tabpanel" aria-labelledby="project-management-tab">
+            <div class="row align-items-center pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-md-7 mt-md-3">
                 <img src="assets/img/pro.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">LapLok</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras.</p>
+                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Our flagship laptop anti-theft device is built with the strongest 
+                    materials while still maintaining a lightweight and portable design that makes it convenient for on-the-go professionals.</p>
 
-                <div class="border rounded-3 mb-4 mb-lg-5">
+                <div class="border rounded-3 mb-4 mb-lg-3">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
                       <i class="bx bx-shield-alt-2 fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Hardened steel</h3>
-                        <p class="fs-xs mb-0">Aliquam quis odio senectus.</p>
+                        <p class="fs-xs2 mb-0">Built with the most durable and high-grade steel.</p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-bottom p-3">
                       <i class="bx bxs-plane-alt fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Aircraft-Grade Aluminum</h3>
-                        <p class="fs-xs mb-0">Curabitur neque ut morbi sapien.</p>
+                        <p class="fs-xs2 mb-0"> Designed with the same premium aluminum used for aircraft.</p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
                       <i class="bx bxs-adjust fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Dual Functionality</h3>
-                        <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
+                        <p class="fs-xs2 mb-0">Use it to protect your laptop, bags and phone. </p>
                       </div>
                     </div>
                     <hr class="d-sm-none">
@@ -359,16 +360,16 @@
                       <i class="bx bx-user-check fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Compact and Convenient</h3>
-                        <p class="fs-xs mb-0">Orci bibendum ullamcorper lorem.</p>
+                        <p class="fs-xs2 mb-0">Lightweight and portable so you can take it with you wherever you go.</p>
                       </div>
                     </div>
 
-                    <div class="col d-flex align-items-center p-3">
+                    <div class="col d-flex align-items-center p-3 pb-3">
                       <i class="bx bx-bulb fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Intelligent/Smart Password
                           Management</h3>
-                        <p class="fs-xs mb-0">Orci bibendum ullamcorper lorem.</p>
+                        <p class="fs-xs2 mb-0">Manage your digital passwords with powerful built-in functionality. </p>
                       </div>
                     </div>
                   </div>
@@ -390,51 +391,53 @@
 
           <!-- Remote Work -->
           <div class="tab-pane fade" id="remote-work" role="tabpanel" aria-labelledby="remote-work-tab">
-            <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
-              <div class="col-lg-6 col-md-7 mt-md-4">
+            <div class="row align-items-center pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-md-7 mt-md-3">
                 <img src="assets/img/pro-2b.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">BagLok</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
+                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Anywhere your laptop goes, your bag follows closely behind. 
+                    That's why we've designed a committed, high-tech, and secure anti-theft device for your bag that hooks directly onto our LapLok device for the ultimate security functionality. </p>
 
-                <div class="border rounded-3 mb-4 mb-lg-5">
+                <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
                       <i class="bx bx-check-circle fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Convenient</h3>
-                        <p class="fs-xs mb-0">Aliquam quis odio senectus.</p>
+                        <p class="fs-xs2 mb-0">Ergonomic design makes it a cinch to use. </p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-bottom p-3">
                       <i class="bx bx-cut fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Non-cuttable nylon</h3>
-                        <p class="fs-xs mb-0">Curabitur neque ut morbi sapien.</p>
+                        <p class="fs-xs2 mb-0">Highly durable nylon that’s virtually impossible to cut. 
+</p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
                       <i class="bx bx-cog fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Added functionality on laplok</h3>
-                        <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
+                        <h3 class="h6 mb-0">Add-On Functionality </h3>
+                        <p class="fs-xs2 mb-0">Easily hooks onto the LapLok device.</p>
                       </div>
                     </div>
                     <hr class="d-sm-none">
                     <div class="col d-flex align-items-center border-bottom p-3">
-                      <i class="bx bx-error fs-1 opacity-60 me-2"></i>
+                      <i class="bx bxl-codepen fs-1 opacity-60 me-2"></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Never forget your bag again</h3>
-                        <p class="fs-xs mb-0">Orci bibendum ullamcorper lorem.</p>
+                        <h3 class="h6 mb-0">Premier Anti-Theft Technology </h3>
+                        <p class="fs-xs2 mb-0">Advanced security features keep your bags safe.</p>
                       </div>
                     </div>
                   </div>
                 </div>
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
-                    <li>Weighs 14oz</li>
-                    <li>Length 8”</li>
+                     <li>Weighs 14oz</li>
+                     <li>Length 8”</li>
                     <li style="list-style: none;" class="pt-2"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
                       <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                       &nbsp;Buy now
@@ -448,35 +451,36 @@
 
           <!-- Product Release -->
           <div class="tab-pane fade" id="product-release" role="tabpanel" aria-labelledby="product-release-tab">
-            <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
-              <div class="col-lg-6 col-md-7 mt-md-4">
+            <div class="row align-items-center pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-md-7 mt-md-2">
                 <img src="assets/img/pro-3b.jpeg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">Smartphone Holster</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
+                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Keep your phone secure while having it conveniently attached to your laptop. 
+                    Our anti-theft smartphone holster easily hooks onto the side of any laptop and offers a nice ergonomic display you can use as a second screen while working on your laptop.</p>
 
-                <div class="border rounded-3 mb-4 mb-lg-5">
+                <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
                       <i class='bx bx-mobile-alt fs-1'></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Compatibility with most phones</h3>
-                        <p class="fs-xs mb-0">Aliquam quis odio senectus.</p>
+                        <h3 class="h6 mb-0">Compatibility</h3>
+                        <p class="fs-xs2 mb-0">Works with most iPhone and Android phones. </p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-bottom p-3">
                       <i class='bx fs-1 bx-magnet'></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Magnetic Installation</h3>
-                        <p class="fs-xs mb-0">Curabitur neque ut morbi sapien.</p>
+                        <p class="fs-xs2 mb-0">Quick and easy installation using strong magnets.</p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center  p-3">
                       <i class='bx bxl-sketch fs-1'></i>
                       <div class="ps-2 ms-1">
                         <h3 class="h6 mb-0">Ergonomic design</h3>
-                        <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
+                        <p class="fs-xs2 mb-0">User-friendly design makes it functional and secure.</p>
                       </div>
                     </div>
 
@@ -507,36 +511,37 @@
           </div>
 
           <!--Portlok-->
-          <div class="tab-pane fade" id="port-lok" role="tabpanel" aria-labelledby="product-release-tab">
-            <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
-              <div class="col-lg-6 col-md-7 mt-md-4">
-                <img src="assets/img/pro-4.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
+          <div class="tab-pane fade " id="port-lok" role="tabpanel" aria-labelledby="product-release-tab">
+            <div class="row align-items-center pt-3 pt-sm-4 pt-md-2 px-3 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-md-7 mt-md-3" >
+                <img src="assets/img/pro-4.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image" style="border: 1px solid black;" >
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4">Portlok</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
+                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Secure your laptop through the lock slot when the LapLok arm strap won't cut it. 
+                    This way, you can work comfortably in any environment with the peace of mind of knowing your laptop is secure. Portlok is just as protective as its larger counterpart but comes in a pinch when the LapLok doesn't function.</p>
 
                 <div class="border rounded-3 mb-4 mb-lg-5">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
-                      <i class='bx bxl-android fs-1'></i>
+                      <i class='bx bx-user-check fs-1'></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Compatibility with most phones</h3>
-                        <p class="fs-xs mb-0">Aliquam quis odio senectus.</p>
+                        <h3 class="h6 mb-0">Ergonomic</h3>
+                        <p class="fs-xs2 mb-0">Easy to set up in just a few minutes.</p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-bottom p-3">
-                      <i class='bx fs-1 bx-magnet'></i>
+                      <i class='bx bx-check-shield fs-1'></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Magnetic Installation</h3>
-                        <p class="fs-xs mb-0">Curabitur neque ut morbi sapien.</p>
+                        <h3 class="h6 mb-0">Protection</h3>
+                        <p class="fs-xs2 mb-0">Offers world-class anti-theft security features.</p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center  p-3">
-                      <i class='bx bxl-sketch fs-1'></i>
+                      <i class='bx bx-laptop fs-1'></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Ergonomic design</h3>
-                        <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
+                        <h3 class="h6 mb-0">Compatibility</h3>
+                        <p class="fs-xs2 mb-0">Works with the vast majority of laptops with lock slots.</p>
                       </div>
                     </div>
 
@@ -553,50 +558,43 @@
                       </a>
                     </li>
                 </ul>
-
-
-
-
-
-
-
-
               </div>
 
             </div>
           </div>
 
-            <!--Arm Mount-->
+            <!--Swivel Arm-->
           <div class="tab-pane fade" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab">
             <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
-              <div class="col-lg-6 col-md-7 mt-md-4">
+              <div class="col-lg-6 col-md-7 mt-md-3">
                 <img src="assets/img/pro-5.png" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
-                <h2 class="h3 mb-sm-4">Additional Arm Mount</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-3 mb-3">Orci, ac libero sit ultrices enim volutpat augue. Congue sit nulla velit ornare cras. Facilisis tempus non erat ornare imperdiet. In ac ullamcorper proin urna, lacus, tortor, ullamcorper egestas mattis mauris.</p>
+                <h2 class="h3 mb-sm-4">Swivel Arm</h2>
+                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Strap Mount Laplok's signature design feature is its cutting-edge swivel arm strap that connects semi-permanently to the bottom of your device. 
+                    Any time you want to connect to the Laplok arm mount, simply swivel out the strap to hook these devices together. It's simultaneously the most secure and convenient anti-theft device available.</p>
 
-                <div class="border rounded-3 mb-4 mb-lg-5">
+                <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3">
-                      <i class='bx bxl-android fs-1'></i>
+                      <i class='bx bx-laptop fs-1'></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Compatibility with most phones</h3>
-                        <p class="fs-xs mb-0">Aliquam quis odio senectus.</p>
+                        <h3 class="h6 mb-0">Compatibility</h3>
+                        <p class="fs-xs2 mb-0">Easily connects to the bottom of all types of laptops.</p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center border-bottom p-3">
-                      <i class='bx fs-1 bx-magnet'></i>
+                      <i class='bx fs-1 bxs-hard-hat'></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Magnetic Installation</h3>
-                        <p class="fs-xs mb-0">Curabitur neque ut morbi sapien.</p>
+                        <h3 class="h6 mb-0">Durability</h3>
+                        <p class="fs-xs2 mb-0">Designed to last through decades of use. </p>
                       </div>
                     </div>
                     <div class="col d-flex align-items-center  p-3">
                       <i class='bx bxl-sketch fs-1'></i>
                       <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Ergonomic design</h3>
-                        <p class="fs-xs mb-0">At faucibus molestie egestas sed.</p>
+                        <h3 class="h6 mb-0">Convenience</h3>
+                        <p class="fs-xs2 mb-0">Easy to use with ergonomic design.</p>
                       </div>
                     </div>
 
