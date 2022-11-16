@@ -33,7 +33,7 @@
               </div>
               <div class="ps-3 ps-sm-4">
                 <h2 class="h4 pb-1 mb-2 mt-2">Careers</h2>
-                <p class="mb-2">Sit ac ipsum leo lorem magna nunc mattis maecenas non vestibulum.</p>
+                <p class="mb-2">We’re a fast-growing company looking for some fantastic people to join our team. Take a look at our open positions below.</p>
                 <div class="btn btn-link btn-lg px-0">
                   Send an application
                   <i class="bx bx-right-arrow-alt lead ms-2"></i>
@@ -100,7 +100,53 @@
     </div>
     <div class="position-absolute bottom-0 start-0 w-100 bg-light" style="height: 8rem;"></div>
   </section>
+    
+   <%-- WHY WORK WITH US--%>
+            <section class="container pb-5 mb-3 mb-md-4 mb-lg-3 justifyi-content-center">
+        <h2 class="h1 text-center">Why work with us</h2>
+        <div class="row align-items-lg-center">
+          <div class="col-sm-6 col-lg-12 col mt-4">
+            <div class="ps-lg-4 pe-xl-3 mb-2 mt-2 mb-md-2">
+              <div class="text-center text-lg-center pb-2 mb-4 mb-xl-3">
+                <img src="assets/img/services/single/icons/05.svg" class="d-inline-block" width="56" alt="Icon">
+                <h3 class="h4 pt-1 my-2">Competitive Pay</h3>
+                <p class="fs-lg mb-0"> We might be a young business but our compensation is still competitively rich for employees when compared to industry veterans. </p>
+                   <p class="fs-md mb-0"> We understand that our success derives directly from our team which is why we’re committed to the success of our team members. </p>
+              </div>
+           
+            </div>
+        
+              <div class="ps-lg-4 pe-xl-3 mt-lg-5">
+                 <div class="text-center text-lg pb-2 mb-4 mb-xl-3">
+                <img src="assets/img/services/single/icons/02.svg" class="d-inline-block" width="56" alt="Icon">
+                <h3 class="h4 pt-1 my-2">Exciting Growth</h3>
+                <p class="fs-md mb-0">Techlok Solutions is a startup with an exciting growth trajectory.</p>
+                   <p class="fs-lg mb-0">We’ve already cemented ourselves as the quickest-growing and most unique business within the space. </p>
+                        <p class="fs-md mb-0"> When you work with us, you’re getting in on this exciting growth early for a greater return. </p>
+              </div>
+          </div>
+            
+        <%--  <div class="col-sm-6 col-lg-3">
+            
+                  
+                <!--
+              <div class="text-center text-lg-start pb-2 mb-4 mb-xl-5">
+                <img src="assets/img/services/single/icons/01.svg" class="d-inline-block" width="56" alt="Icon">
+                <h3 class="h5 pt-1 my-2">Get Our uniform Dirty</h3>
+                <p class="fs-sm mb-0">Nisiner elit leo aliquam vulputate venenatis pellentesque pulvinar</p>
+              </div>
+              <div class="text-center text-lg-start">
+                <img src="assets/img/services/single/icons/06.svg" class="d-inline-block" width="56" alt="Icon">
+                <h3 class="h5 pt-1 my-2">Choose to Drive Change</h3>
+                <p class="fs-sm mb-0">Pellentesque rhoncus viverra vestibulum, purus purus</p>
+              </div>
 
+            -->
+                </div>--%>
+            </div>
+          </div>
+     
+      </section>
 
   <!-- Branches -->
   <section class="container py-2 py-lg-4 py-xl-5 mb-2 mb-md-3">
