@@ -151,22 +151,22 @@
             </div>
 
             <div class="d-flex align-items-center position-absolute" style="top: 12%; left: 6.5%;">
-              <div class="fs-xl text-white opacity-70 me-3 d-none d-md-block">Anti-Theft Sensor</div>
-              <div class="fs-sm text-white opacity-70 me-2 d-md-none">Anti-Theft Sensor</div>
+              <div class="fs-xl text-white opacity-70 me-3 me-lg-3 me-md-1 d-none d-md-block">Anti-Theft Sensor</div>
+             
               <div class="btn btn-icon btn-primary bg-transparent fs-lg text-white fw-bold rounded-circle pe-none">5</div>
             </div>
 
             <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: 42%; left: 12.8%;">
               <div class="fs-xl text-white opacity-70 me-3 d-none d-md-block">Hammerguard</div>
-              <div class="fs-sm text-white opacity-70 me-2 d-md-none">Hammerguard</div>
+             
               <div class="btn btn-icon btn-primary bg-transparent fs-lg text-white fw-bold rounded-circle pe-none">6</div>
             </div>
 
             <!-- Hotspot -->
             <div class="d-flex align-items-center position-absolute" style="top: 62%; right: 60.5%;">
               <div class="fs-xl text-white opacity-70 me-3 text-end d-none d-md-block">Steel Upright</div>
-              <div class="fs-sm text-white opacity-70 me-2 text-end d-md-none">Steel Upright</div>
+           
               <div class="btn btn-icon btn-primary bg-transparent fs-lg text-white fw-bold rounded-circle pe-none">7</div>
             </div>
 
@@ -174,7 +174,7 @@
             <div class="d-flex align-items-center position-absolute" style="top: 59%; left: 72.5%;">
               <div class="btn btn-icon btn-primary bg-transparent fs-lg text-white fw-bold rounded-circle pe-none">8</div>
               <div class="fs-xl text-white opacity-70 ms-3 d-none d-md-block">Soft Rubber Pads</div>
-              <div class="fs-sm text-white opacity-70 ms-2 d-md-none">Soft Rubber Pads</div>
+             
             </div>
           </div>
         </div>
