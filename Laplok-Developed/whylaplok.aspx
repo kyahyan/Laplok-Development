@@ -42,11 +42,9 @@
               <img src="assets/img/gif/1.gif" class=" d-block rounded-4" alt="Screen" >
             </div>
           </div>
-          <div class="col-md-6 col-lg-5 col-xl-6 offset-xl-1 order-md-1 pb-md-4">
-            <h2 class="pt-3 text-light fs-4">LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement
-that’s skyrocketed over the past few years alone..</h2> 
-               <h2 class="pb-3 text-light fs-4">It&#39;s the ultimate pocket-sized anti-theft device designed to
-conveniently secure your laptop any time, any place.</h2>
+          <div class="col-md-6 col-lg-5 col-xl-6 offset-xl-1 order-md-1 pb-4 pb-lg-4 pb-md-0  pt-lg-5">
+            <h2 class="pb-2 text-light fs-4">LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement that’s skyrocketed over the past few years alone.</h2> 
+               <h2 class="pb-3 text-light fs-4">It&#39;s the ultimate pocket-sized anti-theft device designed to conveniently secure your laptop any time, any place.</h2>
           
           </div>
         </div>
@@ -72,19 +70,13 @@ data aren’t going anywhere - even if you step away for a few minutes here and 
       <section class="bg-secondary pb-md-2 pb-lg-5">
         <div class="d-none d-lg-block"></div>
         <div class="container pb-4 pt-5">
-          <div class="row align-items-center pb-5 mb-lg-2">
-            <div class="col-md-8 text-center text-md-start">
-        
-            </div>
-            
-          </div>
-          <div class="row row-cols-1 row-cols-md-2">
-              
-               <div class="col col-lg-12 col-md-10 ml-lg-5 ps-lg-5 pb-sm-0 pt-sm-0 mt-sm-0 pb-5 text-center">
-                <h1 class="display-5 text-dark pt-sm-2">Why is LapLok so critical?</h1>
-            
-              </div>
+          <div class="row justify-content-center">
+               <div class="col col-lg-12 col-md-10 m-3 mb-5">
+                <h1 class="display-5 text-dark text-center">Why is LapLok so critical?</h1>
+                </div>
+             </div>
             <!-- Item -->
+             <div class="row row-cols-1 row-cols-lg-2 row-cols-md-1 pb-sm-5">
             <div class="col py-4 my-2 my-sm-3">
               <div class="card card-hover h-100 border-0 shadow-sm text-decoration-none pt-5 px-sm-3 px-md-0 px-lg-3 pb-sm-3 pb-md-0 pb-lg-3 me-xl-2">
                 <div class="card-body pt-3">
