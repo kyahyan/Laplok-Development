@@ -288,7 +288,7 @@
         <!-- Nav tabs -->
         <ul class="nav nav-tabs flex-nowrap justify-content-lg-center overflow-auto pb-2 mb-2 mb-lg-2" role="tablist">
           <li class="nav-item" role="presentation">
-            <button class="nav-link text-nowrap active" id="project-management-tab" data-bs-toggle="tab" data-bs-target="#project-management" type="button" role="tab" aria-controls="project-management" aria-selected="true">
+            <button class="nav-link text-nowrap active" id="laplok-tab" data-bs-toggle="tab" data-bs-target="#laplok" type="button" role="tab" aria-controls="laplok" aria-selected="true">
               <i class="bx bx-lock fs-lg opacity-60 me-2"></i>
               Laplok
             </button>
@@ -324,7 +324,7 @@
         <div class="tab-content rounded-3 py-4">
 
           <!-- Project Management -->
-          <div class="tab-pane fade show active" id="project-management" role="tabpanel" aria-labelledby="project-management-tab">
+          <div class="tab-pane fade show active" id="laplok" role="tabpanel" aria-labelledby="laplok-tab">
             <div class="row align-items-lg-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
