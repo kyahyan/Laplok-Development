@@ -43,8 +43,9 @@
             </div>
           </div>
           <div class="col-md-6 col-lg-5 col-xl-6 offset-xl-1 order-md-1 pb-4 pb-lg-4 pb-md-0  pt-lg-5">
-            <h2 class="pb-2 text-light fs-4">LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement that’s skyrocketed over the past few years alone.</h2> 
-               <h2 class="pb-3 text-light fs-4">It&#39;s the ultimate pocket-sized anti-theft device designed to conveniently secure your laptop any time, any place.</h2>
+            <h2 class="pb-2 text-light fs-4">LapLok is bringing security, protection, and safety up to speed 
+                with the work-from-anywhere movement that’s skyrocketed over the past few years alone.</h2> 
+               <h2 class="pb-3 text-light fs-4">It's the ultimate pocket-sized anti-theft device designed to secure your laptop conveniently anytime, anywhere.</h2>
           
           </div>
         </div>
@@ -103,8 +104,7 @@ statistic.</p>
                   <h2 class="h4 d-inline-flex align-items-center">
                     Data Backup
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">If you don’t have automated backup enabled, you could lose all the valuable work on your device when it&#39;s
-stolen. Protect the work you’ve done.</p>
+                  <p class="fs-4 fw-500 text-body mb-0">If you don’t have automated backup enabled, you could lose your device's valuable work when it's stolen. Protect the work you’ve done.</p>
                 </div>
               </div>
             </div>
@@ -135,8 +135,7 @@ than a few seconds to get yours stolen.</p>
                   <h2 class="h4 d-inline-flex align-items-center">
                     Lost Laptops
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">You can easily get fined, punished, and even fired if your company-owned laptop gets stolen. LapLok can
-protect your device and your career.</p>
+                  <p class="fs-4 fw-500 text-body mb-0">You can get fined, punished, and even fired if your company-owned laptop gets stolen.</p>
                 </div>
               </div>
             </div>
@@ -151,8 +150,8 @@ protect your device and your career.</p>
                   <h2 class="h4 d-inline-flex align-items-center">
                     Public Locations
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">Common areas where you’d least expect a theft to occur such as coffee shops and restaurants are the
-highest-targeted locations for laptop theft. Now, you can feel safe anywhere.</p>
+                  <p class="fs-4 fw-500 text-body mb-0">Common areas where you’d least expect a theft to occur, 
+                      such as coffee shops and restaurants, are the highest-targeted locations for laptop theft.</p>
                 </div>
               </div>
             </div>
@@ -167,8 +166,8 @@ highest-targeted locations for laptop theft. Now, you can feel safe anywhere.</p
                   <h2 class="h4 d-inline-flex align-items-center">
                     Cost
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">Laptop theft is expensive. It amounts to roughly 5 billion in annual losses, and it takes around 9 days to
-replace a work laptop.</p>
+                  <p class="fs-4 fw-500 text-body mb-0">Laptop theft is expensive. It amounts to roughly 5 billion in annual losses, 
+                      and it takes around nine (9) days to replace a work laptop. </p>
                 </div>
               </div>
             </div>
