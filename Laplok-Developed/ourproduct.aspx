@@ -324,7 +324,7 @@
         <div class="tab-content rounded-3 py-4">
 
           <!-- Project Management -->
-          <div class="tab-pane fade" id="project-management" role="tabpanel" aria-labelledby="project-management-tab">
+          <div class="tab-pane fade show active" id="project-management" role="tabpanel" aria-labelledby="project-management-tab">
             <div class="row align-items-lg-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
@@ -623,7 +623,7 @@
 
        
             <!--Arm Mount-->
-              <div class="tab-pane fade show active" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab">
+              <div class="tab-pane fade" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab">
             <div class="row align-items-lg-center align-items-md-start  pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
                <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3" >
                 <img src="assets/img/pro-5.png" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
