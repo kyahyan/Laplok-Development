@@ -375,7 +375,7 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                           <p class="fs-lg mb-0">"I have a shared space at work that I haven't been to since COVID-19 began. I like the idea of having a mechanism to secure my laptop when I'm out and about. And, if I go back to the shared office space."</p>
                         </blockquote>
                         <div class="card-footer d-flex align-items-center border-0 pt-0">
-                          <img src="assets/img/avatar/43.png" width="48" class="rounded-circle ms-n1" alt="Robert Fox">
+                          <img src="assets/img/avatar/44.png" width="48" class="rounded-circle ms-n1" alt="Robert Fox">
                           <div class="ps-2 ms-1">
                             <h6 class="fs-base fw-semibold mb-0">STACEY H.</h6>
                           </div>
@@ -402,7 +402,7 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                           <p class="fs-lg mb-0">"LapLok is a handy tool for wherever I want to use my laptop"</p>
                         </blockquote>
                         <div class="card-footer d-flex align-items-center border-0 pt-0">
-                          <img src="assets/img/avatar/44.png" width="48" class="rounded-circle ms-n1" alt="Annette Black">
+                          <img src="assets/img/avatar/43.png" width="48" class="rounded-circle ms-n1" alt="Annette Black">
                           <div class="ps-2 ms-1">
                             <h6 class="fs-base fw-semibold mb-0">CHRIS H.</h6>
                           </div>
