@@ -102,14 +102,14 @@
   </section>
     
    <%-- WHY WORK WITH US--%>
-            <section class="container pb-5 mb-3 mb-md-4 mb-lg-3 justifyi-content-center">
-        <h2 class="h1 text-center">Why work with us</h2>
+            <section class="container pb-5 mb-3 mb-md-4 mb-lg-3 justifyi-content-center mt-3">
+        <h2 class="h1 text-center ">Why work with us</h2>
         <div class="row align-items-lg-center align-items-center">
           <div class="col-sm-6 col-lg-6 col mt-4">
             <div class="ps-lg-4 mb-2 mt-2 mb-md-2">
               <div class="text-center text-lg-center pb-2 mb-4 mb-xl-3">
                 <img src="assets/img/services/single/icons/05.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h4 pt-0 my-2">Competitive Pay</h3>
+                <h3 class="h4 mb-4">Competitive Pay</h3>
                 <p class="fs-md mb-0 text-start">We might be a young business, but our compensation is still competitively rich for employees when compared to industry veterans. 
                     We understand that our success derives directly from our team, which is why we’re committed to the success of our team members. </p>
               </div>
@@ -120,7 +120,7 @@
               <div class="ps-lg-4 mb-2 mt-2 mb-md-2">
              <div class="text-center text-lg-center pb-2 mb-4 mb-xl-3">
                 <img src="assets/img/services/single/icons/02.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h4 pt-0 my-2">Exciting Growth</h3>
+                <h3 class="h4 mb-4">Exciting Growth</h3>
                 <p class="fs-md mb-0 text-start">Techlok Solutions is a startup with an exciting growth trajectory.
                    We’ve already cemented ourselves as the quickest-growing and most unique business within the space.
                     When you work with us, you’re getting in on this exciting growth early for a greater return. 
@@ -166,7 +166,7 @@
           </li>
         </ul>
        
-        <div class="d-flex pt-1 pt-md-3 pt-xl-4">
+       <%-- <div class="d-flex pt-1 pt-md-3 pt-xl-4">
           <a href="#" class="btn btn-icon btn-secondary btn-facebook me-3">
             <i class="bx bxl-facebook"></i>
           </a>
@@ -182,7 +182,7 @@
           <a href="#" class="btn btn-icon btn-secondary btn-linkedin">
             <i class="bx bxl-linkedin"></i>
           </a>
-        </div>
+        </div>--%>
       </div>
     </div>
   </section>
