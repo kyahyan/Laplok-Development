@@ -18,7 +18,7 @@
       </div>
       
       <div class="col-xl-5 col-lg-6 position-relative py-5">
-        <img src="assets/img/landing/conference/hero-bg.png" class="position-absolute top-50 translate-middle-y ms-lg-n4" width="866" alt="Background shapes">
+        <img src="assets/img/landing/conference/hero-bg.png" class="position-absolute top-50 translate-middle-y ms-lg-n4" width="866" alt="Background shapes" style="z-index: -1;">
         <div class="position-relative zindex-5 text-center text-lg-start px-3 px-lg-0 py-xl-4 py-xxl-5 mt-lg-3 mx-auto mx-lg-0" style="max-width: 530px;">
 
           <h1 class="display-4 pb-lg-3 mb-3">How LapLok works</h1>
@@ -45,38 +45,38 @@ knew safety could be this convenient, lightweight, and easy to use? We did!</div
     <h2 id="instruction" class="h1 text-center pb-3 pb-lg-4">Instructions</h2>
 
       <!-- Nav tabs -->
-    <ul  class="nav nav-tabs flex-nowrap justify-content-lg-center overflow-auto pb-2 mb-3 mb-lg-4" role="tablist">
+    <ul  class="nav nav-tabs flex-nowrap justify-content-lg-center justify-content-md-center overflow-auto pb-2 mb-3 mb-lg-4" role="tablist" >
       <li class="nav-item" role="presentation">
-        <a class="nav-link text-nowrap active" id="education-tab" data-bs-toggle="tab" data-bs-target="#education"  role="tab" aria-controls="education" aria-selected="true">
+        <a class="btn nav-link text-nowrap active" id="education-tab" data-bs-toggle="tab" data-bs-target="#education"  role="tab" aria-controls="education" aria-selected="true">
           Step 1
         </a>
       </li>
       <li class="nav-item" role="presentation">
-        <a class="nav-link text-nowrap" id="ecommerce-tab" data-bs-toggle="tab" data-bs-target="#ecommerce"  role="tab" aria-controls="ecommerce" aria-selected="false">
+        <a class="btn nav-link text-nowrap" id="ecommerce-tab" data-bs-toggle="tab" data-bs-target="#ecommerce"  role="tab" aria-controls="ecommerce" aria-selected="false">
           
           Step 2
         </a>
       </li>
       <li class="nav-item" role="presentation">
-        <a class="nav-link text-nowrap" id="sports-tab" data-bs-toggle="tab" data-bs-target="#sports" role="tab" aria-controls="sports" aria-selected="false">
+        <a class="btn nav-link text-nowrap" id="sports-tab" data-bs-toggle="tab" data-bs-target="#sports" role="tab" aria-controls="sports" aria-selected="false">
          
           Step 3
         </a>
       </li>
       <li class="nav-item" role="presentation">
-        <a class="nav-link text-nowrap" id="construction-tab" data-bs-toggle="tab" data-bs-target="#construction" role="tab" aria-controls="construction" aria-selected="false">
+        <a class="btn nav-link text-nowrap" id="construction-tab" data-bs-toggle="tab" data-bs-target="#construction" role="tab" aria-controls="construction" aria-selected="false">
          
           Step 4
         </a>
       </li>
       <li class="nav-item" role="presentation">
-        <a class="nav-link text-nowrap" id="medicine-tab" data-bs-toggle="tab" data-bs-target="#medicine" role="tab" aria-controls="medicine" aria-selected="false">
+        <a class="btn nav-link text-nowrap" id="medicine-tab" data-bs-toggle="tab" data-bs-target="#medicine" role="tab" aria-controls="medicine" aria-selected="false">
         
           Step 5
         </a>
       </li>
       <li class="nav-item" role="presentation">
-        <a class="nav-link text-nowrap" id="real-estate-tab" data-bs-toggle="tab" data-bs-target="#real-estate" role="tab" aria-controls="real-estate" aria-selected="false">
+        <a class="btn nav-link text-nowrap" id="real-estate-tab" data-bs-toggle="tab" data-bs-target="#real-estate" role="tab" aria-controls="real-estate" aria-selected="false">
         
           Step 6
         </a>
