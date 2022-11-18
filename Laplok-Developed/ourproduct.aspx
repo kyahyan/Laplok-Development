@@ -328,7 +328,7 @@
             <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-none d-md-block d-lg-none d-sm-none">LapLok</h2>
+                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">LapLok</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
@@ -412,7 +412,7 @@
             <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro-2.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-none d-md-block d-lg-none d-sm-none">BagLok</h2>
+                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">BagLok</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
@@ -487,7 +487,7 @@
             <div class="row align-items-lg-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
                <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro-3b.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-none d-md-block d-lg-none d-sm-none">Smartphone Holster</h2>
+                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Smartphone Holster</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
@@ -627,7 +627,7 @@
             <div class="row align-items-lg-center align-items-md-start  pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
                <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3" >
                 <img src="assets/img/pro-5.png" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-none d-md-block d-lg-none d-sm-none">Additional Mounting Arm</h2>
+                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Additional Mounting Arm</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
