@@ -10,7 +10,7 @@
           <div class="row justify-content-center pt-3 mt-3">
             <div class="col-xl-6 col-lg-7 col-md-8 col-sm-10 text-center">
               <h1 class="display-3">Privacy Policy</h1>
-              <div class="d-flex justify-content-center">
+             <%-- <div class="d-flex justify-content-center">
                 <a href="https://www.facebook.com/TechlokSolutions" class="btn btn-icon btn-secondary btn-facebook rounded-circle mx-2">
                   <i class="bx bxl-facebook"></i>
                 </a>
@@ -29,7 +29,7 @@
                 <a href="https://www.pinterest.com/Techlok_Solutions/" class="btn btn-icon btn-secondary btn-pinterest rounded-circle mx-2">
                   <i class="bx bxl-pinterest"></i>
                 </a>
-              </div>
+              </div>--%>
             </div>
           </div>
 
