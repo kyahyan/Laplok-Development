@@ -170,14 +170,27 @@
                   <a href="#social-links" class="d-block text-dark dropdown-toggle d-lg-none py-2" data-bs-toggle="collapse">Socials</a>
                 </h6>
                 <div id="social-links" class="collapse d-lg-block" data-bs-parent="#footer-links">
-                  <ul class="nav flex-column mb-2 mb-lg-0">
-                    <li class="nav-item"><a href="https://www.facebook.com/TechlokSolutions" class="nav-link d-inline-block px-0 pt-1 pb-2">Facebook</a></li>
+                  <div class="d-flex pt-md-3 pt-xl-1">
+                   <a class="btn btn-icon btn-secondary btn-facebook me-2" href="https://www.facebook.com/TechlokSolutions"><i class="bx bxl-facebook"></i></a>
+                    <a class="btn btn-icon btn-secondary btn-twitter me-2" href="https://twitter.com/TechlokS"><i class="bx bxl-twitter"></i></a>
+                       <a class="btn btn-icon btn-secondary btn-instagram me-2" href="https://www.instagram.com/techlok_solutions/"> <i class="bx bxl-instagram"></i></a>
+                        </div>
+                      <div class="d-flex pt-md-3 pt-xl-2 pt-2">
+                     <a class="btn btn-icon btn-secondary btn-linkedin me-2" href="https://www.linkedin.com/company/techlok-solutions/"><i class="bx bxl-linkedin"></i></a>
+                    <a class="btn btn-icon btn-secondary btn-pinterest me-2" href="https://www.pinterest.com/Techlok_Solutions/" ><i class='bx bxl-pinterest' ></i></a>
+                   <a class="btn btn-icon btn-secondary btn-youtube me-2" href="https://www.youtube.com/channel/UCMeUf9Yfc6OL10tqxTdzhfA"><i class="bx bxl-youtube"></i></a>
+                  </div>
+                  <%-- 
+                       <ul class="nav flex-column mb-2 mb-lg-0 justify-content-evenly">
+                      <li class="nav-item"><a href="https://www.facebook.com/TechlokSolutions" class="nav-link d-inline-block px-0 pt-1 pb-2">Facebook</a></li>
                     <li class="nav-item"><a href="https://www.linkedin.com/company/techlok-solutions/" class="nav-link d-inline-block px-0 pt-1 pb-2">LinkedIn</a></li>
                     <li class="nav-item"><a href="https://twitter.com/TechlokS" class="nav-link d-inline-block px-0 pt-1 pb-2">Twitter</a></li>
                     <li class="nav-item"><a href="https://www.instagram.com/techlok_solutions/" class="nav-link d-inline-block px-0 pt-1 pb-2">Instagram</a></li>
                     <li class="nav-item"><a href="https://www.pinterest.com/Techlok_Solutions/" class="nav-link d-inline-block px-0 pt-1 pb-2">Pinterest</a></li>
                     <li class="nav-item"><a href="https://www.youtube.com/channel/UCMeUf9Yfc6OL10tqxTdzhfA" class="nav-link d-inline-block px-0 pt-1 pb-2">Youtube</a></li>
-                  </ul>
+                        </ul>--%>
+                
+                
                 </div>
               </div>
             </div>
