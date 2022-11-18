@@ -92,8 +92,8 @@ knew safety could be this convenient, lightweight, and easy to use? We did!</div
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
             <h3 class="mb-lg-4">Install semi-permanent mounting arm</h3>
-            <p>First, ensure that your LapLok has a clean surface to which you can adhere the mounting arm. Clean the device (bottom of the laptop or back of the tablet) with the included alcohol wipe.
-                <br />Clean the device (bottom of the laptop or back of the tablet) with the included alcohol wipe.</p>
+            <p>First, ensure that your LapLok has a clean surface to which you can adhere the mounting arm. 
+                <br /> Clean the device (bottom of the laptop or back of the tablet) with the included alcohol wipe.</p>
             <p>Then, install the semi-permanent adhesive mounting arm.</p>
           
            
