@@ -3,7 +3,7 @@
 
     
    <!-- Links + Contact form -->
-   <section class="position-relative bg-secondary pt-5">
+   <section class="position-relative bg-secondary pt-5 pb-3 pb-lg-0 pb-md-4">
     <div class="container position-relative zindex-2 pt-5">
 
    
@@ -102,7 +102,40 @@
   </section>
     
    <%-- WHY WORK WITH US--%>
-            <section class="container pb-5 mb-3 mb-md-4 mb-lg-3 justifyi-content-center mt-3">
+      <section class="container pb-md-4 pb-sm-4">
+           <h2 class="h1 text-center pb-5">Why Work With Us</h2>
+    <!-- Row 1 -->
+    <div class="row align-items-lg-center pb-5 mb-2 mb-lg-4 mb-xl-5 pt-4">
+      <div class="col-md-6 mb-4 mb-md-0">
+        <img src="assets/img/cpay.jpg" class="rounded-3" alt="Image">
+      </div>
+      <div class="col-md-6">
+        <div class="ps-xl-5 ms-md-2 ms-lg-4">
+          <h2 class="h2 mb-3 mb-sm-4">Competitive Pay</h2>
+          <p class="fs-md fw-500 mb-4 mb-lg-5">We might be a young business, but our compensation is still competitively rich for employees when compared to industry veterans. 
+              We understand that our success derives directly from our team, which is why we’re committed to the success of our team members.</p>
+          
+        </div>
+      </div>
+    </div>
+
+    <!-- Row 2 -->
+    <div class="row align-items-lg-center pt-md-3 pb-5 mb-2 mb-lg-4 mb-xl-5">
+      <div class="col-md-6 order-md-2 mb-4 mb-md-0">
+        <img src="assets/img/growth.jpg" class="rounded-3" alt="Image">
+      </div>
+      <div class="col-md-6 order-md-1">
+        <div class="pe-xl-5 me-md-2 me-lg-4">
+          <h2 class="h2 mb-3 mb-sm-4">Exciting Growth</h2>
+          <p class="fs-md fw-500 mb-3 mb-sm-4">Techlok Solutions is a startup with an exciting growth trajectory. 
+              We’ve already cemented ourselves as the quickest-growing and most unique business within the space. 
+              When you work with us, you’re getting in on this exciting growth early for a greater return. </p>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+           <%-- <section class="container pb-5 mb-3 mb-md-4 mb-lg-3 justifyi-content-center mt-3">
         <h2 class="h1 text-center ">Why work with us</h2>
         <div class="row align-items-lg-center align-items-center">
           <div class="col-sm-6 col-lg-6 col mt-4">
@@ -131,7 +164,7 @@
             </div>
           </div>
      
-      </section>
+      </section>--%>
 
   <!-- Branches -->
   <section class="container py-2 py-lg-4 py-xl-5 mb-2 mb-md-3">
