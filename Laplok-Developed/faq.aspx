@@ -12,7 +12,7 @@
         <div class="col-xl-6 col-lg-7 col-md-8 col-sm-10 text-center">
           <h1 class="mb-4">Get in Touch</h1>
           <p class="fs-lg pb-3 mb-3">To request a quote contact us directly or fill out the form and let us know how we can help.</p>
-          <div class="d-flex justify-content-center">
+       <div class="d-flex justify-content-center">
             <a href="https://www.facebook.com/TechlokSolutions" class="btn btn-icon btn-secondary btn-facebook rounded-circle mx-2">
               <i class="bx bxl-facebook"></i>
             </a>
@@ -58,7 +58,7 @@
               <p class="pb-2 pb-sm-3 mb-3">Please feel free to drop us a line. We will respond as soon as possible.</p>
             </div>
             <div class="card-footer border-0 p-0">
-              <a href="mailto:email@example.com" class="btn btn-lg btn-primary">Send email</a>
+              <a href="mailto:contact-us@Laplok.com" class="btn btn-lg btn-primary">Send email</a>
             </div>
           </div>
           <div class="vr text-border d-none d-sm-inline-block m-4"></div>
