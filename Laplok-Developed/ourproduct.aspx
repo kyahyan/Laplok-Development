@@ -9,7 +9,7 @@
                   <div class="row justify-content-center text-center pb-sm-2 pt-3 pt-md-4 py-lg-5">
                     <div class="col-xl-8 col-lg-9 col-md-10 py-4">
                       <h1 class="display-5 text-light pt-lg-5 pt-sm-5 pb-2 pb-sm-2 mb-3 pt-5">Next Generation Laptop Security</h1>
-                      <h2 class="h4 pb-0 pb-lg-0 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to stay safe and protected while working anywhere, at any time. </h2>
+                      <h2 class="h4 pb-0 pb-lg-0 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to stay safe and protected while working anywhere. </h2>
 
                     </div>
                   </div>
@@ -504,8 +504,8 @@
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Smartphone Holster</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3 pb-lg-2">Keep your phone secure while having it conveniently attached to your laptop. Our anti-theft smartphone holster 
-                    easily hooks onto the side of any laptop and offers an excellent ergonomic display you can use as a second screen while working on your laptop.</p>
+                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3 pb-lg-2">Expand your work screens by having your phone conveniently attached to your laptop. 
+                    Our smartphone holster easily attaches to the side of any laptop and offers a nice ergonomic display you can use as a second screen while using your laptop.</p>
 
                 <div class="border rounded-3 mb-4 mb-lg-4 mt-lg-1 mb-md-5 ">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
@@ -626,7 +626,7 @@
               <div class="tab-pane fade" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab">
             <div class="row align-items-lg-center align-items-md-start  pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
                <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3" >
-                <img src="assets/img/pro-5.png" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
+                <img src="assets/img/pro-5.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
                    <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Additional Mounting Arm</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
@@ -645,9 +645,7 @@
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                  <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Additional Mounting Arm</h2>
-               <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Laplok's mounting arm signature design feature is its cutting-edge swivel arm strap that connects semi-permanently to the bottom of your device. 
-                   Any time you want to connect to the Laplok arm mount, simply swivel out the strap to hook these devices together. <br />
-                   It's simultaneously the most secure and convenient anti-theft device available.</p>
+               <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Have multiple devices you want to secure?  You can purchase additional LapLok arm mounts that connect semi-permanently to the bottom of your device. Any time you want to connect your LapLok, simply swivel out the mount arm to latch into your LapLok. </p>
 
                       <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
