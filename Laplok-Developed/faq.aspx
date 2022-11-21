@@ -102,11 +102,9 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-1" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>The short answer is yes. With our 20+ years of anti-theft & security experience, 
-                    we would only release products that would hold up to the grab-and-go thief. 
+                <p>The short answer is yes. With our 20+ years of anti-theft & security experience, we would only release products that would hold up to the grab-and-go thief. 
                     It’s important to note that anyone can bypass EVERY security product with enough time, talent, and tools. 
-                    We always recommend using common sense when in high-risk scenarios, as taking your device with you is always the most secure solution 
-                    (but not always convenient). We recommend not purchasing LapLok if you do not apply this thinking.</p>
+                    We always recommend using common sense when in high-risk scenarios.</p>
               </div>
             </div>
           </div>
@@ -114,16 +112,14 @@
           <!-- Item -->
           <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
             <h3 class="accordion-header">
-              <button class="accordion-button shadow-none rounded-3 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q-2" aria-expanded="false" aria-controls="q-2">Why did TeckLok create these security products?</button>
+              <button class="accordion-button shadow-none rounded-3 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q-2" aria-expanded="false" aria-controls="q-2">Why did TechLok create these security products?</button>
             </h3>
             <div class="accordion-collapse collapse" id="q-2" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>Like most inventors, we found ourselves in a position where we wanted to work 
-                    remotely from shared working spaces, coffee shops, etc. Still, we found ourselves at a 
-                    crossroads between security & convenience. It was always very secure to take our devices with 
-                    us when we had to take a call, use the restroom, or jump into a meeting. However, it was highly 
-                    inconvenient to shut down and pack up everything, which often resulted in losing our spot. 
-                    This is how TechLok products were born.</p>
+                <p>Like most inventors, we found ourselves in a position where we wanted to work remotely from shared working spaces, coffee shops, etc. 
+                    Still, we found ourselves at a crossroads between security & convenience. 
+                    It was always very secure to take our devices with us when we had to take a call, use the restroom, or jump into a meeting. 
+                    However, it was highly inconvenient to shut down and pack up everything, which often resulted in losing our spot. This is how TechLok products were born.</p>
               </div>
             </div>
           </div>
@@ -135,9 +131,8 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-3" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>We have tested LapLok on dozens of different table types. In regular use, 
-                    LapLok does not cause severe table damage as we use a custom, soft but sturdy rubber 
-                    padding on the foot of the clamp that grips the table.</p>
+                <p>We have tested LapLok on dozens of different table types. 
+                    In regular use, LapLok does not cause severe table damage as we use a custom, soft but sturdy rubber padding on the foot of the clamp that grips the table.</p>
               </div>
             </div>
           </div>
@@ -167,7 +162,7 @@
               <div class="accordion-body fs-sm pt-0">
                 <p>Yes, it does. Laplok is a great product to use in a trade show environment or station,
                     where you want people to fill out the information on a 
-                    tablet but don’t want to keep on monitoring these tablets to prevent possible device theft.</p>
+                    tablet.</p>
               </div>
             </div>
           </div>
@@ -180,7 +175,8 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-6" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>Yes, we do. When you order over 100 LapLoks, you can qualify for a bulk discount. Contact <a class="text-primary" href="mailto:Ryan@LapLok.com">Ryan@LapLok.com</a> for more information.</p>
+                <p>Yes, we do. When you order over 100 LapLoks, you can qualify for a bulk discount. Reach out to us on our contact page link <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click" CssClass="text-primary">here</asp:LinkButton>.</p>
+                  
               </div>
             </div>
           </div>
@@ -193,10 +189,9 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-8" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>You can find LapLok dimensions at the bottom of this product page <a class="text-primary" href="/ourproduct#laplok">https://laplok.azurewebsites.net/ourproduct</a>.
+                <p>You can find LapLok dimensions at the bottom of this product <asp:LinkButton ID="LinkButton2" runat="server" CssClass="text-primary" OnClick="LinkButton2_Click">page</asp:LinkButton>.
                     LapLok is slightly bigger than a full-sized smartphone and weighs just under 1lb. 
-                    Part of our innovative design was to make something substantial but also small & convenient. 
-                    Compact size combined with strength and portability were paramount design criteria.</p>
+                    Part of our innovative design was to make something strong but also small & convenient. </p>
               </div>
             </div>
           </div>
@@ -230,19 +225,32 @@
                 </div>
               </div>
               <!-- Item -->
-              <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+            <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-10" 
-                  aria-expanded="false" aria-controls="q-6">What is your return & warranty policy?</button>
+                  aria-expanded="false" aria-controls="q-10">Where is TechLok located and where are products manufactured?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-10" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
+                    <p>We are located just outside of Detroit in Royal Oak, MI. The founders have been able to keep all design, engineering, legal, and fulfillment services located in Michigan. 
+                        After an exhaustive US search & attempt to build in the US, we partnered with a contract manufacturer in India.</p>
+                  </div>
+                </div>
+              </div>
+             <!-- Item -->
+              <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+                <h3 class="accordion-header">
+                  <button class="accordion-button shadow-none rounded-3 collapsed" 
+                  type="button" data-bs-toggle="collapse" data-bs-target="#q-11" 
+                  aria-expanded="false" aria-controls="q-11">What is your return & warranty policy?</button>
+                </h3>
+                <div class="accordion-collapse collapse" id="q-11" data-bs-parent="#faq">
+                  <div class="accordion-body fs-sm pt-0">
                     <p>We offer a 30-day return policy, no questions asked. 
-                        If you are unhappy with your product, simply fill out the return form, 
-                        which you can find at this link (<a class="text-primary" href="/refund">here</a>). 
-                        We offer a 1-year limited warranty for any product malfunction. 
-                        It’s important to note, like all consumer electronic products (i.e., smartphones), 
+                        If you are unhappy with your product, 
+                        simply fill out the return form, which you can find at this <asp:LinkButton ID="LinkButton3" runat="server" CssClass="text-primary" OnClick="LinkButton1_Click">link</asp:LinkButton>. 
+                        We offer a 1-year limited warranty for any product malfunction. It’s important to note, like all consumer electronic products (i.e., smartphones), 
                         we are not responsible if the user is negligent during usage (water damage, drops from a high distance, etc.)</p>
                   </div>
                 </div>
@@ -251,10 +259,10 @@
               <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
-                  type="button" data-bs-toggle="collapse" data-bs-target="#q-11" 
+                  type="button" data-bs-toggle="collapse" data-bs-target="#q-12" 
                   aria-expanded="false" aria-controls="q-6">What is your shipping policy & do you ship outside of the US?</button>
                 </h3>
-                <div class="accordion-collapse collapse" id="q-11" data-bs-parent="#faq">
+                <div class="accordion-collapse collapse" id="q-12" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
                     <p>We do not charge shipping costs for our products within the continental US. Outside countries are subject to additional shipping costs, which will be calculated individually. We currently ship within North America and plan on further expansion.</p>
                   </div>
@@ -264,25 +272,12 @@
               <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
-                  type="button" data-bs-toggle="collapse" data-bs-target="#q-12" 
-                  aria-expanded="false" aria-controls="q-6">What are the prices for your products?</button>
-                </h3>
-                <div class="accordion-collapse collapse" id="q-12" data-bs-parent="#faq">
-                  <div class="accordion-body fs-sm pt-0">
-                    <p> We offer several different versions of LapLok and have multiple accessories. Each product has a listed product price.</p>
-                  </div>
-                </div>
-              </div>
-              <!-- Item -->
-              <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
-                <h3 class="accordion-header">
-                  <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-13" 
-                  aria-expanded="false" aria-controls="q-6">What customer support options do you have in case I have questions or issues with my LapLok?</button>
+                  aria-expanded="false" aria-controls="q-6">What are the prices for your products?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-13" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> You can email questions to <a class="text-primary" href="mailto:contact-us@Laplok.com">contact-us@Laplok.com</a> and also see our “how to use” LapLok page <a class="text-primary" href="https://www.youtube.com/watch?t=87&v=jDhd0MaBzSw&feature=youtu.be">here.</a></p>
+                    <p> We offer several different versions of LapLok and have multiple accessories. Each product has a listed product price. Kindly check them <a class="text-primary" href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/">here</a>.</p>
                   </div>
                 </div>
               </div>
@@ -291,13 +286,11 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-14" 
-                  aria-expanded="false" aria-controls="q-14">What if I forgot my unique pin code?</button>
+                  aria-expanded="false" aria-controls="q-6">What customer support options do you have in case I have questions or issues with my LapLok?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-14" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p>We require all users to register their pin on our website on this page (<a href="#">link</a>). We can then automatically resend your pin code. 
-                        However, we suggest you store your Pin on your smartphone with your other important passwords. 
-                        We can only remind you of this code if you register. You can also contact the company for advice and assistance in removing the device manually.</p>
+                    <p> You can email questions to <a class="text-primary" href="mailto:contact-us@Laplok.com">contact-us@Laplok.com</a>  and also see our “how to use” LapLok page <asp:LinkButton ID="LinkButton4" runat="server" CssClass="text-primary" OnClick="LinkButton4_Click">here</asp:LinkButton>.</p>
                   </div>
                 </div>
               </div>
@@ -306,11 +299,14 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-15" 
-                  aria-expanded="false" aria-controls="q-6">How do I change my pin code?</button>
+                  aria-expanded="false" aria-controls="q-14">What if I forgot my unique pin code?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-15" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> You can find instructions & videos to change your pin code <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">here. </a></p>
+                    <p>We require all users to register their pin on our website on this page (<asp:LinkButton ID="LinkButton5" runat="server" CssClass="text-primary" OnClick="LinkButton5_Click">link</asp:LinkButton>). We can then automatically resend your pin code. 
+                        However, we suggest you store your Pin on your smartphone with your other important passwords. 
+                        We can only remind you of this code if you register.</p>
+                        <p>If you are unregistered and forget your code, you can visit this link here (registration link) to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
                   </div>
                 </div>
               </div>
@@ -319,11 +315,11 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-16" 
-                  aria-expanded="false" aria-controls="q-6">How do I adjust the volume of my alarm?</button>
+                  aria-expanded="false" aria-controls="q-6">How do I change my pin code?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-16" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p>You can find instructions & videos to change the volume <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">here.</a></p>
+                    <p> You can find instructions & videos to change your pin code here. <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">https://www.youtube.com/watch?v=jDhd0MaBzSw</a></p>
                   </div>
                 </div>
               </div>
@@ -332,14 +328,11 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-17" 
-                  aria-expanded="false" aria-controls="q-6">Does LapLok work with my existing cable lock?</button>
+                  aria-expanded="false" aria-controls="q-6">How do I adjust the volume of my alarm?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-17" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> Yes, we can leverage your existing cable lock by attaching it to your laptop port to LapLok. 
-                        This is an innovative way to put “smart” technology to an old solution to protect laptops. Remember, 
-                        only about 50% of laptops currently sold on the market have a locking slot, 
-                        so there is no alternative option to LapLok if you want device security but do not have a locking slot port.</p>
+                    <p>You can find instructions & videos to change the volume here. <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">https://www.youtube.com/watch?v=jDhd0MaBzSw"</a></p>
                   </div>
                 </div>
               </div>
@@ -348,11 +341,13 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-18" 
-                  aria-expanded="false" aria-controls="q-6">When will your products be available and where can I buy them?</button>
+                  aria-expanded="false" aria-controls="q-6">Does LapLok work with my existing cable lock?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-18" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p>For pre-launch orders, you can buy now at our crowdfunding link here (link). We plan to have our inventory arrive from our factory in February 2023 for wide-scale e-commerce purchasing through traditional online retailers such as Amazon.com.</p>
+                    <p> Yes, we can leverage your existing cable lock by attaching it to your laptop port to LapLok. 
+                        This is an innovative way to put “smart” technology to an old solution to protect laptops. 
+                        Remember, only about 50% of laptops currently sold on the market have a locking slot.</p>
                   </div>
                 </div>
               </div>
@@ -361,16 +356,28 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-19" 
-                  aria-expanded="false" aria-controls="q-6">What if my laptop gets stolen using LapLok?</button>
+                  aria-expanded="false" aria-controls="q-6">When will your products be available and where can I buy them?</button>
                 </h3>
                 <div class="accordion-collapse collapse" id="q-19" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
+                    <p>For pre-launch orders, you can buy now at our crowdfunding link here <a class="text-primary" href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/">https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/</a>.<br />
+                        We plan to have our inventory arrive from our factory in February 2023 for wide-scale e-commerce purchasing through traditional online retailers such as Amazon.com.</p>
+                  </div>
+                </div>
+              </div>
+              <!-- Item -->
+              <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+                <h3 class="accordion-header">
+                  <button class="accordion-button shadow-none rounded-3 collapsed" 
+                  type="button" data-bs-toggle="collapse" data-bs-target="#q-20" 
+                  aria-expanded="false" aria-controls="q-6">What if my laptop gets stolen using LapLok?</button>
+                </h3>
+                <div class="accordion-collapse collapse" id="q-20" data-bs-parent="#faq">
+                  <div class="accordion-body fs-sm pt-0">
                     <p>After many hours of research and legal discussions, 
                         we do not have any extended warranty that can provide a money-back guarantee on the theft of your device. 
-                        In fact, no other laptop anti-theft solution does, as everything can be bypassed with enough time, tools, and talent. 
-                        LapLok was built on practicality and common sense principles, which should be applied when using our products. 
-                        For example, we would never recommend leaving your laptop unattended in a public area like a park picnic table overnight. 
-                        It’s also important to note that you must use LapLok correctly to realize its anti-theft capabilities.</p>
+                        In fact, no other laptop anti-theft solution does, as everything can be bypassed with enough time, tools, and talent.</p>
+                        <p>LapLok was built on practicality and common-sense principles, which should be applied when using our products.</p>
                   </div>
                 </div>
               </div>
@@ -378,12 +385,12 @@
               <div class="accordion-item border-0 rounded-3 shadow-sm">
                 <h3 class="accordion-header">
                   <button class="accordion-button shadow-none rounded-3 collapsed" 
-                  type="button" data-bs-toggle="collapse" data-bs-target="#q-20" 
+                  type="button" data-bs-toggle="collapse" data-bs-target="#q-21" 
                   aria-expanded="false" aria-controls="q-6">Does LapLok void my computer warranty?</button>
                 </h3>
-                <div class="accordion-collapse collapse" id="q-20" data-bs-parent="#faq">
+                <div class="accordion-collapse collapse" id="q-21" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> No, we have inquired with several manufacturers. Because we are on the exterior of the laptop (like a sticker), we do not affect it’s operation. However, you must not install the arm strap over any laptop vents in order to prevent overheating. </p>
+                    <p> No, we have inquired with several manufacturers. Because we are on the laptop's exterior (like a sticker), we do not affect its operation. However, you must not install the arm strap over the laptop vents to prevent overheating. </p>
                   </div>
                 </div>
               </div>

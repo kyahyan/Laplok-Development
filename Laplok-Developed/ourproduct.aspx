@@ -282,7 +282,7 @@
       </section>
       <!-- Service -->
 
-      <section class="container pt-5 pb-2 mt-3 mt-sm-4 mt-xl-5">
+      <section class="container pt-5 pb-2 mt-3 mt-sm-4 mt-xl-5" id="product_information">
         <h2 class="h1 text-center pb-3 pb-lg-4">Product Information</h2>
 
         <!-- Nav tabs -->
