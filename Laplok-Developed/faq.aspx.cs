@@ -18,9 +18,11 @@ namespace Laplok_Developed
 
         protected void LinkButton1_Click(object sender, EventArgs e)
         {
+
+
             if (Response.IsClientConnected == true)
             {
-                Response.Redirect("~/ourproduct#product_information");
+                Response.Redirect("~/contact");
             }
             Response.End();
 

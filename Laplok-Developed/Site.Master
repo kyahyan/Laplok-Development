@@ -170,15 +170,20 @@
                   <a href="#social-links" class="d-block text-dark dropdown-toggle d-lg-none py-2" data-bs-toggle="collapse">Socials</a>
                 </h6>
                 <div id="social-links" class="collapse d-lg-block" data-bs-parent="#footer-links">
-                  <div class="d-flex pt-md-3 pt-xl-1">
-                   <a class="btn btn-icon btn-secondary btn-facebook me-2" href="https://www.facebook.com/TechlokSolutions"><i class="bx bxl-facebook"></i></a>
-                    <a class="btn btn-icon btn-secondary btn-twitter me-2" href="https://twitter.com/TechlokS"><i class="bx bxl-twitter"></i></a>
-                       <a class="btn btn-icon btn-secondary btn-instagram me-2" href="https://www.instagram.com/techlok_solutions/"> <i class="bx bxl-instagram"></i></a>
-                        </div>
-                      <div class="d-flex pt-md-3 pt-xl-2 pt-2">
-                     <a class="btn btn-icon btn-secondary btn-linkedin me-2" href="https://www.linkedin.com/company/techlok-solutions/"><i class="bx bxl-linkedin"></i></a>
-                    <a class="btn btn-icon btn-secondary btn-pinterest me-2" href="https://www.pinterest.com/Techlok_Solutions/" ><i class='bx bxl-pinterest' ></i></a>
-                   <a class="btn btn-icon btn-secondary btn-youtube me-2" href="https://www.youtube.com/channel/UCMeUf9Yfc6OL10tqxTdzhfA"><i class="bx bxl-youtube"></i></a>
+                  <div class=" flex-column pt-md-1 pt-xl-0 align-self-lg-start">
+                     <ul class="nav flex-column mt-0 mb-lg-0 d-lg-block d-none">
+                        <li class="nav-item pt-1 pb-3 text-dark" style="font-weight:500;">Socials</li>
+                         </ul>
+
+                            <ul class="nav flex-row mb-2 mb-lg-0">
+                                
+                                 <li class="nav-item"><a class="btn btn-icon btn-secondary btn-facebook me-2 mb-2" href="https://www.facebook.com/TechlokSolutions"><i class="bx bxl-facebook"></i></a></li>
+                                 <li class="nav-item"><a class="btn btn-icon btn-secondary btn-twitter me-2" href="https://twitter.com/TechlokS"><i class="bx bxl-twitter"></i></a></li>
+                                 <li class="nav-item"><a class="btn btn-icon btn-secondary btn-instagram me-2" href="https://www.instagram.com/techlok_solutions/"> <i class="bx bxl-instagram"></i></a></li>
+                                 <li class="nav-item"><a class="btn btn-icon btn-secondary btn-linkedin me-2" href="https://www.linkedin.com/company/techlok-solutions/"><i class="bx bxl-linkedin"></i></a></li>
+                                 <li class="nav-item"> <a class="btn btn-icon btn-secondary btn-pinterest me-2" href="https://www.pinterest.com/Techlok_Solutions/" ><i class='bx bxl-pinterest' ></i></a></li>
+                                 <li class="nav-item"><a class="btn btn-icon btn-secondary btn-youtube me-2" href="https://www.youtube.com/channel/UCMeUf9Yfc6OL10tqxTdzhfA"><i class="bx bxl-youtube"></i></a></li>
+                            </ul>
                   </div>
                   <%-- 
                        <ul class="nav flex-column mb-2 mb-lg-0 justify-content-evenly">
@@ -233,6 +238,10 @@
          </asp:PlaceHolder>
        
     </form>
- 
+     <script type="text/javascript">
+
+
+</script>
 </body>
+
 </html>
