@@ -332,7 +332,7 @@
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                        <li>Weighs 14oz (just under 1 LB) </li>
+                        <li>Weight 14oz (just under 1 LB) </li>
                         <li>LWH: 4x1.3x7.5”</li>
                         <li style="list-style: none;" class="pt-2">
                             <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
@@ -393,7 +393,7 @@
                   <div class="d-block d-lg-block d-md-none d-sm-block">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                        <li>Weighs 14oz (just under 1 LB) </li>
+                        <li>Weight 14oz (just under 1 LB) </li>
                         <li>LWH: 4x1.3x7.5”</li>
                         <li style="list-style: none;" class="pt-2">
                             <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
@@ -416,7 +416,7 @@
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                       <li>Weighs 14oz</li>
+                       <li>Weight 14oz</li>
                      <li>Length 8”</li>
                         <li style="list-style: none;" class="pt-2">
                             <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
@@ -468,7 +468,7 @@
                 <div class="d-block d-lg-block d-md-none d-sm-block">
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
-                     <li>Weighs 14oz</li>
+                     <li>Weight 14oz</li>
                      <li>Length 8”</li>
                     <li style="list-style: none;" class="pt-2"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
                       <i class="bx bx-cart fs-4 lh-1 me-1"></i>
@@ -631,7 +631,7 @@
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                         <li>Weight 1.23oz</li>
+                         <li>Weight 2.0oz</li>
                     <li>LWH: 5.43
                       x 2.01 x 0.6</li>
                         <li style="list-style: none;" class="pt-2">
@@ -677,7 +677,7 @@
                <div class="d-block d-lg-block d-md-none d-sm-block">
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
-                   <li>Weight 1.23oz</li>
+                   <li>Weight 2.0oz</li>
                     <li>LWH: 5.43
                       x 2.01 x 0.6</li>
                       <li style="list-style: none;" class="pt-2"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
