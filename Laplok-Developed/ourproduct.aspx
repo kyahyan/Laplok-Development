@@ -645,7 +645,8 @@
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                  <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Additional Mounting Arm</h2>
-               <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Have multiple devices you want to secure?  You can purchase additional LapLok arm mounts that connect semi-permanently to the bottom of your device. Any time you want to connect your LapLok, simply swivel out the mount arm to latch into your LapLok. </p>
+               <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Have multiple devices you want to secure? You can purchase additional LapLok arm mounts that connect semi-permanently to the bottom of your device.
+                   <br />Any time you want to connect your LapLok, simply swivel out the mount arm to latch into your LapLok. </p>
 
                       <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
