@@ -18,14 +18,8 @@
 
 
                 <h1 class="fs-4 d-xl-block pb-lg-4 pb-sm-5">Real-world protection when the world is your office</h1>
-                  <p class="fs-5">Airports, cafes, restaurants, high schools, colleges,and even shared workspaces. They're all hotbeds for laptop
-theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
-                  <p class="fs-5">LapLok is a new pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
-
-
-
-
-
+                  <p class="fs-5 pb-2">Airports, cafes, restaurants, high schools, colleges,and even shared workspaces. They're all hotbeds for laptop theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
+                  <p class="fs-5 pb-3">LapLok is a new pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
 
               <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-lg btn-primary">
                 Buy Now!
@@ -127,9 +121,9 @@ alarm volume is adjustable and can be turned off if desired.</p>
               <div class="swiper-slide border-end-lg px-2">
                 <div class="text-center">
                   <i class='bx bxs-shopping-bag d-block mb-4 mx-auto fs-1' style='color:#2078BB'  ></i>
-                  <h4 class="mb-2 pb-1">Available BagLok</h4>
-                  <p class="mx-auto" style="max-width: 336px;">Built-in, tough-as-nails BagLok loop holds your backpack, bag, or purse. BagLok works seamlessly with
-your LapLok and is sold separately.</p>
+                  <h4 class="mb-2 pb-1">Dual Purpose</h4>
+                  <p class="mx-auto" style="max-width: 336px;">Keep your bags safe in addition to your laptop with a built-in BagLok loop. 
+                      It's built-in, tough-as-nails, and easy to handle. Simply loop it around your bag, and you’re ready to go.</p>
                 </div>
               </div>
             <!-- Item -->
@@ -138,8 +132,7 @@ your LapLok and is sold separately.</p>
                 <i class='bx bxs-cog d-block mb-4 mx-auto fs-1' style='color:#2078BB'  ></i>
                 <h4 class="mb-2 pb-1">Portable</h4>
                   <!--<h4 class="mb-2 pb-1">Compact &amp; Lightweight</h4>-->
-                <p class="mx-auto" style="max-width: 336px;">Keep your laptop safe anywhere in the world while remaining flexible and mobile with LapLok&#39;s lightweight
-and compact design. It&#39;s about the size of a smartphone when it’s under 1LB.</p>
+                <p class="mx-auto" style="max-width: 336px;">Keep your laptop safe anywhere in the world while remaining flexible and mobile with LapLok's lightweight and compact design.</p>
               </div>
             </div>
           </div>
@@ -375,7 +368,7 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                           <p class="fs-lg mb-0">"I have a shared space at work that I haven't been to since COVID-19 began. I like the idea of having a mechanism to secure my laptop when I'm out and about. And, if I go back to the shared office space."</p>
                         </blockquote>
                         <div class="card-footer d-flex align-items-center border-0 pt-0">
-                          <img src="assets/img/avatar/44.png" width="48" class="rounded-circle ms-n1" alt="Robert Fox">
+                          <img src="assets/img/avatar/43.png" width="48" class="rounded-circle ms-n1" alt="Robert Fox">
                           <div class="ps-2 ms-1">
                             <h6 class="fs-base fw-semibold mb-0">STACEY H.</h6>
                           </div>
@@ -402,7 +395,7 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                           <p class="fs-lg mb-0">"LapLok is a handy tool for wherever I want to use my laptop"</p>
                         </blockquote>
                         <div class="card-footer d-flex align-items-center border-0 pt-0">
-                          <img src="assets/img/avatar/43.png" width="48" class="rounded-circle ms-n1" alt="Annette Black">
+                          <img src="assets/img/avatar/44.png" width="48" class="rounded-circle ms-n1" alt="Annette Black">
                           <div class="ps-2 ms-1">
                             <h6 class="fs-base fw-semibold mb-0">CHRIS H.</h6>
                           </div>
