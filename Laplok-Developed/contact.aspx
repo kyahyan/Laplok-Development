@@ -102,7 +102,7 @@
   </section>
     
    <%-- WHY WORK WITH US--%>
-      <section class="container pb-md-4 pb-sm-4">
+      <%--<section class="container pb-md-4 pb-sm-4">
            <h2 class="h1 text-center pb-5">Why Work With Us</h2>
     <!-- Row 1 -->
     <div class="row align-items-lg-center pb-5 mb-2 mb-lg-4 mb-xl-5 pt-4">
@@ -134,7 +134,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>--%>
            <%-- <section class="container pb-5 mb-3 mb-md-4 mb-lg-3 justifyi-content-center mt-3">
         <h2 class="h1 text-center ">Why work with us</h2>
         <div class="row align-items-lg-center align-items-center">
@@ -175,7 +175,7 @@
         </div>
       </div>
       
-      <div class="col-lg-5 offset-lg-1">
+      <div class="col-lg-5 offset-lg-1 pt-lg-5">
         <h2 class="h4 mb-4">Main Office</h2>
         <ul class="list-unstyled pb-2 pb-lg-0 mb-4 mb-lg-5">
           <li class="d-flex pb-1 mb-2">
