@@ -197,7 +197,7 @@
           </div>
 
              <!-- Item -->
-             <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+             <!-- <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
               <h3 class="accordion-header">
                 <button class="accordion-button shadow-none rounded-3 collapsed" type="button"
                     data-bs-toggle="collapse" data-bs-target="#q-7" aria-expanded="false" aria-controls="q-6">Does LapLok void my computer warranty?</button>
@@ -208,7 +208,7 @@
                       However, you must only install the arm strap over the laptop vents to prevent overheating.</p>
                 </div>
               </div>
-            </div>
+            </div> -->
 
 
               <!-- Item -->
@@ -390,7 +390,8 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-21" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> No, we have inquired with several manufacturers. Because we are on the laptop's exterior (like a sticker), we do not affect its operation. However, you must not install the arm strap over the laptop vents to prevent overheating. </p>
+                    <p> No, we have inquired with several manufacturers. Because we are on the laptop's exterior (like a sticker), we do not affect its operation. 
+                      However, you must not install the arm strap over the laptop vents to prevent overheating. </p>
                   </div>
                 </div>
               </div>
