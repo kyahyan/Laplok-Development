@@ -16,45 +16,41 @@ namespace Laplok_Developed
         }
 
 
+        protected void Navigate(string pageURL) {
+
+            if (Response.IsClientConnected == true)
+            {
+              Response.Redirect("~/"+pageURL);
+            
+            }
+             Response.End();
+        }
+
         protected void LinkButton1_Click(object sender, EventArgs e)
         {
 
 
-            if (Response.IsClientConnected == true)
-            {
-                Response.Redirect("~/contact");
-            }
-            Response.End();
+            Navigate("contact");
 
 
         }
 
         protected void LinkButton2_Click(object sender, EventArgs e)
         {
-            if (Response.IsClientConnected == true)
-            {
-                Response.Redirect("~/ourproduct#product_information");
-            }
-            Response.End();
+          
+
+            Navigate("ourproduct#product_information");
         }
 
         protected void LinkButton4_Click(object sender, EventArgs e)
         {
-            if (Response.IsClientConnected == true)
-            {
-                Response.Redirect("~/howlaplok");
-            }
-            Response.End();
+            Navigate("howlaplok");
         }
 
         protected void LinkButton5_Click(object sender, EventArgs e)
         {
 
-            if (Response.IsClientConnected == true)
-            {
-                Response.Redirect("~/faq#");
-            }
-            Response.End();
+            Navigate("faq#");
         }
     }
 }
