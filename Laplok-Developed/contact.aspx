@@ -33,7 +33,7 @@
               </div>
               <div class="ps-3 ps-sm-4">
                 <h2 class="h4 pb-1 mb-2 mt-2">Careers</h2>
-                <p class="mb-2">We’re a fast-growing company looking for fantastic people to join our team. Take a look at our open positions below.</p>
+                <p class="mb-2">We’re a fast-growing company always on the lookout for good people. If interested in employment, fill out the contact us form.</p>
                 <div class="btn btn-link btn-lg px-0">
                   Send an application
                   <i class="bx bx-right-arrow-alt lead ms-2"></i>
