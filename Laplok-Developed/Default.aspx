@@ -237,7 +237,7 @@ alarm volume is adjustable and can be turned off if desired.</p>
                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">Take complete control of your passwords with Laplok's built-in password management algorithm. </p>
                         <p class=" d-lg-block pb-1 mb-1 mb-md-1">Say goodbye to
 annoying and inefficient physical keys and hello to advanced and secure cloud password technology.</p>
-                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">You can easily reset &amp; recover passwords when necessary due to employee changes or if a code is
+                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">You can easily record &amp; reset passwords when necessary due to employee changes or if a code is
 forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                   </div>
                 </div>
