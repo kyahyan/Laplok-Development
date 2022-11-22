@@ -90,7 +90,7 @@
                
              
                 <div class="col-12 pt-2 pt-sm-3">
-                  <button class="btn btn-lg btn-primary w-100 w-sm-auto" onclick="onSubmitMessage()">Submit</button>
+                  <button class="btn btn-lg btn-primary w-100 w-sm-auto" <%--onclick="onSubmitMessage()"--%> id="submitBtn">Submit</button>
                 </div>
               </form>
             </div>
@@ -180,7 +180,7 @@
         <ul class="list-unstyled pb-2 pb-lg-0 mb-4 mb-lg-5">
           <li class="d-flex pb-1 mb-2">
             <i class="bx bx-map text-primary fs-xl me-2" style="margin-top: .125rem;"></i>
-            Techlok Solutions, LLC 33717 Woodward Ave.#588 <br /> Birmingham, MI 48009
+            33717 Woodward Ave.#588 <br /> Birmingham, MI 48009
           </li>
           
           <li class="d-flex pb-1 mb-2">
