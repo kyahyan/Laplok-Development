@@ -62,7 +62,7 @@
           <div class="card border-light shadow-lg py-3 p-sm-4 p-md-5">
             <div class="bg-dark position-absolute top-0 start-0 w-100 h-100 rounded-3 d-none d-dark-mode-block"></div>
             <div class="card-body position-relative zindex-2">
-              <h2 class="card-title pb-3 mb-4">Contact us for Custom and Bulk Ordering</h2>
+             <%-- <h2 class="card-title pb-3 mb-4">Contact us for Custom and Bulk Ordering</h2>--%>
               <form class="row g-4 needs-validation" novalidate>
                 <div class="col-12">
                   <label for="fn" class="form-label fs-base">Full name</label>
