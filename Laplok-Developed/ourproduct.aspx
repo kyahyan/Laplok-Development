@@ -407,7 +407,7 @@
 
           <!-- Remote Work -->
           <div class="tab-pane fade" id="remote-work" role="tabpanel" aria-labelledby="remote-work-tab">
-           <div class="row align-items-lg-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
+            <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro-2.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
                    <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Baglok</h2>
@@ -482,8 +482,8 @@
 
           <!-- Product Release -->
           <div class="tab-pane fade" id="product-release" role="tabpanel" aria-labelledby="product-release-tab">
-            <div class="row align-items-lg-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
-               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
+           <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro-3b.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
                    <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Smartphone Holster</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
@@ -502,10 +502,10 @@
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Smartphone Holster</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3 pb-lg-2">Expand your work screens by having your phone conveniently attached to your laptop. 
+                 <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Expand your work screens by having your phone conveniently attached to your laptop. 
                     Our smartphone holster easily attaches to the side of any laptop and offers a nice ergonomic display you can use as a second screen while using your laptop.</p>
 
-                <div class="border rounded-3 mb-4 mb-lg-4 mt-lg-1 mb-md-5 ">
+                <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6">
                       <i class='bx bx-mobile-alt fs-1 opacity-60'></i>
@@ -621,8 +621,8 @@
        
             <!--Arm Mount-->
               <div class="tab-pane fade" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab">
-            <div class="row align-items-lg-center align-items-md-start  pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
-               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3" >
+            <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro-5.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
                    <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Additional Mounting Arm</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
@@ -641,9 +641,9 @@
                   </div>
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
-                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-1 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Additional Mounting Arm</h2>
+                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Additional Mounting Arm</h2>
                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Have multiple devices you want to secure? You can purchase additional LapLok arm mounts that connect semi-permanently to the bottom of your device.
-                   <br />Any time you want to connect your LapLok, simply swivel out the mount arm to latch into your LapLok. </p>
+                   <br />Any time you want to connect your LapLok, simply swivel out the mount arm to latch into your LapLok.</p>
 
                       <div class="border rounded-3 mb-4 mb-lg-4">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
