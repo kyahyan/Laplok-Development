@@ -175,7 +175,7 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-6" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>Yes, we do. When you order over 100 LapLoks, you can qualify for a bulk discount. Reach out to us on our contact page link <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click" CssClass="text-primary">here</asp:LinkButton>.</p>
+                <p>Yes, we do. When you order over 100 LapLoks, you can qualify for a bulk discount. Reach out to us on our contact page link <asp:LinkButton ID="LinkButton1" runat="server" OnClick="To_Contact" CssClass="text-primary">here</asp:LinkButton>.</p>
                   
               </div>
             </div>
@@ -189,7 +189,7 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-8" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>You can find LapLok dimensions at the bottom of this product <asp:LinkButton ID="LinkButton2" runat="server" CssClass="text-primary" OnClick="LinkButton2_Click">page</asp:LinkButton>.
+                <p>You can find LapLok dimensions at the bottom of this <asp:LinkButton ID="LinkButton2" runat="server" CssClass="text-primary" OnClick="To_ProductInfo">product page</asp:LinkButton>.
                     LapLok is slightly bigger than a full-sized smartphone and weighs just under 1lb. 
                     Part of our innovative design was to make something strong but also small & convenient. </p>
               </div>
@@ -249,7 +249,7 @@
                   <div class="accordion-body fs-sm pt-0">
                     <p>We offer a 30-day return policy, no questions asked. 
                         If you are unhappy with your product, 
-                        simply fill out the return form, which you can find at this <asp:LinkButton ID="LinkButton3" runat="server" CssClass="text-primary" OnClick="LinkButton1_Click">link</asp:LinkButton>. 
+                        simply fill out the return form, which you can find <asp:LinkButton ID="LinkButton3" runat="server" CssClass="text-primary" OnClick="To_Refund">here</asp:LinkButton>. 
                         We offer a 1-year limited warranty for any product malfunction. It’s important to note, like all consumer electronic products (i.e., smartphones), 
                         we are not responsible if the user is negligent during usage (water damage, drops from a high distance, etc.)</p>
                   </div>
@@ -277,7 +277,8 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-13" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> We offer several different versions of LapLok and have multiple accessories. Each product has a listed product price. Kindly check them <a class="text-primary" href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/">here</a>.</p>
+                    <p> We offer several different versions of LapLok and have multiple accessories. Each product has a listed product price. Kindly check them <asp:LinkButton ID="LinkButton6" runat="server" CssClass="text-primary" OnClick="To_OurProduct">here</asp:LinkButton>.
+                        <%--<a class="text-primary" href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/">here</a>--%>.</p>
                   </div>
                 </div>
               </div>
@@ -290,7 +291,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-14" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> You can email questions to <a class="text-primary" href="mailto:contact-us@Laplok.com">contact-us@Laplok.com</a>  and also see our “how to use” LapLok page <asp:LinkButton ID="LinkButton4" runat="server" CssClass="text-primary" OnClick="LinkButton4_Click">here</asp:LinkButton>.</p>
+                    <p> You can email questions to <a class="text-primary" href="mailto:contact-us@Laplok.com">contact-us@Laplok.com</a>  and also see our “how to use” LapLok page <asp:LinkButton ID="LinkButton4" runat="server" CssClass="text-primary" OnClick="To_HowLaplok">here</asp:LinkButton>.</p>
                   </div>
                 </div>
               </div>
@@ -303,10 +304,10 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-15" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p>We require all users to register their pin on our website on this page (<asp:LinkButton ID="LinkButton5" runat="server" CssClass="text-primary" OnClick="LinkButton5_Click">link</asp:LinkButton>). We can then automatically resend your pin code. 
+                    <p>We require all users to register their pin on our website on this <asp:LinkButton ID="LinkButton5" runat="server" CssClass="text-primary" OnClick="To_RecordingResetting">page</asp:LinkButton>. We can then automatically resend your pin code. 
                         However, we suggest you store your Pin on your smartphone with your other important passwords. 
                         We can only remind you of this code if you register.</p>
-                        <p>If you are unregistered and forget your code, you can visit this link here (registration link) to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
+                        <p>If you are unregistered and forget your code, you can visit this link <a href="#" class="text-primary">here</a> to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
                   </div>
                 </div>
               </div>
@@ -319,7 +320,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-16" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> You can find instructions & videos to change your pin code here. <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">https://www.youtube.com/watch?v=jDhd0MaBzSw</a></p>
+                    <p> You can find instructions & videos to change your pin code <asp:LinkButton ID="LinkButton7" runat="server" CssClass="text-primary" OnClick="To_HowLaplok">here</asp:LinkButton>.</p>
                   </div>
                 </div>
               </div>
@@ -332,7 +333,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-17" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p>You can find instructions & videos to change the volume here. <a class="text-primary" href="https://www.youtube.com/watch?v=jDhd0MaBzSw">https://www.youtube.com/watch?v=jDhd0MaBzSw"</a></p>
+                    <p>You can find instructions & videos to change the volume   <asp:LinkButton ID="LinkButton8" runat="server" CssClass="text-primary" OnClick="To_HowLaplok">here</asp:LinkButton>.</p>
                   </div>
                 </div>
               </div>
@@ -360,7 +361,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-19" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p>For pre-launch orders, you can buy now at our crowdfunding link here <a class="text-primary" href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/">https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/</a>.<br />
+                    <p>For pre-launch orders, you can buy now at our crowdfunding link <a class="text-primary" href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/">here</a>.<br />
                         We plan to have our inventory arrive from our factory in February 2023 for wide-scale e-commerce purchasing through traditional online retailers such as Amazon.com.</p>
                   </div>
                 </div>
