@@ -22,7 +22,7 @@
                 <h2 class="h4 pb-1 mb-2 mt-2">Email us</h2>
                 <p class="mb-2">Please feel free to drop us a line. We will respond as soon as possible.</p>
                 <div class="btn btn-link btn-lg px-0">
-                  Leave a message
+                  <a class="btn-link text-decoration-none text-primary" href="mailto:contact-us@Laplok.com">Send a message</a>
                   <i class="bx bx-right-arrow-alt lead ms-2"></i>
                 </div>
               </div>
@@ -34,7 +34,7 @@
               <div class="ps-3 ps-sm-4">
                 <h2 class="h4 pb-1 mb-2 mt-2">Careers</h2>
                 <p class="mb-2">We’re a fast-growing company always on the lookout for good people. If interested in employment, fill out the contact us form.</p>
-                <div class="btn btn-link btn-lg px-0">
+                <div class="text-primary fw-medium btn-lg px-0">
                   Send an application
                   <i class="bx bx-right-arrow-alt lead ms-2"></i>
                 </div>
