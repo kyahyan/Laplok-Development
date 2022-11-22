@@ -332,9 +332,9 @@
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                        <li class="pb-md-3">Weight 14oz (just under 1 LB) </li>
-                        <li class="pb-md-3">LWH: 4x1.3x7.5”</li>
-                        <li style="list-style: none;" class="pt-3">
+                        <li>Weight 14oz (just under 1 LB) </li>
+                        <li>LWH: 4x1.3x7.5”</li>
+                        <li style="list-style: none;" class="pt-2 pt-md-4">
                             <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 ms-n4" target="_blank" rel="noopener">
                             <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                             <span>&nbsp;Buy now</span>
@@ -393,14 +393,12 @@
                   <div class="d-block d-lg-block d-md-none d-sm-block">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                        <li class="pb-3">Weight 14oz (just under 1 LB) </li>
-                        <li class="pb-3">LWH: 4x1.3x7.5”</li>
-                        <li style="list-style: none;" class="pt-3">
-                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
-                            <i class="bx bx-cart fs-4 lh-1 me-1"></i>
-                            <span>&nbsp;Buy now</span>
-                            </a>
-                        </li>
+                        <li>Weight 14oz (just under 1 LB) </li>
+                        <li>LWH: 4x1.3x7.5”</li>
+                        <li class="mt-4 ms-n4 list-unstyled"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
+                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                        &nbsp;Buy now
+                      </a></li>
                     </ul>
                   </div>
               </div>
@@ -409,22 +407,23 @@
 
           <!-- Remote Work -->
           <div class="tab-pane fade" id="remote-work" role="tabpanel" aria-labelledby="remote-work-tab">
-            <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
+           <div class="row align-items-lg-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro-2.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">BagLok</h2>
+                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Baglok</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
-                    <ul>
-                       <li class="pb-3">Weight 2oz</li>
-                     <li class="pb-3">Length 8”</li>
+                  <ul>
+                        <li>Weight 2oz</li>
+                        <li>Length 8"</li>
                         <li style="list-style: none;" class="pt-2">
-                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
+                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 mt-3 ms-n4" target="_blank" rel="noopener">
                             <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                             <span>&nbsp;Buy now</span>
                             </a>
                         </li>
                     </ul>
+
                   </div>
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
@@ -432,7 +431,7 @@
                 <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Anywhere your laptop goes, your bag follows closely behind. 
                     That's why we've designed a committed, high-tech, and secure anti-theft device for your bag that hooks directly onto our LapLok device for the ultimate security functionality. </p>
 
-                <div class="border rounded-3 mb-4 mb-lg-4 mt-lg-1 mb-md-5">
+                <div class="border rounded-3 mb-4 mb-lg-3 mb-md-1">
                   <div class="row row-cols-1 row-cols-sm-2 g-0">
                     <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
                       <i class="bx bx-check-circle fs-1 opacity-60 me-2"></i>
@@ -465,17 +464,15 @@
                     </div>
                   </div>
                 </div>
-                <div class="d-block d-lg-block d-md-none d-sm-block">
+                <div class="d-block d-lg-block d-md-none d-sm-block pt-1">
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
-                     <li class="pb-3">Weight 2oz</li>
-                     <li class="pb-3">Length 8”</li>
-                    <li style="list-style: none;" class="pt-2">
-                        <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
-                      <i class="bx bx-cart fs-4 lh-1 me-1"></i>
-                      &nbsp;Buy now
-                    </a>
-                  </li>
+                     <li>Weight 2oz</li>
+                     <li>Length 8”</li>
+                     <li class="mt-4 ms-n4 list-unstyled"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
+                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                        &nbsp;Buy now
+                      </a></li>
                 </ul>
                </div>
               </div>
@@ -492,10 +489,10 @@
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                        <li class="pb-3">Weight 1.23oz</li>
-                        <li class="pb-3">LWH: 5.43 x 2.01 x 0.6</li>
+                        <li>Weight 1.23oz</li>
+                        <li>LWH: 5.43 x 2.01 x 0.6</li>
                         <li style="list-style: none;" class="pt-2">
-                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
+                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 mt-3 ms-n4" target="_blank" rel="noopener">
                             <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                             <span>&nbsp;Buy now</span>
                             </a>
@@ -537,14 +534,13 @@
                <div class="d-block d-lg-block d-md-none d-sm-block">
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
-                    <li class="pb-3">Weight 1.23oz</li>
-                    <li class="pb-3">LWH: 5.43
+                    <li>Weight 1.23oz</li>
+                    <li>LWH: 5.43
                       x 2.01 x 0.6</li>
-                      <li style="list-style: none;" class="pt-2"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
+                      <li class="mt-4 ms-n4 list-unstyled"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
                         <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                         &nbsp;Buy now
-                      </a>
-                    </li>
+                      </a></li>
                 </ul>
                 </div>
               </div>
@@ -560,8 +556,8 @@
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                         <li class="pb-3">Weight 1.23oz</li>
-                    <li class="pb-3">LWH: 5.43
+                         <li>Weight 1.23oz</li>
+                    <li>LWH: 5.43
                       x 2.01 x 0.6</li>
                         <li style="list-style: none;" class="pt-2">
                             <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
@@ -608,8 +604,8 @@
                <div class="d-block d-lg-block d-md-none d-sm-block">
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
-                   <li class="pb-3">Weight 1.23oz</li>
-                    <li class="pb-3">LWH: 5.43
+                   <li>Weight 1.23oz</li>
+                    <li>LWH: 5.43
                       x 2.01 x 0.6</li>
                       <li style="list-style: none;" class="pt-2"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
                         <i class="bx bx-cart fs-4 lh-1 me-1"></i>
@@ -632,11 +628,11 @@
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
-                         <li class="pb-3">Weight 2.0oz</li>
-                    <li class="pb-3">LWH: 5.43
+                         <li>Weight 2.0oz</li>
+                    <li>LWH: 5.43
                       x 2.01 x 0.6</li>
-                        <li style="list-style: none;" class="pt-2">
-                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
+                        <li style="list-style: none;" class="pt-4">
+                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 ms-n4" target="_blank" rel="noopener">
                             <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                             <span>&nbsp;Buy now</span>
                             </a>
@@ -645,7 +641,7 @@
                   </div>
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
-                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Additional Mounting Arm</h2>
+                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-1 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Additional Mounting Arm</h2>
                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Have multiple devices you want to secure? You can purchase additional LapLok arm mounts that connect semi-permanently to the bottom of your device.
                    <br />Any time you want to connect your LapLok, simply swivel out the mount arm to latch into your LapLok. </p>
 
@@ -678,14 +674,14 @@
                <div class="d-block d-lg-block d-md-none d-sm-block">
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
-                   <li class="pb-3">Weight 2.0oz</li>
-                    <li class="pb-3">LWH: 5.43
+                   <li>Weight 2.0oz</li>
+                    <li>LWH: 5.43
                       x 2.01 x 0.6</li>
-                      <li style="list-style: none;" class="pt-2"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
+                  <li class="mt-4 ms-n4 list-unstyled"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
                         <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                         &nbsp;Buy now
-                      </a>
-                    </li>
+                      </a></li>
+             
                 </ul>
                 </div>
               </div>
