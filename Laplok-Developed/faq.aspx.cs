@@ -16,58 +16,58 @@ namespace Laplok_Developed
         }
 
 
-        protected void Navigate(string pageURL) {
+        //protected void Navigate(string pageURL) {
 
-            if (Response.IsClientConnected == true)
-            {
-              Response.Redirect("~/"+pageURL);
+        //    if (Response.IsClientConnected == true)
+        //    {
+        //      Response.Redirect("~/"+pageURL);
             
-            }
-             Response.End();
-        }
+        //    }
+        //     Response.End();
+        //}
 
-        protected void To_Contact(object sender, EventArgs e)
-        {
-
-
-            Navigate("contact");
+        //protected void To_Contact(object sender, EventArgs e)
+        //{
 
 
-        }
+        //    Navigate("contact");
 
-        protected void To_ProductInfo(object sender, EventArgs e)
-        {
+
+        //}
+
+        //protected void To_ProductInfo(object sender, EventArgs e)
+        //{
           
 
-            Navigate("ourproduct#product_information");
-        }
+        //    Navigate("ourproduct#product_information");
+        //}
 
        
-        protected void To_Terms(object sender, EventArgs e)
-        {
-            Navigate("terms-services");
-        }
+        //protected void To_Terms(object sender, EventArgs e)
+        //{
+        //    Navigate("terms-services");
+        //}
 
-        protected void To_Refund(object sender, EventArgs e)
-        {
-            Navigate("refund");
-        }
+        //protected void To_Refund(object sender, EventArgs e)
+        //{
+        //    Navigate("refund");
+        //}
 
-        protected void To_HowLaplok(object sender, EventArgs e)
-        {
-            Navigate("howlaplok");
-        }
+        //protected void To_HowLaplok(object sender, EventArgs e)
+        //{
+        //    Navigate("howlaplok");
+        //}
 
-        protected void To_RecordingResetting(object sender, EventArgs e)
-        {
+        //protected void To_RecordingResetting(object sender, EventArgs e)
+        //{
 
-            Navigate("recordingandresetting");
-        }
+        //    Navigate("recordingandresetting");
+        //}
 
 
-        protected void To_OurProduct(object sender, EventArgs e)
-        {
-            Navigate("ourproduct");
-        }
+        //protected void To_OurProduct(object sender, EventArgs e)
+        //{
+        //    Navigate("ourproduct");
+        //}
     }
 }
