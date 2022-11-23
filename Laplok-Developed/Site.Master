@@ -127,7 +127,8 @@
               <img src="assets/img/logo/logo-light.png" width="190" alt="">
               OUR STORY
             </div>
-            <p class="fs-sm pb-lg-3 mb-4">TechLok was born of the necessity for a modern approach to securing electronics and valuables outside of the office. The LapLok mission is simple: to combat grab & go theft with simple, convenient solutions.</p>
+            <p class="fs-sm pb-lg-3 mb-4">A modern world needs modern solutions. Techlok is the new way to secure your electronics and valuables to prevent grab-and-go theft. 
+                We are creating a world where theft is harder, and safety is easier. </p>
             <form class="needs-validation pe-sm-1" novalidate>
               <label for="subscr-email" class="form-label">Subscribe to our newsletter</label>
               <div class="input-group">
