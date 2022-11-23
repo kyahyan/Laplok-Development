@@ -3683,6 +3683,10 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="donotsell.aspx" />
+    <Content Include="Errors\Forbidden.aspx" />
+    <Content Include="Errors\InternalError.aspx" />
+    <Content Include="Errors\Maintenance.aspx" />
+    <Content Include="Errors\Unauthorized.aspx" />
     <Content Include="faq.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -4194,6 +4198,7 @@
     <Content Include="assets\vendor\vanilla-tilt\LICENSE" />
     <Content Include="assets\vendor\vanilla-tilt\package.json" />
     <Content Include="assets\vendor\vanilla-tilt\README.md" />
+    <Content Include="Errors\PageNotFound.aspx" />
     <Content Include="whylaplok.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="howlaplok.aspx" />
@@ -4267,6 +4272,34 @@
     <Compile Include="donotsell.aspx.designer.cs">
       <DependentUpon>donotsell.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Errors\Forbidden.aspx.cs">
+      <DependentUpon>Forbidden.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Errors\Forbidden.aspx.designer.cs">
+      <DependentUpon>Forbidden.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Errors\InternalError.aspx.cs">
+      <DependentUpon>InternalError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Errors\InternalError.aspx.designer.cs">
+      <DependentUpon>InternalError.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Errors\Maintenance.aspx.cs">
+      <DependentUpon>Maintenance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Errors\Maintenance.aspx.designer.cs">
+      <DependentUpon>Maintenance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Errors\Unauthorized.aspx.cs">
+      <DependentUpon>Unauthorized.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Errors\Unauthorized.aspx.designer.cs">
+      <DependentUpon>Unauthorized.aspx</DependentUpon>
+    </Compile>
     <Compile Include="faq.aspx.cs">
       <DependentUpon>faq.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -4290,6 +4323,13 @@
     </Compile>
     <Compile Include="login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Errors\PageNotFound.aspx.cs">
+      <DependentUpon>PageNotFound.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Errors\PageNotFound.aspx.designer.cs">
+      <DependentUpon>PageNotFound.aspx</DependentUpon>
     </Compile>
     <Compile Include="ourproduct.aspx.cs">
       <DependentUpon>ourproduct.aspx</DependentUpon>
