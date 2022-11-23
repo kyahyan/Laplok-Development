@@ -15,10 +15,6 @@
                   </div>
                 </div>
             </section>
-
-
-
-
       <section class="container pb-2 pb-lg-3 pt-3">
 
         <!-- Item -->
@@ -110,9 +106,9 @@
           <div class="container zindex-5 pt-5">
             <div class="row justify-content-center text-center pt-4 pb-sm-1 py-lg-5">
               <div class="col-xl-8 col-lg-9 col-md-10 py-5 lh-3">
-                <div class="display-5 text-light pt-sm-1 pb-1 pb-sm-3 mb-3 h1">Keep your laptop secure &amp; protected <br />wherever you work</div>
-                <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">Combat grab-and-go theft with simple, convenient solutions.</p>
-                <p class="fs-xl text-light opacity-70 pb-3 pb-sm-1 mb-4 mb-sm-3 ">We believe in security solutions that help others and help make the world a better place.</p>
+                <div class="display-5 text-light pt-sm-1 pb-1 pb-sm-3 mb-3 h1">Is your laptop safe?</div>
+                <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">The short answer: No. That’s why you need Laplok!</p>
+                <p class="fs-xl text-light opacity-70 pb-3 pb-sm-1 mb-4 mb-sm-3 ">Keep your laptop secure and combat grab-and-go theft no matter where you are.</p>
 
               </div>
             </div>
