@@ -312,7 +312,7 @@
                       We can then automatically resend your pin code. 
                         However, we suggest you store your Pin on your smartphone with your other important passwords. 
                         We can only remind you of this code if you register.</p>
-                        <p>If you are unregistered and forget your code, you can visit this link <a href="#" class="text-primary">here</a> to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
+                        <p>If you are unregistered and forget your code, you can visit this link <a href="/registration" class="text-primary">here</a> to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
                   </div>
                 </div>
               </div>
