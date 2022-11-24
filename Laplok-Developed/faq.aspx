@@ -279,7 +279,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-13" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p> We offer several different versions of LapLok and have multiple accessories. Each product has a listed product price. Kindly check them <a class="text-primary" href="/ourproduct">here</a>.
+                    <p> We offer several different versions of LapLok and have multiple accessories. Each product has a listed product price. Kindly check them <a class="text-primary" href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/">here</a>.
                      
                         </p>
                   </div>
@@ -308,7 +308,7 @@
                 </h3>
                 <div class="accordion-collapse collapse" id="q-15" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
-                    <p>We require all users to register their pin on our website on this <a class="text-primary" href="/howlaplok">page</a>.
+                    <p>We require all users to register their pin on our website on this <a class="text-primary" href="/recordingandresetting">page</a>.
                       We can then automatically resend your pin code. 
                         However, we suggest you store your Pin on your smartphone with your other important passwords. 
                         We can only remind you of this code if you register.</p>
