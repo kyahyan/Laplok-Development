@@ -22,7 +22,7 @@
                 <h2 class="h4 pb-1 mb-2 mt-2">Email us</h2>
                 <p class="mb-2">Please feel free to drop us a line. We will respond as soon as possible.</p>
                 <div class="btn btn-link btn-lg px-0">
-                  <a class="btn-link text-decoration-none text-primary" href="mailto:contact-us@Laplok.com">Send a message</a>
+                  <a class="btn-link text-decoration-none text-primary" href="mailto:contact-us@laplok.com">Send a message</a>
                   <i class="bx bx-right-arrow-alt lead ms-2"></i>
                 </div>
               </div>
@@ -45,7 +45,7 @@
                 <i class="bx bx-cog"></i>
               </div>
               <div class="ps-3 ps-sm-4">
-                <h2 class="h4 pb-1 mb-2 mt-2">Logoed Laploks Available</h2>
+                <h2 class="h4 pb-1 mb-2 mt-2">Logoed LapLoks Available</h2>
                 
                 <img src="assets/img/portfolio/list/10.png" class="w-75" alt="Image">
               </div>
@@ -101,71 +101,7 @@
     <div class="position-absolute bottom-0 start-0 w-100 bg-light" style="height: 8rem;"></div>
   </section>
     
-   <%-- WHY WORK WITH US--%>
-      <%--<section class="container pb-md-4 pb-sm-4">
-           <h2 class="h1 text-center pb-5">Why Work With Us</h2>
-    <!-- Row 1 -->
-    <div class="row align-items-lg-center pb-5 mb-2 mb-lg-4 mb-xl-5 pt-4">
-      <div class="col-md-6 mb-4 mb-md-0">
-        <img src="assets/img/cpay.jpg" class="rounded-3" alt="Image">
-      </div>
-      <div class="col-md-6">
-        <div class="ps-xl-5 ms-md-2 ms-lg-4">
-          <h2 class="h2 mb-3 mb-sm-4">Competitive Pay</h2>
-          <p class="fs-md fw-500 mb-4 mb-lg-5">We might be a young business, but our compensation is still competitively rich for employees when compared to industry veterans. 
-              We understand that our success derives directly from our team, which is why we’re committed to the success of our team members.</p>
-          
-        </div>
-      </div>
-    </div>
-
-    <!-- Row 2 -->
-    <div class="row align-items-lg-center pt-md-3 pb-5 mb-2 mb-lg-4 mb-xl-5">
-      <div class="col-md-6 order-md-2 mb-4 mb-md-0">
-        <img src="assets/img/growth.jpg" class="rounded-3" alt="Image">
-      </div>
-      <div class="col-md-6 order-md-1">
-        <div class="pe-xl-5 me-md-2 me-lg-4">
-          <h2 class="h2 mb-3 mb-sm-4">Exciting Growth</h2>
-          <p class="fs-md fw-500 mb-3 mb-sm-4">Techlok Solutions is a startup with an exciting growth trajectory. 
-              We’ve already cemented ourselves as the quickest-growing and most unique business within the space. 
-              When you work with us, you’re getting in on this exciting growth early for a greater return. </p>
-          
-        </div>
-      </div>
-    </div>
-  </section>--%>
-           <%-- <section class="container pb-5 mb-3 mb-md-4 mb-lg-3 justifyi-content-center mt-3">
-        <h2 class="h1 text-center ">Why work with us</h2>
-        <div class="row align-items-lg-center align-items-center">
-          <div class="col-sm-6 col-lg-6 col mt-4">
-            <div class="ps-lg-4 mb-2 mt-2 mb-md-2">
-              <div class="text-center text-lg-center pb-2 mb-4 mb-xl-3">
-                <img src="assets/img/services/single/icons/05.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h4 mb-4">Competitive Pay</h3>
-                <p class="fs-md mb-0 text-start">We might be a young business, but our compensation is still competitively rich for employees when compared to industry veterans. 
-                    We understand that our success derives directly from our team, which is why we’re committed to the success of our team members. </p>
-              </div>
-           
-            </div>
-            </div>
-          <div class="col-sm-6 col-lg-6 col mt-4">
-              <div class="ps-lg-4 mb-2 mt-2 mb-md-2">
-             <div class="text-center text-lg-center pb-2 mb-4 mb-xl-3">
-                <img src="assets/img/services/single/icons/02.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h4 mb-4">Exciting Growth</h3>
-                <p class="fs-md mb-0 text-start">Techlok Solutions is a startup with an exciting growth trajectory.
-                   We’ve already cemented ourselves as the quickest-growing and most unique business within the space.
-                    When you work with us, you’re getting in on this exciting growth early for a greater return. 
-                </p>
-              </div>
-          </div>
-            
-            </div>
-          </div>
-     
-      </section>--%>
-
+  
   <!-- Branches -->
   <section class="container py-2 py-lg-4 py-xl-5 mb-2 mb-md-3">
     <div class="row py-5">

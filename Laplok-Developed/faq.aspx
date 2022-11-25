@@ -160,7 +160,7 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-5" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>Yes, it does. Laplok is a great product to use in a trade show environment or station,
+                <p>Yes, it does. LapLok is a great product to use in a trade show environment or station,
                     where you want people to fill out the information on a 
                     tablet.</p>
               </div>
@@ -312,7 +312,7 @@
                       We can then automatically resend your pin code. 
                         However, we suggest you store your Pin on your smartphone with your other important passwords. 
                         We can only remind you of this code if you register.</p>
-                        <p>If you are unregistered and forget your code, you can visit this link <a href="/registration" class="text-primary">here</a> to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
+                        <p>If you are unregistered and forget your code, you can visit this link <a href="/recordingandresetting" class="text-primary">here</a> to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
                   </div>
                 </div>
               </div>

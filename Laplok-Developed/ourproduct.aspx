@@ -107,7 +107,7 @@
             <div class="row justify-content-center text-center pt-4 pb-sm-1 py-lg-5">
               <div class="col-xl-8 col-lg-9 col-md-10 py-5 lh-3">
                 <div class="display-5 text-light pt-sm-1 pb-1 pb-sm-3 mb-3 h1">Is your laptop safe?</div>
-                <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">The short answer: No. That’s why you need Laplok!</p>
+                <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">The short answer: No. That’s why you need LapLok!</p>
                 <p class="fs-xl text-light opacity-70 pb-3 pb-sm-1 mb-4 mb-sm-3 ">Keep your laptop secure and combat grab-and-go theft no matter where you are.</p>
 
               </div>
@@ -286,13 +286,13 @@
           <li class="nav-item" role="presentation">
             <button class="nav-link text-nowrap active" id="laplok-tab" data-bs-toggle="tab" data-bs-target="#laplok" type="button" role="tab" aria-controls="laplok" aria-selected="true">
               <i class="bx bx-lock fs-lg opacity-60 me-2"></i>
-              Laplok
+              LapLok
             </button>
           </li>
           <li class="nav-item" role="presentation">
             <button class="nav-link text-nowrap" id="remote-work-tab" data-bs-toggle="tab" data-bs-target="#remote-work" type="button" role="tab" aria-controls="remote-work" aria-selected="false">
               <i class="bx bx-briefcase-alt-2 fs-lg opacity-60 me-2"></i>
-              Baglok
+              BagLok
             </button>
           </li>
           <li class="nav-item" role="presentation">
@@ -301,12 +301,6 @@
               Smartphone Holster
             </button>
           </li>
-         <%-- <li class="nav-item" role="presentation">
-            <button class="nav-link text-nowrap" id="product-release-tab2" data-bs-toggle="tab" data-bs-target="#port-lok" type="button" role="tab" aria-controls="product-release" aria-selected="false">
-              <i class="bx bxs-lock fs-lg opacity-60 me-2"></i>
-             Portlok
-            </button>
-          </li>--%>
           <li class="nav-item" role="presentation">
             <button class="nav-link text-nowrap" id="product-release-tab3" data-bs-toggle="tab" data-bs-target="#connecting-arm" type="button" role="tab" aria-controls="product-release" aria-selected="false">
               <i class="bx bx-stats fs-lg opacity-60 me-2"></i>
@@ -406,7 +400,7 @@
             <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro-2.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">Baglok</h2>
+                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">BagLok</h2>
                   <div class="d-none d-lg-none d-md-block pt-md-3">
                     <h1 class="h4">Weight & Dimensions:</h1>
                   <ul>
@@ -542,79 +536,6 @@
               </div>
             </div>
           </div>
-
-          <!--Portlok-->
-           <%--  <div class="tab-pane fade" id="port-lok" role="tabpanel" aria-labelledby="product-release-tab">
-            <div class="row align-items-lg-center align-items-md-start  pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
-               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3" >
-                <img src="assets/img/pro-4.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image" style="border: 1px solid black;">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-none d-md-block d-lg-none d-sm-none">Portlok</h2>
-                  <div class="d-none d-lg-none d-md-block pt-md-3">
-                    <h1 class="h4">Weight & Dimensions:</h1>
-                    <ul>
-                         <li>Weight 1.23oz</li>
-                    <li>LWH: 5.43
-                      x 2.01 x 0.6</li>
-                        <li style="list-style: none;" class="pt-2">
-                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 pt-3 pb-3 ps ms-n4" target="_blank" rel="noopener">
-                            <i class="bx bx-cart fs-4 lh-1 me-1"></i>
-                            <span>&nbsp;Buy now</span>
-                            </a>
-                        </li>
-                    </ul>
-                  </div>
-              </div>
-              <div class="col-lg-6 col-md-5 pe-5">
-                <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">Portlok</h2>
-                <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Secure your laptop through the lock slot when the LapLok arm strap doesn't cut it. 
-                    This way, you can work comfortably in any environment with the peace of mind of knowing your laptop is secure. 
-                    Portlok is just as protective as its larger counterpart but comes in a pinch when the LapLok doesn't function.
-</p>
-
-                    <div class="border rounded-3 mb-4 mb-lg-4 mt-lg-1 mb-md-5">
-                  <div class="row row-cols-1 row-cols-sm-2 g-0">
-                    <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6">
-                      <i class='bx bx-user-check fs-1'></i>
-                      <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Ergonomic</h3>
-                        <p class="fs-xs2 mb-0">Easy to set up in just a few minutes</p>
-                      </div>
-                    </div>
-                    <div class="col d-flex align-items-center border-bottom p-3 col-md-12 col-sm-12 col-lg-6">
-                      <i class='bx bx-check-shield fs-1'></i>
-                      <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Protection</h3>
-                        <p class="fs-xs2 mb-0">Offers world-class anti-theft security features</p>
-                      </div>
-                    </div>
-                    <div class="col d-flex align-items-center  p-3">
-                      <i class='bx bx-laptop fs-1'></i>
-                      <div class="ps-2 ms-1">
-                        <h3 class="h6 mb-0">Compatibility</h3>
-                        <p class="fs-xs2 mb-0">Works with the vast majority of laptops with lock slots</p>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-               <div class="d-block d-lg-block d-md-none d-sm-block">
-                <h1 class="h4">Weight & Dimensions:</h1>
-                <ul>
-                   <li>Weight 1.23oz</li>
-                    <li>LWH: 5.43
-                      x 2.01 x 0.6</li>
-                      <li style="list-style: none;" class="pt-2"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4" target="_blank" rel="noopener">
-                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
-                        &nbsp;Buy now
-                      </a>
-                    </li>
-                </ul>
-                </div>
-              </div>
-            </div>
-          </div>--%>
-
-       
             <!--Arm Mount-->
               <div class="tab-pane fade" id="connecting-arm" role="tabpanel" aria-labelledby="product-release-tab">
             <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">

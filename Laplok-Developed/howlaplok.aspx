@@ -173,7 +173,7 @@ knew safety could be this convenient, lightweight, and easy to use? We did!</div
       <div class="tab-pane fade" id="real-estate" role="tabpanel" aria-labelledby="real-estate-tab">
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
-            <h3 class="mb-lg-4">Pull the top Laplok down to secure</h3>
+            <h3 class="mb-lg-4">Pull the top LapLok down to secure</h3>
             <p>When your LapLok is in place, pull it down to secure it. It's that easy.</p>
                <a class="btn btn-primary btnPrevious">Back</a>
           </div>

@@ -56,7 +56,7 @@
           <div class="col-xl-5 col-lg-6 position-relative py-lg-0 py-xl-0 py-xxl-0 py-5">
             <img src="assets/img/landing/conference/hero-bg.png" class="position-absolute top-50 translate-middle-y ms-lg-n4" width="866" alt="Background shapes">
             <div class="position-relative zindex-5 text-center text-lg-start px-3 px-lg-0 py-xl-4 py-xxl-5 mt-lg-3 mx-auto mx-lg-0" style="max-width: 530px;">
-              <h1 class="display-6 pb-lg-3 mb-3">Why Laplok?</h1>
+              <h1 class="display-6 pb-lg-3 mb-3">Why LapLok?</h1>
               <div class="d-flex justify-content-center justify-content-lg-start text-start mb-2">
 
                 <div class="fs-xl"><p>Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents a significant risk.</p>
@@ -71,7 +71,7 @@
               </div>
 
               <div class="fs-xl d-flex justify-content-md-start justify-content-center">
-                <p>For details on how laplok works, you can click <a href="/howlaplok"> here</a>.</p>
+                <p>For details on how LapLok works, you can click <a href="/howlaplok"> here</a>.</p>
              </div>
 
             </div>
@@ -103,7 +103,7 @@
                 <!-- <img src="assets/img/landing/digital-agency/icons/idea.svg" width="48" alt="Bulb icon" class="d-block mb-4 mx-auto"> -->
                 <i class='bx bxs-lock-alt d-block mb-4 mx-auto fs-1' style='color:#2078BB'  ></i>
                 <h4 class="mb-2 pb-1">Secure</h4>
-                <p class="mx-auto" style="max-width: 336px;">Laplok&#39;s patented anti-theft design deters grab-and-go thieves. It&#39;s easy to set up no matter where you&#39;re
+                <p class="mx-auto" style="max-width: 336px;">LapLok&#39;s patented anti-theft design deters grab-and-go thieves. It&#39;s easy to set up no matter where you&#39;re
 working and provides a heightened level of security. </p>
               </div>
             </div>
@@ -192,10 +192,10 @@ alarm volume is adjustable and can be turned off if desired.</p>
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Aircraft-Grade Aluminum</h2>
-                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">Laplok is designed with the highest-grade and highest-performing materials in the world. </p>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">LapLok is designed with the highest-grade and highest-performing materials in the world. </p>
                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
                                 world travel while offering unrivaled levels of protection from theft.</p>
-                    <p class=" d-lg-block pb-1 mb-1 mb-md-1"> This creative and innovative design makes Laplok one of the unique items of its kind on the market. </p>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1"> This creative and innovative design makes LapLok one of the unique items of its kind on the market. </p>
                   </div>
                 </div>
               </div>
@@ -234,7 +234,7 @@ alarm volume is adjustable and can be turned off if desired.</p>
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Software Enabled Password Management</h2>
-                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">Take complete control of your passwords with Laplok's built-in password management algorithm. </p>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">Take complete control of your passwords with LapLok's built-in password management algorithm. </p>
                         <p class=" d-lg-block pb-1 mb-1 mb-md-1">Say goodbye to
 annoying and inefficient physical keys and hello to advanced and secure cloud password technology.</p>
                       <p class=" d-lg-block pb-1 mb-1 mb-md-1">You can easily record &amp; reset passwords when necessary due to employee changes or if a code is
@@ -254,7 +254,7 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Dual Purpose Functionality</h2>
                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">You&#39;re rarely working alone with just a laptop. Typically, it's accompanied by an entire bag of belongings you must keep safe. </p>
-                        <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why we&#39;ve equipped Laplok with a built-in bag-locking feature that
+                        <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why we&#39;ve equipped LapLok with a built-in bag-locking feature that
                                                     provides a convenient and secure place to leave your bag.</p>
                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">BagLok is sold separately but directly attaches to the LapLok product for an easy-to-carry, lightweight, and
                                 dynamic protection device. </p>
@@ -273,7 +273,7 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Device Compatibility</h2>
                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">The work-from-anywhere professional needs a holistic protection solution that works with a wide variety of devices. </p>
-                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why Laplok is designed to function seamlessly with any device, including all laptops and all tablets.</p>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why LapLok is designed to function seamlessly with any device, including all laptops and all tablets.</p>
                   </div>
                 </div>
               </div>

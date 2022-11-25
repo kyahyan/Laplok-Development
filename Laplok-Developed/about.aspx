@@ -63,7 +63,7 @@
                 <img src="assets/img/services/single/icons/02.svg" class="d-inline-block" width="56" alt="Icon">
                 <h3 class="h5 pt-1 my-2">Customer Excellence</h3>
                 <p class="fs-sm mb-0">The new mobile workforce needs modern and advanced tools to succeed in this new age. 
-                    Techlok Solutions is committed to helping our customers achieve excellence 
+                    TechLok Solutions is committed to helping our customers achieve excellence 
                     by providing the security solutions they need in the work-from-anywhere movement. </p>
               </div>
               <div class="text-center text-lg-start pb-2 mb-4 mb-xl-5">
@@ -119,7 +119,7 @@ professionals the peace of mind needed to lead successful careers no matter wher
       <div class="col-md-6 order-md-1">
         <div class="pe-xl-5 me-md-2 me-lg-4">
           <h2 class="h1 mb-3 mb-sm-4">Our vision</h2>
-          <p class="fs-5 fw-500 mb-3 mb-sm-4">We envision a future where the Techlok Solutions brand is synonymous with quality and cost-effective device protection across the globe. 
+          <p class="fs-5 fw-500 mb-3 mb-sm-4">We envision a future where the TechLok Solutions brand is synonymous with quality and cost-effective device protection across the globe. 
               The work-from-anywhere trend is a global phenomenon transforming how people in all countries and industries do business.</p>
           
         </div>
