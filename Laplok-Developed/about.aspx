@@ -13,10 +13,10 @@
                     Meet the  <span style="color:#2078bb;"><br />Father-Son Duo </span> Behind LapLok
                 </h1>
                 
-                  <p class="d-lg-block d-none fs-5 fw-bolder">LapLok is the brainchild of father-son duo Paul & Ryan Angott who have secured a grant from the state of MI in addition to self-funding LapLok.</p>
+                  <p class="fs-5 fw-bolder">LapLok is the brainchild of father-son duo Paul & Ryan Angott who have secured a grant from the state of MI in addition to self-funding LapLok.</p>
              
-                    <p class="d-lg-block d-none fs-5 fw-bolder">The dad, Paul Angott has an honorary Ph.D. and was voted Entrepreneur of the Year in Michigan in 2011. He holds 42 patents and has successfully sold over $100 Million of his patented products in his career including several security products.</p>
-                    <p class="d-lg-block d-none fs-5 fw-bolder">The son, Ryan Angott hails from the cyber security industry and lends his experience in sales and marketing to his dad's invention. He has sold over $24 Million dollars of complex security software in the last 6 years.</p>
+                    <p class="fs-5 fw-bolder">The dad, Paul Angott has an honorary Ph.D. and was voted Entrepreneur of the Year in Michigan in 2011. He holds 42 patents and has successfully sold over $100 Million of his patented products in his career including several security products.</p>
+                    <p class=" fs-5 fw-bolder">The son, Ryan Angott hails from the cyber security industry and lends his experience in sales and marketing to his dad's invention. He has sold over $24 Million dollars of complex security software in the last 6 years.</p>
               </div>
             </div>
             <!-- Animated gfx -->
