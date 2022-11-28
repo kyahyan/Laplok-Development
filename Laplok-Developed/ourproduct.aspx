@@ -9,7 +9,7 @@
                   <div class="row justify-content-center text-center pb-sm-2 pt-3 pt-md-4 py-lg-5">
                     <div class="col-xl-8 col-lg-9 col-md-10 py-4">
                       <h1 class="display-5 text-light pt-lg-5 pt-sm-5 pb-2 pb-sm-2 mb-3 pt-5">Next Generation Laptop Security</h1>
-                      <h2 class="h4 pb-0 pb-lg-0 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to stay safe and protected while working anywhere. </h2>
+                      <h2 class="h4 pb-0 pb-lg-0 text-light">Keep with advanced technology needed to stay safe &amp; productive while working anywhere. </h2>
 
                     </div>
                   </div>
@@ -106,10 +106,8 @@
           <div class="container zindex-5 pt-5">
             <div class="row justify-content-center text-center pt-4 pb-sm-1 py-lg-5">
               <div class="col-xl-8 col-lg-9 col-md-10 py-5 lh-3">
-                <div class="display-5 text-light pt-sm-1 pb-1 pb-sm-3 mb-3 h1">Is your laptop safe?</div>
-                <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">The short answer: No. That’s why you need LapLok!</p>
-                <p class="fs-xl text-light opacity-70 pb-3 pb-sm-1 mb-4 mb-sm-3 ">Keep your laptop secure and combat grab-and-go theft no matter where you are.</p>
-
+                <div class="display-5 text-light pt-sm-1 pb-1 pb-sm-3 mb-3 h1">Intelligent Laptop Security</div>
+                <p class="fs-xl text-light opacity-70 pb-1 pb-sm-0 mb-1 mb-sm-1 ">Laplok has been engineered for today’s modern workforce. Below showcases our unique product design.</p>
               </div>
             </div>
           </div>
