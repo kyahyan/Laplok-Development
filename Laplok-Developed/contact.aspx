@@ -65,33 +65,102 @@
              <%-- <h2 class="card-title pb-3 mb-4">Contact us for Custom and Bulk Ordering</h2>--%>
               <form class="row g-4 needs-validation" novalidate>
                 <div class="col-12">
+                    
                   <label for="fn" class="form-label fs-base">Full name</label>
-                  <input type="text" class="form-control form-control-lg" id="fn" required>
-                  <div class="invalid-feedback">Please enter your full name!</div>
+                  <asp:TextBox ID="fullnameText" runat="server"  type="text" CssClass="form-control form-control-lg" ></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" 
+                        runat="server"
+                        ErrorMessage="Please enter your full name!" 
+                        CssClass="invalid-feedback" 
+                        ControlToValidate="fullnameText" 
+                        SetFocusOnError="true" 
+                        Display="Dynamic"
+                        ValidationGroup="ContactValidation"
+                        ></asp:RequiredFieldValidator>
+                   
+                   
                 </div>
                 <div class="col-12">
                   <label for="email" class="form-label fs-base" >Email address</label>
-                  <input type="email" class="form-control form-control-lg" id="email" required>
-                  <div class="invalid-feedback">Please provide a valid email address!</div>
+                    <asp:TextBox ID="textEmail" runat="server" type="email" CssClass="form-control form-control-lg"></asp:TextBox>
+                    <!--Validates if Empty-->
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" 
+                        runat="server"
+                        ErrorMessage="Please enter a valid email address!" 
+                        CssClass="invalid-feedback" 
+                        ControlToValidate="textEmail" 
+                        SetFocusOnError="true" 
+                        Display="Dynamic" 
+                        ValidationGroup="ContactValidation" 
+                        ></asp:RequiredFieldValidator>
+
+                    <!--Validates if Valid format-->
+                     <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" 
+                        ErrorMessage="Please provide a valid email address!"  
+                        CssClass="invalid-feedback" 
+                        ControlToValidate="textEmail"
+                        SetFocusOnError="true" 
+                        Display="Dynamic" 
+                        ValidationExpression="^\S+@\S+$" ValidationGroup="ContactValidation" ></asp:RegularExpressionValidator>
                 </div>
                 <div class="col-12">
                   <label for="phoneFormat" class="form-label fs-base" id="phone">Phone</label>
-                  <input type="tel" class="form-control form-control-lg" id="phoneFormat" data-format='{"numericOnly": true, "delimiters": ["+1 ", " ", " "], "blocks": [0, 3, 3, 2]}' placeholder="+1 ___ ___ __">
+                      <asp:TextBox ID="phoneFormat" runat="server" CssClass="form-control form-control-lg" placeholder="+1 ___ ___ __" data-format='{"numericOnly": true, "delimiters": ["+1 ", " ", " "], "blocks": [0, 3, 3, 2]}'></asp:TextBox>
+                         <asp:RequiredFieldValidator ID="RequiredFieldValidator3" 
+                        runat="server"
+                        ErrorMessage="Please enter a valid phone number!" 
+                        CssClass="invalid-feedback" 
+                        ControlToValidate="phoneFormat" 
+                        SetFocusOnError="true" 
+                        Display="Dynamic" 
+                        ValidationGroup="ContactValidation"
+                        ></asp:RequiredFieldValidator>  
+                    <asp:CompareValidator ID="CompareValidator1" runat="server" 
+                        CssClass="invalid-feedback"  
+                        ErrorMessage="Phone number is not valid!"
+                        ControlToValidate="phoneFormat"
+                        Type="Integer"
+                        Operator="DataTypeCheck"
+                         Display="Dynamic"
+                         SetFocusOnError="true"
+                        ValidationGroup="ContactValidation"></asp:CompareValidator>
                 </div>
                 <div class="col-12">
                   <label for="cn" class="form-label fs-base">Company Name</label>
-                  <input type="text" class="form-control form-control-lg" id="cn" required>
-                  <div class="invalid-feedback">Please enter your Company Name!</div>
+                   <asp:TextBox ID="textCompany" runat="server" CssClass="form-control form-control-lg"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator4" 
+                        runat="server"
+                        ErrorMessage="Please enter your company's name" 
+                        CssClass="invalid-feedback" 
+                        ControlToValidate="textCompany" 
+                        SetFocusOnError="true" 
+                        Display="Dynamic"
+                        ValidationGroup="ContactValidation" 
+                        ></asp:RequiredFieldValidator>
                 </div>
                 <div class="col-12">
                   <label for="message" class="form-label fs-base">Message</label>
-                  <textarea class="form-control form-control-lg" id="message" ></textarea>
+                 <asp:TextBox ID="textMessage" runat="server" TextMode="MultiLine" CssClass="form-control form-control-lg"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator5" 
+                        runat="server"
+                        ErrorMessage="Please enter your message!" 
+                        CssClass="invalid-feedback" 
+                        ControlToValidate="textMessage" 
+                        SetFocusOnError="true" 
+                        Display="Dynamic" 
+                        ValidationGroup="ContactValidation" 
+                        ></asp:RequiredFieldValidator>
                 </div>
                
              
-                <div class="col-12 pt-2 pt-sm-3">
-                  <button class="btn btn-lg btn-primary w-100 w-sm-auto" <%--onclick="onSubmitMessage()"--%> id="submitBtn">Submit</button>
-                </div>
+                <asp:Panel ID="Panel1" runat="server" CssClass="col-12 pt-2 pt-sm-3 row">
+                    <div class="col-4">
+                    <asp:Button ID="submitBtn" runat="server" type="button" Text="Submit" CssClass="btn btn-lg btn-primary w-100 w-sm-auto btnSubmit" ValidationGroup="ContactValidation" OnClick="submitBtn_Click" UseSubmitBehavior="false"/>
+                    </div>
+                    <div class="col-8">
+                        <asp:Panel ID="AlertSuccessContact" runat="server" CssClass="alert alert-primary pb-2 pt-2 mt-1" role="alert" Visible="false"><i class='bx bx-check fs-lg'> Email Sent!</i></asp:Panel>
+                        </div>
+                    </asp:Panel>
               </form>
             </div>
           </div>
@@ -134,24 +203,6 @@
             </div>
           </li>
         </ul>
-       
-       <%-- <div class="d-flex pt-1 pt-md-3 pt-xl-4">
-          <a href="#" class="btn btn-icon btn-secondary btn-facebook me-3">
-            <i class="bx bxl-facebook"></i>
-          </a>
-          <a href="#" class="btn btn-icon btn-secondary btn-instagram me-3">
-            <i class="bx bxl-instagram"></i>
-          </a>
-          <a href="#" class="btn btn-icon btn-secondary btn-twitter me-3">
-            <i class="bx bxl-twitter"></i>
-          </a>
-          <a href="#" class="btn btn-icon btn-secondary btn-youtube me-3">
-            <i class="bx bxl-youtube"></i>
-          </a>
-          <a href="#" class="btn btn-icon btn-secondary btn-linkedin">
-            <i class="bx bxl-linkedin"></i>
-          </a>
-        </div>--%>
       </div>
     </div>
   </section>
