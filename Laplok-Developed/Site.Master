@@ -129,6 +129,7 @@
 
           <!-- Footer -->
     <footer class="footer pt-5 pb-4 pb-lg-5 ">
+
       <div class="container pt-lg-4">
         <div class="row pb-5">
           <div class="col-lg-4 col-md-6">
@@ -139,13 +140,35 @@
             <p class="fs-sm pb-lg-3 mb-4">A modern world needs modern solutions. Techlok is the new way to secure your electronics and valuables to prevent grab-and-go theft. 
                 We are creating a world where theft is harder, and safety is easier. </p>
             <form class="needs-validation pe-sm-1" novalidate>
+               
               <label for="subscr-email" class="form-label">Subscribe to our newsletter</label>
               <div class="input-group">
-                <input type="email" id="subscr-email" class="form-control rounded-start ps-5" placeholder="Your email" required>
+                    <asp:TextBox ID="emailAddress" runat="server" CssClass="form-control rounded-start ps-5" placeholder="Your email"></asp:TextBox>
                 <i class="bx bx-envelope fs-lg text-muted position-absolute top-50 start-0 translate-middle-y ms-3 ms-sm-3 zindex-5"></i>
-                <div class="invalid-tooltip position-absolute top-100 start-0">Please provide a valid email address.</div>
-                <button type="submit" class="btn btn-primary">Subscribe</button>
+                  <!--Validates the value of the textbox if empty-->  
+                  <asp:RequiredFieldValidator ID="SubsValidator" ValidationGroup="SiteValidator" 
+                        runat="server"
+                        ErrorMessage="Please provide a valid email address!"
+                        CssClass="invalid-tooltip position-absolute top-100 start-0" 
+                        ControlToValidate="emailAddress" 
+                        SetFocusOnError="true" 
+                        Display="Dynamic" 
+                        ></asp:RequiredFieldValidator>
+                  <!--Validates the value of the textbox if the email address provided is valid-->
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" 
+                        ErrorMessage="Please provide a valid email address!"  
+                        CssClass="invalid-tooltip position-absolute top-100 start-0" 
+                        ControlToValidate="emailAddress"
+                        SetFocusOnError="true" 
+                        Display="Dynamic" 
+                        ValidationExpression="^\S+@\S+$" ValidationGroup="SiteValidator" > </asp:RegularExpressionValidator>
+
+
+                  <asp:Button ID="subscribeBtn" runat="server" Text="Subscribe" CssClass="btn btn-primary" UseSubmitBehavior="false" OnClick="subscribeBtn_Click" ValidationGroup="SiteValidator" type="button"/>
               </div>
+              <div class="col-9">
+                    <asp:Panel ID="AlertSuccessSite" runat="server" CssClass="alert alert-primary pb-2 pt-2 mt-1" role="alert" Visible="false"><i class='bx bx-check fs-lg'>Email Sent!</i></asp:Panel>
+                </div>
             </form>
           </div>
           <div class="col-xl-6 col-lg-7 col-md-5 offset-xl-2 offset-md-1 pt-4 pt-md-1 pt-lg-0">
@@ -195,25 +218,14 @@
                                  <li class="nav-item"><a class="btn btn-icon btn-secondary btn-youtube me-2" href="https://www.youtube.com/channel/UCMeUf9Yfc6OL10tqxTdzhfA"><i class="bx bxl-youtube"></i></a></li>
                             </ul>
                   </div>
-                  <%-- 
-                       <ul class="nav flex-column mb-2 mb-lg-0 justify-content-evenly">
-                      <li class="nav-item"><a href="https://www.facebook.com/TechlokSolutions" class="nav-link d-inline-block px-0 pt-1 pb-2">Facebook</a></li>
-                    <li class="nav-item"><a href="https://www.linkedin.com/company/techlok-solutions/" class="nav-link d-inline-block px-0 pt-1 pb-2">LinkedIn</a></li>
-                    <li class="nav-item"><a href="https://twitter.com/TechlokS" class="nav-link d-inline-block px-0 pt-1 pb-2">Twitter</a></li>
-                    <li class="nav-item"><a href="https://www.instagram.com/techlok_solutions/" class="nav-link d-inline-block px-0 pt-1 pb-2">Instagram</a></li>
-                    <li class="nav-item"><a href="https://www.pinterest.com/Techlok_Solutions/" class="nav-link d-inline-block px-0 pt-1 pb-2">Pinterest</a></li>
-                    <li class="nav-item"><a href="https://www.youtube.com/channel/UCMeUf9Yfc6OL10tqxTdzhfA" class="nav-link d-inline-block px-0 pt-1 pb-2">Youtube</a></li>
-                        </ul>--%>
-                
-                
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <p class="nav d-block fs-sm text-center text-md-start pb-2 pb-lg-0 mb-0">
-          &copy; Laplok 2022. All rights reserved
-        </p>
+          <asp:Panel ID="FootEnd" runat="server">
+          <asp:Label ID="Label1" runat="server" Text="Label" CssClass="nav d-block fs-sm text-center text-md-start pb-2 pb-lg-0 mb-0">&copy; Laplok 2022. All rights reserved</asp:Label>
+              </asp:Panel>
       </div>
     </footer>
 
