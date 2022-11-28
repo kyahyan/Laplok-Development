@@ -5,10 +5,10 @@
           <!-- Hero -->
       <section class="dark-mode bg-dark bg-size-cover bg-repeat-0 bg-position-center position-relative overflow-hidden py-5" style="background-image: url(assets/img/landing/saas-3/hero/hero-bg.jpg);">
         <div class="container position-relative zindex-2 pt-5 pb-md-1 pb-lg-1">
-          <div class="row pt-3 pb-1 py-md-4 py-sm-4 ">
+          <div class="row pt-0 pb-1 py-md-4 py-sm-4 ">
 
             <!-- Text -->
-            <div class="col-xl-5 col-md-6 pt-lg-5 pt-5 mt-5 text-center text-md-start mb-4 mb-md-0">
+            <div class="col-xl-5 col-md-6 pt-lg-5 pt-xl-5 pt-xxl-5 pt-1 mt-lg-5 mt-xl-5 mt-xxl-5 mt-1 text-center text-md-start mb-4 mb-md-0">
 
               <!-- <h1 class="display-3 pb-2 pb-sm-3 mt-5">LAPLOK</h1> -->
                   <div class="pb-3 pb-sm-3 mt-5 mt-sm-4 ">
@@ -17,9 +17,9 @@
                   </div>
 
 
-                <h1 class="fs-4 d-xl-block pb-lg-5 pb-sm-5">Real-world protection when the world is your office</h1>
-                  <p class="fs-5 pb-4">Airports, cafes, restaurants, high schools, colleges,and even shared workspaces. They're all hotbeds for laptop theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
-                  <p class="fs-5 pb-5">LapLok is a new pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
+                <h1 class="fs-4 d-xl-block pb-lg-5 pb-sm-5 pb-5 pt-lg-0 pt-md-0 pt-4">Real-world protection when the world is your office</h1>
+                  <p class="fs-5 pb-lg-4 pb-4">Airports, cafes, restaurants, high schools, colleges,and even shared workspaces. They're all hotbeds for laptop theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
+                  <p class="fs-5 pb-lg-5 pb-4">LapLok is a new pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
 
               <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-lg btn-primary">
                 Buy Now!
