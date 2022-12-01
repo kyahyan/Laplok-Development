@@ -9,3 +9,21 @@
                   const prevTab = new bootstrap.Tab(prevTabLinkEl);
                   prevTab.show();
               });
+
+
+// For Recaptcha V3
+
+
+    //function onSubmit(token) {
+    //    document.getElementsByClassName("recapBtn").submit();
+    //}
+
+// To prevent doubleclicking.
+function disableButton(email,btnID) {
+    var emailValueSite = $(email).val();
+
+    if (emailValueSite.length > 1) {
+        $(btnID).prop('disabled', true);
+        console.log(emailValueSite);
+    }
+}

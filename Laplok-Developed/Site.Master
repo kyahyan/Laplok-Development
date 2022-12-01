@@ -128,7 +128,7 @@
             </main>
 
           <!-- Footer -->
-    <footer class="footer pt-5 pb-4 pb-lg-5 ">
+    <footer class="footer pt-5 pb-4 pb-lg-5 " id="footer">
 
       <div class="container pt-lg-4">
         <div class="row pb-5">
@@ -141,8 +141,13 @@
                 We are creating a world where theft is harder, and safety is easier. </p>
             <form class="needs-validation pe-sm-1" novalidate>
                
+              
+
+
+                                                                  
               <label for="subscr-email" class="form-label">Subscribe to our newsletter</label>
               <div class="input-group">
+
                     <asp:TextBox ID="emailAddress" runat="server" CssClass="form-control rounded-start ps-5" placeholder="Your email"></asp:TextBox>
                 <i class="bx bx-envelope fs-lg text-muted position-absolute top-50 start-0 translate-middle-y ms-3 ms-sm-3 zindex-5"></i>
                   <!--Validates the value of the textbox if empty-->  
@@ -161,13 +166,26 @@
                         ControlToValidate="emailAddress"
                         SetFocusOnError="true" 
                         Display="Dynamic" 
-                        ValidationExpression="^\S+@\S+$" ValidationGroup="SiteValidator" > </asp:RegularExpressionValidator>
+                        ValidationExpression="^\S+@\S+$" ValidationGroup="SiteValidator"> </asp:RegularExpressionValidator>
 
+                  <asp:LinkButton ID="subsBtn" 
+                      runat="server" 
+                      Text="Subscribe" 
+                      CssClass="btn btn-primary recapBtn g-recaptcha"
+                      type="button"
+                      UseSubmitBehavior="false" 
+                      OnClick="subscribeBtn_Click" 
+                       OnClientClick="disableButton('#emailAddress', '#subscribeBtn');"
+                      ValidationGroup="SiteValidator"
+                      data-sitekey="6LcqS0AjAAAAAO064-CfrQmT_oEnrEBT8Ue6DwWA"
+                      data-callback="onSubmit"
+                      data-action="submit">Subscribe</asp:LinkButton>
 
-                  <asp:Button ID="subscribeBtn" runat="server" Text="Subscribe" CssClass="btn btn-primary" UseSubmitBehavior="false" OnClick="subscribeBtn_Click" ValidationGroup="SiteValidator" type="button"/>
+               
+                       
               </div>
               <div class="col-9">
-                    <asp:Panel ID="AlertSuccessSite" runat="server" CssClass="alert alert-primary pb-2 pt-2 mt-1" role="alert" Visible="false"><i class='bx bx-check fs-lg'>Email Sent!</i></asp:Panel>
+                    <asp:Panel ID="AlertSuccessSite" runat="server" CssClass=" text-primary pb-2 pt-2 mt-1" role="alert" Visible="false"><i class='bx bx-check fs-lg'>Thank you for subscribing!</i></asp:Panel>
                 </div>
             </form>
           </div>
@@ -257,6 +275,7 @@
             <%: Scripts.Render("~/assets/js/modernizr.js") %>
             <%: Scripts.Render("~/assets/js/customized_scripts.js") %>
             <%: Scripts.Render("~/assets/js/theme.min.js") %>
+           <%-- <%: Scripts.Render("https://www.google.com/recaptcha/api.js") %>--%>
          </asp:PlaceHolder>
        
     </form>

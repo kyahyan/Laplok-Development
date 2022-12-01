@@ -51,13 +51,13 @@ namespace Laplok_Developed
         protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator1;
 
         /// <summary>
-        /// subscribeBtn control.
+        /// subsBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button subscribeBtn;
+        protected global::System.Web.UI.WebControls.LinkButton subsBtn;
 
         /// <summary>
         /// AlertSuccessSite control.
