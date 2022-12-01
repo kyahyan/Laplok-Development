@@ -65,7 +65,7 @@
                 </li>
                 <li>
                   <p class="fs-lg fw-bolder mb-0">RETURNS AND REFUNDS</p>
-                  <p class="fs-5 mb-3">Except for any products designated on the Site as non-returnable, we will accept a return of the products for a refund of your purchase price, less the original shipping and handling costs, provided such return is made within 30 days of shipment and provided such products are returned in their original condition. To return products, you must call  <a href="tel:4065550120" class="text-primary">1-800-TechLok</a> or email our Returns Department at <a class="text-primary" href="mailto:Returns@LapLok.com">Returns@LapLok.com</a>  to obtain a Return Merchandise Authorization (<span class="fw-bolder">RMA</span>) number before shipping your product. No returns of any type will be accepted without an RMA number. You are responsible for all shipping and handling charges on returned items. You bear the risk of loss during shipment. Your refund will be credited back to the same payment method used to make the original purchase on the Site. WE OFFER NO REFUNDS ON ANY PRODUCTS DESIGNATED ON THIS SITE AS NON-RETURNABLE.</p>
+                  <p class="fs-5 mb-3">Except for any products designated on the Site as non-returnable, we will accept a return of the products for a refund of your purchase price, less the original shipping and handling costs, provided such return is made within 30 days of shipment and provided such products are returned in their original condition. To return products, you must call  <a href="tel:4065550120" class="text-primary">1-800-TechLok</a> or email our Returns Department at <a class="text-primary" href="mailto:Returns@LapLok.com">Returns@LapLok.com</a>  to obtain aCustomer Return Authorization (<span class="fw-bolder">CRA</span>) number before shipping your product. No returns of any type will be accepted without an CRA number. You are responsible for all shipping and handling charges on returned items. You bear the risk of loss during shipment. Your refund will be credited back to the same payment method used to make the original purchase on the Site. WE OFFER NO REFUNDS ON ANY PRODUCTS DESIGNATED ON THIS SITE AS NON-RETURNABLE.</p>
                 </li>
                 <li>
                   <p class="fs-lg fw-bolder mb-0">LIMITED WARRANTY</p>
@@ -132,7 +132,7 @@
                       </li>
                       <li>
                         <p class="fs-lg fw-bolder mb-0">How Do You Obtain Warranty Service?</p>
-                        <p class="fs-5 mb-3"> To obtain warranty service, you must call <a href="tel:4065550120" class="text-primary">1-800-TechLok</a> or email our Customer Service Department at <a class="text-primary" href="mailto:Returns@LapLok.com">Returns@LapLok.com</a>  during the Warranty Period to obtain an RMA number. No warranty service will be provided without an RMA number.</p>
+                        <p class="fs-5 mb-3"> To obtain warranty service, you must call <a href="tel:4065550120" class="text-primary">1-800-TechLok</a> or email our Customer Service Department at <a class="text-primary" href="mailto:Returns@LapLok.com">Returns@LapLok.com</a>  during the Warranty Period to obtain an CRA number. No warranty service will be provided without an CRA number.</p>
                 
                       </li>
                       <li>
