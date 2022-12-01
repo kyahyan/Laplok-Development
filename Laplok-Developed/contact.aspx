@@ -67,7 +67,7 @@
                 <div class="col-12">
                     
                   <label for="fn" class="form-label fs-base">Full name</label>
-                  <asp:TextBox ID="fullnameText" runat="server"  type="text" CssClass="form-control form-control-lg" ></asp:TextBox>
+                  <asp:TextBox ID="fullnameText" runat="server" CssClass="form-control form-control-lg" ></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" 
                         runat="server"
                         ErrorMessage="Please enter your full name!" 
@@ -77,11 +77,9 @@
                         Display="Dynamic"
                         ValidationGroup="ContactValidation"
                         ></asp:RequiredFieldValidator>
-                   
-                   
                 </div>
                 <div class="col-12">
-                  <label for="email" class="form-label fs-base" >Email address</label>
+                  <label for="textEmail" class="form-label fs-base" >Email address</label>
                     <asp:TextBox ID="textEmail" runat="server" type="email" CssClass="form-control form-control-lg"></asp:TextBox>
                     <!--Validates if Empty-->
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" 
@@ -153,14 +151,25 @@
                 </div>
                
              
-                <asp:Panel ID="Panel1" runat="server" CssClass="col-12 pt-2 pt-sm-3 row">
+                <div class="col-12 pt-2 pt-sm-3 row">
                     <div class="col-4">
-                    <asp:Button ID="submitBtn" runat="server" type="button" Text="Submit" CssClass="btn btn-lg btn-primary w-100 w-sm-auto btnSubmit" ValidationGroup="ContactValidation" OnClick="submitBtn_Click" UseSubmitBehavior="false"/>
-                    </div>
-                    <div class="col-8">
-                        <asp:Panel ID="AlertSuccessContact" runat="server" CssClass="alert alert-primary pb-2 pt-2 mt-1" role="alert" Visible="false"><i class='bx bx-check fs-lg'> Email Sent!</i></asp:Panel>
+                    <asp:Button ID="submitBtn" 
+                        runat="server" 
+                        Text="Submit" 
+                        CssClass="btn btn-lg btn-primary w-100 w-sm-auto recapBtn g-recaptcha" 
+                        ValidationGroup="ContactValidation" 
+                        OnClick="submitBtn_Click"
+                        UseSubmitBehavior="false"
+                        data-sitekey="6LcqS0AjAAAAAO064-CfrQmT_oEnrEBT8Ue6DwWA"
+                        data-callback="onSubmit"
+                        data-action="submit"
+                        />
+                    </div>  
+                    <div class="col-8 ps-1">
+                        <asp:Panel ID="AlertSuccessContact" runat="server" CssClass="text-primary italic pb-2 pt-2 mt-1" role="alert" Visible="false">
+                            <i class='bx bx-check fs-lg'> Message Sent!</i></asp:Panel>
                         </div>
-                    </asp:Panel>
+                    </div>
               </form>
             </div>
           </div>
