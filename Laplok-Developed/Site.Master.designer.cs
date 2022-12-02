@@ -33,22 +33,22 @@ namespace Laplok_Developed
         protected global::System.Web.UI.WebControls.TextBox emailAddress;
 
         /// <summary>
-        /// SubsValidator control.
+        /// SiteReqVal control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator SubsValidator;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator SiteReqVal;
 
         /// <summary>
-        /// RegularExpressionValidator1 control.
+        /// SiteRegVal control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator1;
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator SiteRegVal;
 
         /// <summary>
         /// subsBtn control.
@@ -57,7 +57,7 @@ namespace Laplok_Developed
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton subsBtn;
+        protected global::System.Web.UI.WebControls.Button subsBtn;
 
         /// <summary>
         /// AlertSuccessSite control.
