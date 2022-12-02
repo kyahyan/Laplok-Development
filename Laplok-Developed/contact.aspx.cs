@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Diagnostics;
 using System.Linq;
 using System.Net.Mail;
 using System.Security.Policy;
@@ -28,6 +29,7 @@ namespace Laplok_Developed
 
         }
 
+     
         private void sendEmail() {
 
             string fullName = fullnameText.Text.Trim();
@@ -35,7 +37,7 @@ namespace Laplok_Developed
             string phone = phoneFormat.Text.Trim();
             string company = textCompany.Text.Trim();
             string message = textMessage.Text.Trim();
-            bool isPostBack = Page.IsPostBack;
+           
            
 
             SmtpClient smtpclient = new SmtpClient();
@@ -74,13 +76,14 @@ namespace Laplok_Developed
 
                 if (Page.IsPostBack)
                 {         
-                        fullnameText.Text = String.Empty;
-                        textEmail.Text = String.Empty;
-                        phoneFormat.Text = String.Empty;
-                        textCompany.Text = String.Empty;
-                        textMessage.Text = String.Empty;
-                        AlertSuccessContact.Visible = true;
-                       
+                 fullnameText.Text = String.Empty;
+                 textEmail.Text = String.Empty;
+                 phoneFormat.Text = String.Empty;
+                 textCompany.Text = String.Empty;
+                 textMessage.Text = String.Empty;
+                 AlertSuccessContact.Visible = true;
+                 Response.AddHeader("REFRESH", "3;URL=" + HttpContext.Current.Request.Url.AbsolutePath);
+                  
                 }
               
 
@@ -103,11 +106,16 @@ namespace Laplok_Developed
             //this.submitBtn.Enabled = false;
             //submitBtn.Text = "Please wait...";
 
+
         }
 
         protected void phoneFormat_TextChanged(object sender, EventArgs e)
         {
-
+          
         }
+
+
+
+   
     }
 }

@@ -23,20 +23,9 @@ namespace Laplok_Developed
                 Page.MaintainScrollPositionOnPostBack = true;
 
         }
-      
-
-        protected void subscribeBtn_Click(object sender, EventArgs e)
-        {
-
-            sendEmail();
-            
-
-        }
 
         private void sendEmail()
         {
-
-            string emailadd = emailAddress.Text.Trim();
 
             SmtpClient smtpclient = new SmtpClient();
             smtpclient.DeliveryMethod = SmtpDeliveryMethod.Network;
@@ -54,7 +43,7 @@ namespace Laplok_Developed
             //mail.To.Add(new MailAddress(Receiver));
             //mail.From = new MailAddress(Sender); // Bug: returns null value when the button is clicked while accessing contact page.
             mail.Subject = "New Email Subscriber";
-            mail.Body = string.Format("<html><head><title></title></head><body><b>{0}</b>. </body></html>", emailadd);
+            mail.Body = string.Format("<html><head><title></title></head><body><b>{0}</b> </body></html>", emailAddress.Text);
             mail.IsBodyHtml = true;
 
             try
@@ -65,7 +54,7 @@ namespace Laplok_Developed
                 {
                     emailAddress.Text = String.Empty;
                     AlertSuccessSite.Visible = true;
-                   
+                    Response.AddHeader("REFRESH", "3;URL=" + HttpContext.Current.Request.Url.AbsolutePath);
                 }
             }
             catch (Exception ex)
@@ -78,6 +67,16 @@ namespace Laplok_Developed
 
         }
 
+
+        protected void subscribeBtn_Click(object sender, EventArgs e)
+        {
+
+            sendEmail();
+            
+
+        }
+
+      
         private void redirectToUrl()
         {
        

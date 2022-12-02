@@ -63,11 +63,10 @@
             <div class="bg-dark position-absolute top-0 start-0 w-100 h-100 rounded-3 d-none d-dark-mode-block"></div>
             <div class="card-body position-relative zindex-2">
              <%-- <h2 class="card-title pb-3 mb-4">Contact us for Custom and Bulk Ordering</h2>--%>
-              <form class="row g-4 needs-validation" novalidate>
-                <div class="col-12">
+              <form class="row g-4 needs-validation" novalidate> <div class="col-12">
                     
                   <label for="fn" class="form-label fs-base">Full name</label>
-                  <asp:TextBox ID="fullnameText" runat="server" CssClass="form-control form-control-lg" ></asp:TextBox>
+                  <asp:TextBox ID="fullnameText" runat="server" CssClass="form-control form-control-lg" ClientIDMode="Static" ></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" 
                         runat="server"
                         ErrorMessage="Please enter your full name!" 
@@ -80,7 +79,7 @@
                 </div>
                 <div class="col-12">
                   <label for="textEmail" class="form-label fs-base" >Email address</label>
-                    <asp:TextBox ID="textEmail" runat="server" type="email" CssClass="form-control form-control-lg"></asp:TextBox>
+                    <asp:TextBox ID="textEmail" runat="server" type="email" CssClass="form-control form-control-lg"  ClientIDMode="Static"></asp:TextBox>
                     <!--Validates if Empty-->
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" 
                         runat="server"
@@ -103,16 +102,18 @@
                 </div>
                 <div class="col-12">
                   <label for="phoneFormat" class="form-label fs-base" id="phone">Phone</label>
-                      <asp:TextBox ID="phoneFormat" runat="server" CssClass="form-control form-control-lg" placeholder="+1 ___ ___ __" data-format='{"numericOnly": true, "delimiters": ["+1 ", " ", " "], "blocks": [0, 3, 3, 2]}'></asp:TextBox>
-                         <asp:RequiredFieldValidator ID="RequiredFieldValidator3" 
+                      <asp:TextBox ID="phoneFormat" 
+                          runat="server" CssClass="form-control form-control-lg" 
+                          placeholder="+1 ___ ___ __" data-format='{"numericOnly": true, "delimiters": ["+1 ", " ", " "], "blocks": [0, 3, 3, 2]}' ClientIDMode="Static" TextMode="SingleLine"></asp:TextBox>
+
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator3" 
                         runat="server"
                         ErrorMessage="Please enter a valid phone number!" 
                         CssClass="invalid-feedback" 
                         ControlToValidate="phoneFormat" 
                         SetFocusOnError="true" 
                         Display="Dynamic" 
-                        ValidationGroup="ContactValidation"
-                        ></asp:RequiredFieldValidator>  
+                        ValidationGroup="ContactValidation"></asp:RequiredFieldValidator>  
                     <asp:CompareValidator ID="CompareValidator1" runat="server" 
                         CssClass="invalid-feedback"  
                         ErrorMessage="Phone number is not valid!"
@@ -125,7 +126,7 @@
                 </div>
                 <div class="col-12">
                   <label for="cn" class="form-label fs-base">Company Name</label>
-                   <asp:TextBox ID="textCompany" runat="server" CssClass="form-control form-control-lg"></asp:TextBox>
+                   <asp:TextBox ID="textCompany" runat="server" CssClass="form-control form-control-lg"  ClientIDMode="Static"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator4" 
                         runat="server"
                         ErrorMessage="Please enter your company's name" 
@@ -138,7 +139,7 @@
                 </div>
                 <div class="col-12">
                   <label for="message" class="form-label fs-base">Message</label>
-                 <asp:TextBox ID="textMessage" runat="server" TextMode="MultiLine" CssClass="form-control form-control-lg"></asp:TextBox>
+                 <asp:TextBox ID="textMessage" runat="server" TextMode="MultiLine" CssClass="form-control form-control-lg"  ClientIDMode="Static"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator5" 
                         runat="server"
                         ErrorMessage="Please enter your message!" 
@@ -151,26 +152,36 @@
                 </div>
                
              
-                <div class="col-12 pt-2 pt-sm-3 row">
-                    <div class="col-4">
+                  <div class="col-12 d-flex flex-column flex-md-row">
+                    <div class="col-lg-2 col-md-3 pt-2 mt-3 mt-lg-2">
+
                     <asp:Button ID="submitBtn" 
                         runat="server" 
                         Text="Submit" 
                         CssClass="btn btn-lg btn-primary w-100 w-sm-auto recapBtn g-recaptcha" 
                         ValidationGroup="ContactValidation" 
-                        OnClick="submitBtn_Click"
+                         OnClick="submitBtn_Click"
+                         OnClientClick="disableContactButton('fullnameText','textEmail','phoneFormat','textCompany','textMessage','submitBtn');"
                         UseSubmitBehavior="false"
                         data-sitekey="6LcqS0AjAAAAAO064-CfrQmT_oEnrEBT8Ue6DwWA"
                         data-callback="onSubmit"
                         data-action="submit"
+                        Visible="true"
+                         ClientIDMode="Static"
                         />
-                    </div>  
-                    <div class="col-8 ps-1">
-                        <asp:Panel ID="AlertSuccessContact" runat="server" CssClass="text-primary italic pb-2 pt-2 mt-1" role="alert" Visible="false">
-                            <i class='bx bx-check fs-lg'> Message Sent!</i></asp:Panel>
-                        </div>
-                    </div>
+                       
+                  
+                    </div> 
+                     
+                    <div class="col-lg-9 col-md-9 pt-2 pt-lg-3 mt-3 mt-md-4 mt-lg-2 ps-2 pe-2 ms-3 me-3" style="border: 0px solid black;">
+                        <asp:Panel ID="AlertSuccessContact" runat="server" CssClass="text-primary italic mt-1 ps-5 ps-lg-3 ps-md-0" role="alert" Visible="false">
+                            <i class='bx bx-check fs-5'> Message Sent!</i></asp:Panel>
+                        </div>  
+                  </div>
+            
               </form>
+               
+             
             </div>
           </div>
         </div>

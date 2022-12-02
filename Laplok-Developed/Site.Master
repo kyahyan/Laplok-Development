@@ -148,10 +148,10 @@
               <label for="subscr-email" class="form-label">Subscribe to our newsletter</label>
               <div class="input-group">
 
-                    <asp:TextBox ID="emailAddress" runat="server" CssClass="form-control rounded-start ps-5" placeholder="Your email"></asp:TextBox>
+                    <asp:TextBox ID="emailAddress" runat="server" CssClass="form-control rounded-start ps-5" placeholder="Your email" ClientIDMode="Static"></asp:TextBox>
                 <i class="bx bx-envelope fs-lg text-muted position-absolute top-50 start-0 translate-middle-y ms-3 ms-sm-3 zindex-5"></i>
                   <!--Validates the value of the textbox if empty-->  
-                  <asp:RequiredFieldValidator ID="SubsValidator" ValidationGroup="SiteValidator" 
+                  <asp:RequiredFieldValidator ID="SiteReqVal" ValidationGroup="SiteValidator" 
                         runat="server"
                         ErrorMessage="Please provide a valid email address!"
                         CssClass="invalid-tooltip position-absolute top-100 start-0" 
@@ -160,7 +160,7 @@
                         Display="Dynamic" 
                         ></asp:RequiredFieldValidator>
                   <!--Validates the value of the textbox if the email address provided is valid-->
-                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" 
+                    <asp:RegularExpressionValidator ID="SiteRegVal" runat="server" 
                         ErrorMessage="Please provide a valid email address!"  
                         CssClass="invalid-tooltip position-absolute top-100 start-0" 
                         ControlToValidate="emailAddress"
@@ -168,19 +168,18 @@
                         Display="Dynamic" 
                         ValidationExpression="^\S+@\S+$" ValidationGroup="SiteValidator"> </asp:RegularExpressionValidator>
 
-                  <asp:LinkButton ID="subsBtn" 
+                  <asp:Button ID="subsBtn" 
                       runat="server" 
                       Text="Subscribe" 
                       CssClass="btn btn-primary recapBtn g-recaptcha"
                       type="button"
+                       OnClick="subscribeBtn_Click"
                       UseSubmitBehavior="false" 
-                      OnClick="subscribeBtn_Click" 
-                       OnClientClick="disableButton('#emailAddress', '#subscribeBtn');"
+                       OnClientClick="disableButton('emailAddress', 'subsBtn');"
                       ValidationGroup="SiteValidator"
                       data-sitekey="6LcqS0AjAAAAAO064-CfrQmT_oEnrEBT8Ue6DwWA"
                       data-callback="onSubmit"
-                      data-action="submit">Subscribe</asp:LinkButton>
-
+                      data-action="submit" />
                
                        
               </div>
@@ -273,16 +272,15 @@
             <%: Scripts.Render("~/assets/vendor/lightgallery/plugins/video/lg-video.min.js") %>
             <%: Scripts.Render("~/assets/js/cookie-consent.js") %>
             <%: Scripts.Render("~/assets/js/modernizr.js") %>
-            <%: Scripts.Render("~/assets/js/customized_scripts.js") %>
+           
             <%: Scripts.Render("~/assets/js/theme.min.js") %>
+              <%: Scripts.Render("~/assets/js/customized_scripts.js") %>
            <%-- <%: Scripts.Render("https://www.google.com/recaptcha/api.js") %>--%>
          </asp:PlaceHolder>
        
     </form>
-     <script type="text/javascript">
+   
 
-
-</script>
 </body>
 
 </html>
