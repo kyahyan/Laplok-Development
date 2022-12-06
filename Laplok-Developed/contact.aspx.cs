@@ -82,6 +82,7 @@ namespace Laplok_Developed
                  textCompany.Text = String.Empty;
                  textMessage.Text = String.Empty;
                  AlertSuccessContact.Visible = true;
+
                  Response.AddHeader("REFRESH", "3;URL=" + HttpContext.Current.Request.Url.AbsolutePath);
                   
                 }

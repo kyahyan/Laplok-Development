@@ -54,6 +54,7 @@ namespace Laplok_Developed
                 {
                     emailAddress.Text = String.Empty;
                     AlertSuccessSite.Visible = true;
+
                     Response.AddHeader("REFRESH", "3;URL=" + HttpContext.Current.Request.Url.AbsolutePath);
                 }
             }
