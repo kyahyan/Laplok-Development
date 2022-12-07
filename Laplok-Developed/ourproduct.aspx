@@ -544,8 +544,7 @@
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
                          <li>Weight 2.0oz</li>
-                    <li>LWH: 5.43
-                      x 2.01 x 0.6</li>
+                    <li>LWH: 10x1.97x.20 in</li>
                         <li style="list-style: none;" class="pt-4">
                             <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 ms-n4" target="_blank" rel="noopener">
                             <i class="bx bx-cart fs-4 lh-1 me-1"></i>
@@ -590,8 +589,7 @@
                 <h1 class="h4">Weight & Dimensions:</h1>
                 <ul>
                    <li>Weight 2.0oz</li>
-                    <li>LWH: 5.43
-                      x 2.01 x 0.6</li>
+                    <li>LWH: 10x1.97x.20 in</li>
                   <li class="mt-4 ms-n4 list-unstyled"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
                         <i class="bx bx-cart fs-4 lh-1 me-1"></i>
                         &nbsp;Buy now
