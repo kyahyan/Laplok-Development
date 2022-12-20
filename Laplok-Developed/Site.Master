@@ -80,10 +80,10 @@
             <div class="offcanvas-body">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <a href="/whylaplok" class="nav-link fw-bolder">Why Laplok</a>
+                  <a href="/whylaplok" class="nav-link fw-bolder">Why LapLok</a>
                 </li>
                 <li class="nav-item">
-                  <a href="/howlaplok" class="nav-link fw-bolder">How Laplok Works</a>
+                  <a href="/howlaplokworks" class="nav-link fw-bolder">How LapLok Works</a>
                 </li>
                 <li class="nav-item">
                   <a href="/ourproduct" class="nav-link fw-bolder">Our Products</a>
@@ -241,7 +241,7 @@
           </div>
         </div>
           <asp:Panel ID="FootEnd" runat="server">
-          <asp:Label ID="Label1" runat="server" Text="Label" CssClass="nav d-block fs-sm text-center text-md-start pb-2 pb-lg-0 mb-0">&copy; Laplok 2022. All rights reserved</asp:Label>
+          <asp:Label ID="Label1" runat="server" Text="Label" CssClass="nav d-block fs-sm text-center text-md-start pb-2 pb-lg-0 mb-0">&copy; LapLok 2022. All rights reserved</asp:Label>
               </asp:Panel>
       </div>
     </footer>

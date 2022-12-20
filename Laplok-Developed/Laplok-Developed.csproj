@@ -4223,6 +4223,7 @@
     <Content Include="assets\vendor\vanilla-tilt\package.json" />
     <Content Include="assets\vendor\vanilla-tilt\README.md" />
     <Content Include="Errors\PageNotFound.aspx" />
+    <Content Include="howlaplokworks.aspx" />
     <Content Include="whylaplok.aspx" />
     <Content Include="libman.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -4341,6 +4342,13 @@
     </Compile>
     <Compile Include="howlaplok.aspx.designer.cs">
       <DependentUpon>howlaplok.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="howlaplokworks.aspx.cs">
+      <DependentUpon>howlaplokworks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="howlaplokworks.aspx.designer.cs">
+      <DependentUpon>howlaplokworks.aspx</DependentUpon>
     </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>

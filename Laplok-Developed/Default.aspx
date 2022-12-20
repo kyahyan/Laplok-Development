@@ -3,10 +3,18 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
           <!-- Hero -->
-      <section class="dark-mode bg-dark bg-size-cover bg-repeat-0 bg-position-center position-relative overflow-hidden py-5" style="background-image: url(assets/img/landing/saas-3/hero/hero-bg.jpg);">
+      <section class="dark-mode bg-dark bg-size-cover bg-repeat-0 bg-position-center position-relative overflow-hidden py-5" style="background-image: url(assets/img/landing/saas-3/hero/hero-bg-2.jpg);">
         <div class="container position-relative zindex-2 pt-5 pb-md-1 pb-lg-1">
           <div class="row pt-0 pb-1 py-md-4 py-sm-4 ">
+                 <!-- Parallax gfx -->
+            <div class="col-xl-7 col-md-6 d-md-flex mt-5 pt-5 justify-content-end">
+              <div class="parallax mx-auto ms-md-0 me-md-n5 h-75" style="max-width: 1200px;">
+                <div class="parallax-layer zindex-2" data-depth="0.1">
+                  <%--<img src="assets/img/landing/saas-3/hero/layer04.png" alt="Card">--%>
+                </div>
 
+              </div>
+            </div>
             <!-- Text -->
             <div class="col-xl-5 col-md-6 pt-lg-5 pt-xl-5 pt-xxl-5 pt-1 mt-lg-5 mt-xl-5 mt-xxl-5 mt-1 text-center text-md-start mb-4 mb-md-0">
 
@@ -17,9 +25,9 @@
                   </div>
 
 
-                <h1 class="fs-4 d-xl-block pb-lg-5 pb-sm-5 pb-5 pt-lg-0 pt-md-0 pt-4">Real-world protection when the world is your office</h1>
+                <h1 class="fs-4 d-xl-block pb-lg-5 pb-sm-5 pb-5 pt-lg-0 pt-md-0 pt-4">Real-world protection when the world is your office.</h1>
                   <p class="fs-5 pb-lg-4 pb-4">Airports, cafes, restaurants, high schools, colleges,and even shared workspaces. They're all hotbeds for laptop theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
-                  <p class="fs-5 pb-lg-5 pb-4">LapLok is a new pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
+                  <p class="fs-5 pb-lg-5 pb-4">LapLok is a new, pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
 
               <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-lg btn-primary">
                 Buy Now!
@@ -27,15 +35,7 @@
               </a>
             </div>
 
-             <!-- Parallax gfx -->
-            <div class="col-xl-7 col-md-6 d-md-flex mt-5 pt-5 justify-content-end">
-              <div class="parallax mx-auto ms-md-0 me-md-n5 h-75" style="max-width: 1200px;">
-                <div class="parallax-layer zindex-2" data-depth="0.1">
-                  <img src="assets/img/landing/saas-3/hero/layer04.png" alt="Card">
-                </div>
-
-              </div>
-            </div>
+          
           </div>
         </div>
       </section>
