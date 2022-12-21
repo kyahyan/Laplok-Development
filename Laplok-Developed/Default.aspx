@@ -26,7 +26,7 @@
 
 
                 <h1 class="fs-4 d-xl-block pb-lg-5 pb-sm-5 pb-5 pt-lg-0 pt-md-0 pt-4">Real-world protection when the world is your office.</h1>
-                  <p class="fs-5 pb-lg-4 pb-4">Airports, cafes, restaurants, high schools, colleges,and even shared workspaces. They're all hotbeds for laptop theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
+                  <p class="fs-5 pb-lg-4 pb-4">Airports, cafes, restaurants, high schools, collegesand even shared workspaces. They're all hotbeds for laptop theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
                   <p class="fs-5 pb-lg-5 pb-4">LapLok is a new, pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
 
               <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-lg btn-primary">

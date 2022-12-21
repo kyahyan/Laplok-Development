@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="recordingandresetting.aspx.cs" Inherits="Laplok_Developed.recordingandresetting" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-            <section class="bg-primary mb-2 mb-lg-3">
+            <section class="bg-dark mb-2 mb-lg-3">
 
               <div class="container">
                   <div class="row justify-content-center text-center pb-sm-2 py-lg-5">
