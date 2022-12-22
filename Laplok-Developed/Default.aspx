@@ -144,10 +144,10 @@ alarm volume is adjustable and can be turned off if desired.</p>
         </div>
       </section>
 
-      <section class="container mt-5 mb-md-3 mb-lg-2 pb-4">
+      <section class="container mt-3 mb-md-3 mb-lg-2 pb-4">
 
           <!-- Nav tabs alternative style -->
-          <ul class="nav nav-tabs-alt" role="tablist">
+          <ul class="nav nav-tabs-alt d-lg-flex d-md-block d-none" role="tablist">
             <li class="nav-item">
               <a href="#num1" class="nav-link active" data-bs-toggle="tab" role="tab">
 
@@ -181,7 +181,7 @@ alarm volume is adjustable and can be turned off if desired.</p>
           </ul>
 
           <!-- Tabs content -->
-          <div class="tab-content">
+          <div class="tab-content d-lg-block d-md-block d-none">
             <div class="tab-pane fade show active" id="num1" role="tabpanel">
               <div class="row pt-5">
                 <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
@@ -189,7 +189,7 @@ alarm volume is adjustable and can be turned off if desired.</p>
                     <img src="assets/img/portfolio/list/11.jpg" class="rounded-3" width="600" alt="Image">
                   </a>
                 </div>
-                <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
+                <div class="col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Aircraft-Grade Aluminum</h2>
                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">LapLok is designed with the highest-grade and highest-performing materials in the world. </p>
@@ -227,11 +227,11 @@ alarm volume is adjustable and can be turned off if desired.</p>
             <div class="tab-pane fade" id="num3" role="tabpanel">
               <div class="row pt-5">
                 <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
-                  <a href="#" class="float-md-end">
+                  <div class="float-md-end">
                     <img src="assets/img/portfolio/list/06.jpg" class="rounded-3" width="600" alt="Image">
-                  </a>
+                  </div>
                 </div>
-                <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
+                <div class=" col-md-6 order-md-1 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Software Enabled Password Management</h2>
                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">Take complete control of your passwords with LapLok's built-in password management algorithm. </p>
@@ -280,7 +280,181 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
             </div>
           </div>
 
+          <%-- Feature Swiper --%>
+          <div class="px-2 px-sm-0 d-lg-none d-md-none d-sm-block h-50">
+              <div class="swiper mx-n2" data-swiper-options='{
+                "slidesPerView": 1,
 
+                "spaceBetween": 8,
+                "navigation": {
+                  "prevEl": ".prev",
+                  "nextEl": ".next"
+                },
+
+                "loop": false,
+               
+                "breakpoints": {
+                  "600": { "slidesPerView": 2 }
+                }
+              }'>
+                <div class="swiper-wrapper">
+
+                  <!-- Aircraft -->
+                  <div class="swiper-slide h-auto pt-4 pb-3 px-2" >
+                   <div class="row pt-5">
+                <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
+                  <div class="float-md-end">
+                       
+                       <div class="d-flex justify-content-center justify-content-lg-start position-relative pt-lg-5">
+                           <img src="assets/img/portfolio/list/11.jpg" class="rounded-3" width="600" alt="Image">
+                        <button type="button" class="next btn btn-next bg-transparent btn-sm shadow-none">
+                 <i class='bx bx-right-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25'></i>
+                </button>
+                                </div>
+                              </div>
+                            </div>
+                <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
+                  <div class="pe-md-4 me-md-2">
+                   <h2 class="h3">Aircraft-Grade Aluminum</h2>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">LapLok is designed with the highest-grade and highest-performing materials in the world. </p>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
+                                world travel while offering unrivaled levels of protection from theft.</p>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1"> This creative and innovative design makes LapLok one of the unique items of its kind on the market. </p>
+                  </div>
+                </div>
+                       
+                      
+              </div>
+                  </div>
+                      <!-- Next Generation Locking Solutions -->
+                  <div class="swiper-slide h-auto pt-4 pb-3 px-2" >
+                   <div class="row pt-5">
+                <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
+                  <div class="float-md-end">
+                   
+                       <div class="d-flex justify-content-center justify-content-lg-start position-relative pt-lg-5">
+                            <img src="assets/img/portfolio/list/08.jpg" class="rounded-3" width="600" alt="Image">
+                    <button type="button" class="prev btn btn-prev bg-transparent btn-sm me-3 shadow-none">
+              <i class='bx bx-left-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+                 
+                 <button type="button" class="next btn btn-next bg-transparent btn-sm shadow-none">
+                 <i class='bx bx-right-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25'></i>
+                </button>
+            </div>
+                  </div>
+                </div>
+                     
+              <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
+                  <div class="pe-md-4 me-md-2">
+                    <h2 class="h3">Next Generation Locking Solutions</h2>
+                   <p class=" d-lg-block pb-1 mb-1 mb-md-1">
+                       Traditional methods of protecting unaccompanied laptops have been ineffective and impractical.</p>
+                   <p class=" d-lg-block pb-1 mb-1 mb-md-1">LapLok is a next-generation locking solution that allows users to secure their laptops anywhere they work. 
+                       It is the most high-tech and modern solution available, making it a must-have for work-from-anywhere professionals. </p>
+
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">This intelligent device has an adjustable arm,
+                       an alarm, an accelerometer, and a host of other security
+                       features to keep your device safe.</p>
+
+
+                  </div>
+                </div>           
+                      
+              </div>
+                  </div>
+
+                        <!-- Software Enabled Password Management -->
+                  <div class="swiper-slide h-auto pt-4 pb-3 px-2" >
+                    <div class="row pt-5">
+                <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
+                  <div class="float-md-end">
+                   
+                           <div class="d-flex justify-content-center justify-content-lg-start position-relative pt-lg-5">
+                          <img src="assets/img/portfolio/list/06.jpg" class="rounded-3" width="600" alt="Image">
+
+                             <button type="button" class="prev btn btn-prev bg-transparent btn-sm me-3 shadow-none">
+              <i class='bx bx-left-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+                 
+                 <button type="button" class="next btn btn-next bg-transparent btn-sm shadow-none">
+                 <i class='bx bx-right-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25'></i>
+                </button>
+                  </div>
+                </div>
+                <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
+                  <div class="pe-md-4 me-md-2">
+                    <h2 class="h3 pt-3 pt-lg-0">Software Enabled Password Management</h2>
+                    <p class=" d-lg-block pb-1 mb-1 mb-md-1">Take complete control of your passwords with LapLok's built-in password management algorithm. </p>
+                        <p class=" d-lg-block pb-1 mb-1 mb-md-1">Say goodbye to
+                         annoying and inefficient physical keys and hello to advanced and secure cloud password technology.</p>
+                      <p class=" d-lg-block pb-1 mb-1 mb-md-1">You can easily record &amp; reset passwords when necessary due to employee changes or if a code is
+                         forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
+                  </div>
+                </div>
+                        </div>
+              </div>
+                  </div>
+                        <!-- Dual Purpose Functionality -->
+                  <div class="swiper-slide h-auto pt-4 pb-3 px-2" >
+                   <div class="row pt-5">
+                <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
+                  <div class="float-md-end">
+                  
+
+                         <div class="d-flex justify-content-center justify-content-lg-start position-relative pt-lg-5">
+                        <img src="assets/img/portfolio/list/07.jpg" class="rounded-3" width="600" alt="Image">
+
+                             <button type="button" class="prev btn btn-prev bg-transparent btn-sm me-3 shadow-none">
+              <i class='bx bx-left-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+                 
+                 <button type="button" class="next btn btn-next bg-transparent btn-sm shadow-none">
+                 <i class='bx bx-right-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25'></i>
+                </button>
+                  </div>
+                  </div>
+                </div>
+                <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
+                  <div class="pe-md-4 me-md-2">
+                    <h2 class="h3">Dual Purpose Functionality</h2>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">You&#39;re rarely working alone with just a laptop. Typically, it's accompanied by an entire bag of belongings you must keep safe. </p>
+                        <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why we&#39;ve equipped LapLok with a built-in bag-locking feature that
+                                                    provides a convenient and secure place to leave your bag.</p>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">BagLok is sold separately but directly attaches to the LapLok product for an easy-to-carry, lightweight, and
+                                dynamic protection device. </p>
+                  </div>
+                </div>
+              </div>
+                  </div>
+                        <!-- Device Compatibility -->
+                  <div class="swiper-slide h-auto pt-4 pb-3 px-2" >
+                  <div class="row pt-5">
+                <div class="col-md-6 order-md-2 pb-1 mb-3 pb-md-0 mb-md-0">
+                          <div class="float-md-end">
+                         <div class="d-flex justify-content-center justify-content-lg-start position-relative pt-lg-5">
+                      <img src="assets/img/portfolio/list/63.jpg" class="rounded-3" width="600" alt="Image">
+
+                             <button type="button" class="prev btn btn-prev bg-transparent btn-sm me-3 shadow-none">
+              <i class='bx bx-left-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+               
+                  </div>
+                  </div>
+                </div>
+                <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
+                  <div class="pe-md-4 me-md-2">
+                    <h2 class="h3">Device Compatibility</h2>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">The work-from-anywhere professional needs a holistic protection solution that works with a wide variety of devices. </p>
+                     <p class=" d-lg-block pb-1 mb-1 mb-md-1">That&#39;s why LapLok is designed to function seamlessly with any device, including all laptops and all tablets.</p>
+                  </div>
+                </div>
+              </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
 
       </section>
 
