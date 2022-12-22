@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="faq.aspx.cs" Inherits="Laplok_Developed.faq" %> 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
       <!-- Hero -->
-  <section class="dark-mode position-relative pt-5" style="background-color: #151922;">
+  <section class="dark-mode position-relative pt-5 mb-5" style="background-color: #151922;">
 
     <!-- Content -->
     <div class="container position-relative zindex-2 pt-5 pb-2 pb-md-0">
@@ -44,44 +44,9 @@
     </div>
   </section>
 
-
-  <!-- Email + Phone -->
-  <section class="container py-5 my-md-2 my-lg-4 my-xl-5">
-    <div class="row justify-content-center pt-5 pb-1 pb-sm-2 pb-md-3">
-      <div class="col-xxl-8 col-xl-9 col-lg-10 pt-sm-2 pt-md-5">
-        <div class="d-sm-flex">
-          <div class="d-flex flex-column w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5 pb-3 pb-sm-0 mb-4 mb-sm-0">
-            <div class="card-body p-0">
-              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
-                <i class="bx bx-envelope"></i>
-              </div>
-              <p class="pb-2 pb-sm-3 mb-3">Please feel free to drop us a line. We will respond as soon as possible.</p>
-            </div>
-            <div class="card-footer border-0 p-0">
-              <a href="mailto:contact-us@Laplok.com" class="btn btn-lg btn-primary">Send email</a>
-            </div>
-          </div>
-          <div class="vr text-border d-none d-sm-inline-block m-4"></div>
-          <div class="card w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5">
-            <div class="card-body p-0">
-              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
-                <i class="bx bx-phone-call"></i>
-              </div>
-              <p class="pb-2 pb-sm-3 mb-3">If you need immediate assistance feel free to call us any time.</p>
-            </div>
-            <div class="card-footer border-0 p-0">
-              <a href="tel:4065550120" class="btn btn-lg btn-primary">Call us</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-      
- <!-- FAQ (Accordion) -->
- <section class="container pt-1 pt-lg-3">
-  <div class="position-relative bg-primary rounded-3 overflow-hidden px-3 px-sm-4 px-md-0 py-5">
+     <!-- FAQ (Accordion) -->
+ <section class="container py-lg-5 py-2 my-md-3 my-lg-5 my-xl-5">
+  <div class="position-relative bg-primary rounded-3 overflow-hidden px-3 px-sm-4 px-md-0 py-5 mt-5">
 
     <!-- Parallax patterns -->
     <div class="rellax position-absolute top-0 start-0 w-100 h-100 d-none d-lg-block" data-rellax-percentage="0.5" data-rellax-speed="1.75">
@@ -394,7 +359,43 @@
       </div>
     </div>
   </div>
-</section>
+</section>      
+    
+  <!-- Email + Phone -->
+  <section class="container pt-1 pt-lg-3 pb-5 mb-5">
+    <div class="row justify-content-center pt-5 pb-1 pb-sm-2 pb-md-3">
+      <div class="col-xxl-8 col-xl-9 col-lg-10 pt-sm-2 pt-md-5">
+        <div class="d-sm-flex">
+          <div class="d-flex flex-column w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5 pb-3 pb-sm-0 mb-4 mb-sm-0">
+            <div class="card-body p-0">
+              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
+                <i class="bx bx-envelope"></i>
+              </div>
+              <p class="pb-2 pb-sm-3 mb-3">Please feel free to drop us a line. We will respond as soon as possible.</p>
+            </div>
+            <div class="card-footer border-0 p-0">
+              <a href="mailto:contact-us@Laplok.com" class="btn btn-lg btn-primary">Send email</a>
+            </div>
+          </div>
+          <div class="vr text-border d-none d-sm-inline-block m-4"></div>
+          <div class="card w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5">
+            <div class="card-body p-0">
+              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
+                <i class="bx bx-phone-call"></i>
+              </div>
+              <p class="pb-2 pb-sm-3 mb-3">If you need immediate assistance feel free to call us any time.</p>
+            </div>
+            <div class="card-footer border-0 p-0">
+              <a href="tel:4065550120" class="btn btn-lg btn-primary">Call us</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+      
+
 
 
 </asp:Content>
