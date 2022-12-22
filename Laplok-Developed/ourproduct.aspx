@@ -280,7 +280,7 @@
         <h2 class="h1 text-center pb-3 pb-lg-4">Product Information</h2>
 
         <!-- Nav tabs -->
-        <ul class="nav nav-tabs flex-nowrap justify-content-lg-center overflow-auto pb-2 mb-2 mb-lg-2" role="tablist">
+        <ul class="nav nav-tabs flex-nowrap justify-content-lg-center overflow-auto pb-2 mb-2 mb-lg-2 d-none d-lg-flex d-md-flex" role="tablist">
           <li class="nav-item" role="presentation">
             <button class="nav-link text-nowrap active" id="laplok-tab" data-bs-toggle="tab" data-bs-target="#laplok" type="button" role="tab" aria-controls="laplok" aria-selected="true">
               <i class="bx bx-lock fs-lg opacity-60 me-2"></i>
@@ -309,27 +309,27 @@
 
 
         <!-- Tab panes -->
-        <div class="tab-content rounded-3 py-4">
+        <div class="tab-content rounded-3 py-4 d-lg-block d-md-block d-none">
 
           <!-- Project Management -->
           <div class="tab-pane fade show active" id="laplok" role="tabpanel" aria-labelledby="laplok-tab">
             <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-3 px-sm-4 px-lg-0">
               <div class="col-lg-6 col-md-7 mt-md-0 mt-lg-3">
                 <img src="assets/img/pro.jpg" class="d-block my-lg-2 mx-auto me-md-0" width="595" alt="Image">
-                   <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">LapLok</h2>
-                  <div class="d-none d-lg-none d-md-block pt-md-3">
+                    <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-2 d-none d-md-block d-lg-none d-sm-none">LapLok</h2>
+                <div class="d-lg-none d-block">
+
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
                         <li>Weight 14oz (just under 1 LB) </li>
                         <li>LWH: 4x1.3x7.5”</li>
-                        <li style="list-style: none;" class="pt-2 pt-md-4">
-                            <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-2 ms-n4" target="_blank" rel="noopener">
-                            <i class="bx bx-cart fs-4 lh-1 me-1"></i>
-                            <span>&nbsp;Buy now</span>
-                            </a>
-                        </li>
+                        <li class="mt-4 ms-n4 list-unstyled"><a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
+                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                        &nbsp;Buy now
+                      </a></li>
                     </ul>
                   </div>
+                
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-1 d-block d-md-none d-lg-block d-sm-block mt-sm-1">LapLok</h2>
@@ -378,7 +378,7 @@
                     </div>
                   </div>
                 </div>
-                  <div class="d-block d-lg-block d-md-none d-sm-block">
+                  <div class="d-lg-block d-none">
                     <h1 class="h4">Weight & Dimensions:</h1>
                     <ul>
                         <li>Weight 14oz (just under 1 LB) </li>
@@ -389,6 +389,7 @@
                       </a></li>
                     </ul>
                   </div>
+                    
               </div>
             </div>
           </div>
@@ -415,7 +416,7 @@
                   </div>
               </div>
               <div class="col-lg-6 col-md-5 pe-5">
-                 <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-block d-md-none d-lg-block d-sm-block">BagLok</h2>
+                  <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-0 d-lg-block d-none">BagLok</h2>
                 <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Anywhere your laptop goes, your bag follows closely behind. 
                     That's why we've designed a committed, high-tech, and secure anti-theft device for your bag that hooks directly onto our LapLok device for the ultimate security functionality. </p>
 
@@ -604,6 +605,430 @@
       
 
         </div>
+          
+
+          <%-- Swiper Carousel for Mobile --%>
+            <div class="rounded-3 d-lg-none d-block d-md-none d-lg-none h-25">
+                      <!-- Pagination (bullets) -->
+          <div class="swiper-pagination position-relative pt-2 pt-sm-3 mt-4"></div>
+       
+              <div class="swiper mt-n5" data-swiper-options='{
+                "slidesPerView": 1,
+
+                "spaceBetween": 10,
+                "navigation": {
+                  "prevEl": ".prev",
+                  "nextEl": ".next"
+                },
+                   "pagination": {
+            "el": ".swiper-pagination",
+            "clickable": true
+          },
+
+                "loop": false,
+               
+                "breakpoints": {
+                  "600": { "slidesPerView": 1 }
+                }
+              }'>
+
+                  <div class="swiper-wrapper">
+                  
+                <!-- Project Management -->
+                  <div class="swiper-slide h-auto pt-4 pb-3 px-0" >
+                <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-12 mt-md-0 mt-lg-3">
+                  <div class="d-sm-block position-relative pt-lg-5">
+
+                      <img src="assets/img/pro.jpg"  class="my-lg-2 mx-auto me-md-0" width="595" alt="Image">
+                       
+
+                        <button type="button" class="next btn btn-next bg-transparent btn-sm shadow-none end-0">
+                     <i class='bx bx-right-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+
+                  </div>
+                  <div class="d-flex justify-content-end position-relative pt-lg-5 mt-n5">
+                         <a href="#product_information" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2"  data-bs-toggle="modal" data-bs-target="#LapLokModal">
+                            <i class="bx bx-cog fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;View Details</span>
+                            </a>
+                        <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2" target="_blank" rel="noopener">
+                            <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;Buy Now</span>
+                            </a>
+                  </div>
+              </div>
+              <div class="col-lg-6 col-12 pe-5 pt-md-3">
+                <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-1 d-block mt-sm-1">LapLok</h2>
+                <p class="d-block d-lg-none">Our flagship laptop anti-theft device is built with the most robust materials while still maintaining a lightweight and 
+                    portable design that makes it convenient for on-the-go professionals.</p>
+
+              </div>
+
+            </div>
+                  </div>
+                    <!-- Remote Work -->
+                <div class="swiper-slide h-auto pt-4 pb-3 px-0" >
+                <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-12 mt-md-0 mt-lg-3">
+                  <div class="d-sm-flex position-relative pt-lg-5">
+
+                      <img src="assets/img/pro-2.jpg" class="my-lg-2 mx-auto me-md-0" width="595" alt="Image">
+                                           <button type="button" class="prev btn btn-prev bg-transparent btn-sm shadow-none start-0">
+                     <i class='bx bx-left-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+                     <button type="button" class="next btn btn-next bg-transparent btn-sm shadow-none end-0">
+                     <i class='bx bx-right-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+
+                  </div>
+                  <div class="d-flex justify-content-end position-relative pt-lg-5 mt-n5">
+                         <a href="#product_information" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2"  data-bs-toggle="modal" data-bs-target="#BagLokModal">
+                            <i class="bx bx-cog fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;View Details</span>
+                            </a>
+                        <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2" target="_blank" rel="noopener">
+                            <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;Buy Now</span>
+                            </a>
+                  </div>
+              </div>
+              <div class="col-lg-6 col-12 pe-5 pt-md-3">
+                <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-1 d-block mt-sm-1">BagLok</h2>
+               <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Anywhere your laptop goes, your bag follows closely behind. 
+                    That's why we've designed a committed, high-tech, and secure anti-theft device for your bag that hooks directly onto our LapLok device for the ultimate security functionality. </p>
+
+              </div>
+
+            </div>
+                  </div>
+                       <!-- Product Release -->
+               <div class="swiper-slide h-auto pt-4 pb-3 px-0" >
+                <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-12 mt-md-0 mt-lg-3">
+                  <div class="d-sm-flex position-relative pt-lg-5">
+
+                      <img src="assets/img/pro-3b.jpg"  class="my-lg-2 mx-auto me-md-0" width="595" alt="Image">
+                                           <button type="button" class="prev btn btn-prev bg-transparent btn-sm shadow-none start-0">
+                     <i class='bx bx-left-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+                     <button type="button" class="next btn btn-next bg-transparent btn-sm shadow-none end-0">
+                     <i class='bx bx-right-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+
+                  </div>
+                  <div class="d-flex justify-content-end position-relative pt-lg-5 mt-n5">
+                         <a href="#product_information" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2"  data-bs-toggle="modal" data-bs-target="#SmartModal">
+                            <i class="bx bx-cog fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;View Details</span>
+                            </a>
+                        <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2" target="_blank" rel="noopener">
+                            <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;Buy Now</span>
+                            </a>
+                  </div>
+              </div>
+              <div class="col-lg-6 col-12 pe-5 pt-md-3">
+                <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-1 d-block mt-sm-1">Smartphone Holster</h2>
+               <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Expand your work screens by having your phone conveniently attached to your laptop. 
+                    Our smartphone holster easily attaches to the side of any laptop and offers a nice ergonomic display you can use as a second screen while using your laptop.</p>
+
+              </div>
+
+            </div>
+                  </div>
+                      <!--Arm Mount-->
+                <div class="swiper-slide h-auto pt-4 pb-3 px-0" >
+                <div class="row align-items-center align-items-md-start pt-3 pt-sm-4 pt-md-1 px-sm-4 px-lg-0">
+              <div class="col-lg-6 col-12 mt-md-0 mt-lg-3">
+                  <div class="d-sm-flex position-relative pt-lg-5">
+
+                    <img src="assets/img/pro-5.jpg" class="my-lg-2 mx-auto me-md-0" width="595" alt="Image">
+                                            <button type="button" class="prev btn btn-prev bg-transparent btn-sm shadow-none start-0">
+                     <i class='bx bx-left-arrow-alt bx-border-circle border-light border-5 text-light text-bg-dark bg-opacity-25' ></i>
+                </button>
+                  </div>
+                  <div class="d-flex justify-content-end position-relative pt-lg-5 mt-n5">
+                         <a href="#product_information" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2"  data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <i class="bx bx-cog fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;View Details</span>
+                            </a>
+                        <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 ms-1 p-2 end-0 me-2" target="_blank" rel="noopener">
+                            <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                            <span>&nbsp;Buy Now</span>
+                            </a>
+                  </div>
+              </div>
+              <div class="col-lg-6 col-12 pe-5 pt-md-3">
+                <h2 class="h3 mb-sm-4 mt-4 mt-lg-0 mt-md-1 d-block mt-sm-1">Additional Mounting Arm</h2>
+               <p class="d-md-none d-xl-block pb-2 pb-md-1 mb-3">Have multiple devices you want to secure? You can purchase additional LapLok arm mounts that connect semi-permanently to the bottom of your device.
+                   <br />Any time you want to connect your LapLok, simply swivel out the mount arm to latch into your LapLok.</p>
+
+              </div>
+
+            </div>
+                  </div>
+                       
+
+                </div>
+              
+              </div>
+            </div>
+         
+          
+          <!-- Modal -->
+          <!--Laplok-->
+<div class="modal fade" id="LapLokModal" tabindex="-1" aria-labelledby="LapLokModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable ">
+    <div class="modal-content">
+          <div class="modal-header">
+        <h5 class="modal-title" id="LapLokModalLabel">LapLok</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          
+       <div class="border rounded-3 mb-4 mb-lg-3 mb-md-1">
+                  <div class="row row-cols-1 row-cols-sm-2 g-0">
+                    <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
+                      <i class="bx bx-shield-alt-2 fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-1">Hardened steel</h3>
+                        <p class="fs-xs2 mb-0">Built with the most durable and high-grade steel</p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center border-bottom p-3 col-sm-12 col-md-12 col-lg-6">
+                      <i class="bx bxs-plane-alt fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Aircraft-Grade Aluminum</h3>
+                        <p class="fs-xs2 mb-0">Designed with the same premium aluminum used for aircraft</p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
+                      <i class="bx bxs-adjust fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Dual Functionality</h3>
+                        <p class="fs-xs2 mb-0">Use it to protect your laptop, bags, and phone </p>
+                      </div>
+                    </div>
+                    <hr class="d-sm-none">
+                    <div class="col d-flex align-items-center border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
+                      <i class="bx bx-user-check fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Compact and Convenient</h3>
+                        <p class="fs-xs2 mb-0">Lightweight and portable, you can take it wherever you go</p>
+                      </div>
+                    </div>
+
+                    <div class="col d-flex align-items-center p-3 pb-3 pb-lg-4 pt-lg-4 w-sm-100 w-lg-100">
+                      <i class="bx bx-bulb fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Intelligent/Smart Password
+                          Management</h3>
+                        <p class="fs-xs2 mb-0">Manage your digital passwords with powerful built-in functionality. </p>
+                      </div>
+
+                    </div>
+                       
+                  </div>
+  
+                </div>
+                 <div class="d-block d-lg-block d-md-none d-sm-block pt-1">
+                <h1 class="h4">Weight & Dimensions:</h1>
+                <ul>
+                      <li>Weight 14oz (just under 1 LB) </li>
+                        <li>LWH: 4x1.3x7.5”</li>
+                </ul>
+               </div>
+      </div>
+        <div class="modal-footer">
+       
+       <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
+                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                        &nbsp;Buy now
+                      </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+           <!--BagLok-->
+<div class="modal fade" id="BagLokModal" tabindex="-1" aria-labelledby="BagLokModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable ">
+    <div class="modal-content">
+          <div class="modal-header">
+        <h5 class="modal-title" id="BagLokModalLabel">BagLok</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          
+       <div class="border rounded-3 mb-4 mb-lg-3 mb-md-1">
+                  <div class="row row-cols-1 row-cols-sm-2 g-0">
+                    <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
+                      <i class="bx bx-check-circle fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Convenient</h3>
+                        <p class="fs-xs2 mb-0">Ergonomic design makes it a cinch to use</p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
+                      <i class="bx bx-cut fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Non-Cuttable Nylon</h3>
+                        <p class="fs-xs2 mb-0">Highly durable nylon that’s virtually impossible to cut</p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
+                      <i class="bx bx-cog fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Add-On Functionality </h3>
+                        <p class="fs-xs2 mb-0">Easily hooks onto the LapLok device</p>
+                      </div>
+                    </div>
+                    <hr class="d-sm-none">
+                    <div class="col d-flex align-items-center border-bottom p-3 col-md-12 col-sm-12 col-lg-6 ">
+                      <i class="bx bxl-codepen fs-1 opacity-60 me-2"></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0">Premier Anti-Theft Technology </h3>
+                        <p class="fs-xs2 mb-0">Advanced security features keep your bags safe</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="d-block d-lg-block d-md-none d-sm-block pt-1">
+                <h1 class="h4">Weight & Dimensions:</h1>
+                <ul>
+                     <li>Weight 2oz</li>
+                     <li>Length 8”</li>
+
+                </ul>
+               </div>
+        
+      </div>
+        <div class="modal-footer">
+       
+       <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
+                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                        &nbsp;Buy now
+                      </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+            <!--SmartPhone-->
+<div class="modal fade" id="SmartModal" tabindex="-1" aria-labelledby="SmartModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable ">
+    <div class="modal-content">
+          <div class="modal-header">
+        <h5 class="modal-title" id="SmartModalLabel">Smartphone Holster</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          
+         <div class="border rounded-3 mb-4 mb-lg-4">
+                  <div class="row row-cols-1 row-cols-sm-2 g-0">
+                    <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6">
+                      <i class='bx bx-mobile-alt fs-1 opacity-60'></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0 mb-sm-1">Compatibility</h3>
+                        <p class="fs-xs2 mb-0">Works with most iPhone and Android phones</p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center border-bottom p-3 col-md-12 col-sm-12 col-lg-6">
+                      <i class='bx fs-1 bx-magnet opacity-60'></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0 mb-sm-1">Magnetic Installation</h3>
+                        <p class="fs-xs2 mb-0">Quick and easy installation using strong magnets</p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center p-3 w-sm-100">
+                      <i class='bx bxl-sketch fs-1 opacity-60'></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0 mb-sm-1">Ergonomic design</h3>
+                        <p class="fs-xs2 mb-0">User-friendly design makes it functional and secure</p>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+               <div class="d-block d-lg-block d-md-none d-sm-block">
+                <h1 class="h4">Weight & Dimensions:</h1>
+                <ul>
+                    <li>Weight 1.23oz</li>
+                    <li>LWH: 5.43
+                      x 2.01 x 0.6</li>
+
+                </ul>
+                </div>
+        
+      </div>
+        <div class="modal-footer">
+       
+        <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
+                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                        &nbsp;Buy now
+                      </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+             <!--Mounting Arm-->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable ">
+    <div class="modal-content">
+          <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Additional Mounting Arm</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          <div class="border rounded-3 mb-4 mb-lg-4">
+                  <div class="row row-cols-1 row-cols-sm-2 g-0">
+                    <div class="col d-flex align-items-center border-end-sm border-bottom p-3 col-md-12 col-sm-12 col-lg-6">
+                      <i class='bx bx-laptop fs-1 opacity-60'></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0 mb-sm-1">Compatibility</h3>
+                        <p class="fs-xs2 mb-0">Easily connects to the bottom of all types of laptops</p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center border-bottom p-3 col-md-12 col-sm-12 col-lg-6">
+                      <i class='bx fs-1 bxs-hard-hat opacity-60'></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0 mb-sm-1">Durability</h3>
+                        <p class="fs-xs2 mb-0">Designed to last through decades of use </p>
+                      </div>
+                    </div>
+                    <div class="col d-flex align-items-center  p-3 w-md-100">
+                      <i class='bx bxl-sketch fs-1 opacity-60'></i>
+                      <div class="ps-2 ms-1">
+                        <h3 class="h6 mb-0 mb-sm-1">Convenience</h3>
+                        <p class="fs-xs2 mb-0">Easy to use with ergonomic design</p>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+               <div class="d-block d-lg-block d-md-none d-sm-block">
+                <h1 class="h4">Weight & Dimensions:</h1>
+                <ul>
+                   <li>Weight 2.0oz</li>
+                    <li>LWH: 10x1.97x.20 in</li>
+                </ul>
+                </div>
+        
+      </div>
+        <div class="modal-footer">
+       
+       <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary d-sm-4 " target="_blank" rel="noopener">
+                        <i class="bx bx-cart fs-4 lh-1 me-1"></i>
+                        &nbsp;Buy now
+                      </a>
+      </div>
+    </div>
+  </div>
+</div>
       </section>
+     
 
 </asp:Content>
