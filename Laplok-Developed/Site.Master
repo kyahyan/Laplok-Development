@@ -103,13 +103,13 @@
               </a>
             </div>      
           </div>
-          <div class="pe-lg-1 ms-auto me-1 ms-sm ">
+          <div class="pe-lg-1 ms-auto me-lg-1 me-1 ms-sm ">
             <a href="/login" class="btn btn-link w-100">
               <i class="bx bx-user fs-4 lh-1 me-sm-1 me-md-2"></i>
               &nbsp;Sign In
             </a>
           </div>
-          <button type="button" class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <button type="button" class="navbar-toggler me-3" data-bs-toggle="offcanvas" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <a href="https://www.indiegogo.com/projects/laplok-secure-your-laptop-wherever-you-work#/" class="btn btn-primary btn-sm fs-sm rounded d-none d-lg-inline-flex" target="_blank" rel="noopener">
