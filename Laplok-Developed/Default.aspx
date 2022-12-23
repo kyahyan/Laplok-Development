@@ -46,9 +46,13 @@
         <div class="row g-0 ">
           <div class="col-xl-7 col-lg-6 pe-lg-5">
             <div class="d-flex d-sm-flex h-100 pe-xl-4 justify-content-center align-items-center">
-
+                   <div class="gallery mb-4 pb-2" data-video="true">
+                <a href="https://www.youtube.com/embed/jDhd0MaBzSw" class="gallery-item video-item is-hovered rounded-3" data-sub-html="<h6 class=&quot;fs-sm text-light&quot;>Video inside blog post</h6>" data-lg-id="b1287c31-58d4-4927-b8f1-a199ef8dbc94">
+                  <img src="assets/img/video-cover.jpg" alt="Video preview">
+                </a>
+              </div>
               <!-- <video class="w-100" autoplay muted loop controls style="object-fit: cover;" data-yt2html5="https://www.youtube.com/watch?v=ScMzIvxBSi4" controls></video> -->
-              <iframe class="w-100 h-100px" style="object-fit: cover;" src="https://www.youtube.com/embed/jDhd0MaBzSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <%--  <iframe class="w-100 h-100px" style="object-fit: cover;" src="https://www.youtube.com/embed/jDhd0MaBzSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--%>
 
 
             </div>

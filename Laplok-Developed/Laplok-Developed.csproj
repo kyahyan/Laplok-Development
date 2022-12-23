@@ -390,6 +390,7 @@
     <Content Include="assets\img\thief.png" />
     <Content Include="assets\img\tooth.jpg" />
     <Content Include="assets\img\tooth.png" />
+    <Content Include="assets\img\video-cover.jpg" />
     <Content Include="assets\img\vision.png" />
     <Content Include="assets\img\vision2.png" />
     <Content Include="assets\js\cookie-consent.js" />
