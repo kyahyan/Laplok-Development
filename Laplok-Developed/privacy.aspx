@@ -100,7 +100,7 @@
                     </ul>
                   </li>
                 <li>
-                   <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Information You Provide to Us.</p>
+                   <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Information You Provide to Us</p>
                 <p class="fs-5 mb-3">The information we collect on or through our Website may include:</p>
                     <ul>
                         <li>
@@ -123,7 +123,7 @@
                       <p class="fs-5 mb-3">You also may provide information to be published or displayed (“<span class="fw-bolder">posted</span>”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “<span class="fw-bolder">User Contributions</span>”). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
                     </li>
                 <li>
-                   <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Information We Collect Through Automatic Data Collection Technologies.</p>
+                   <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Information We Collect Through Automatic Data Collection Technologies</p>
                   <p class="fs-5 mb-3">As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:</p>
                     <ul>
                         <li><p class="fs-5 mb-3">Details of your visits to our Website, including traffic data, logs, and other communication data and the resources that you access and use on the Website.</p></li>
