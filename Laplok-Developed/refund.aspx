@@ -88,7 +88,7 @@
                     <ul>
                      <li><p class="fs-5 mb-3">The Products made to your specifications or personalized, i.e., logoed LapLoks.</p></li>
                      <li><p class="fs-5 mb-3">The Products which, according to their nature, are not suitable to be returned.</p></li>
-                     <li><p class="fs-5 mb-4">The Products’ expiry date is over.</p></li>
+                     <li><p class="fs-5 mb-4">The Products’ warranty date is over.</p></li>
                       </ul>
                      </div>
                  
@@ -112,11 +112,11 @@
                   <p class="fs-lg fw-bolder mb-0">Exchanges</p>
                 <p class="fs-5 mb-3">Contact us if you need to exchange a product for the same one. Please note that we only replace products you receive that are defective or damaged.</p>
 
-                <p class="fs-lg fw-bolder mb-0">Exchanges</p>
+                <p class="fs-lg fw-bolder mb-0">Technical Support & Warranty Claims</p>
                 <p class="fs-5 mb-3">If you would like assistance in using LapLok, please contact our technical support team at  <a href="mailto:TechnicalSupport@LapLok.com" class="text-primary">TechnicalSupport@LapLok.com</a> to troubleshoot. </p>
                  <p class="fs-5 mb-3">Our technical support team can also assist you if you wish to make a warranty claim. Only our technical support team can authorize warranty claim reimbursements.</p>
                 <p class="fs-5 mb-3">TechLok wants to do everything possible to have every customer be an extremely satisfied customer. We strongly believe in our products and the security they provide and want you to be a strong believer as well. </p>
-                <p class="fs-5 mb-4">We want you to have the utmost confidence in using our product in your daily life. If you are not 100% satisfied, we would like to hear from you. Reach us at  <a href="tel:4065550120" class="text-primary">1800-TECHLOK</a> or at <a href="mailto:contact-us@laplok.com" class="text-primary">Contact-Us@LapLok.com</a>.</p>
+                <p class="fs-5 mb-4">We want you to have the utmost confidence in using our product in your daily life. If you are not 100% satisfied, we would like to hear from you. Reach us at  <a href="tel:8324565" class="text-primary">1800-TECHLOK</a> or at <a href="mailto:contact-us@laplok.com" class="text-primary">Contact-Us@LapLok.com</a>.</p>
                 <p class="fs-5 mb-3">Thank you.</p>
             
             </div>

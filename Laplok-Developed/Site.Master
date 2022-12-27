@@ -138,7 +138,7 @@
               OUR STORY
             </div>
             <p class="fs-sm pb-lg-3 mb-4">A modern world needs modern solutions. Techlok is the new way to secure your electronics and valuables to prevent grab-and-go theft. 
-                We are creating a world where theft is harder, and safety is easier. </p>
+                We are creating a world where theft is harder and safety is easier. </p>
             <form class="needs-validation pe-sm-1" novalidate>
                
               
@@ -208,9 +208,9 @@
                 </h6>
                 <div id="other-info" class="collapse d-lg-block" data-bs-parent="#footer-links">
                   <ul class="nav flex-column mb-2 mb-lg-0">
-                    <li class="nav-item"><a href="/terms-services" class="nav-link d-inline-block px-0 pt-1 pb-2">Terms Of Services</a></li>
+                    <li class="nav-item"><a href="/terms-services" class="nav-link d-inline-block px-0 pt-1 pb-2">Terms Of Use</a></li>
                     <li class="nav-item"><a href="/privacy" class="nav-link d-inline-block px-0 pt-1 pb-2">Privacy Policy</a></li>
-                    <li class="nav-item"><a href="/refund" class="nav-link d-inline-block px-0 pt-1 pb-2">Refund Policy</a></li>
+                    <li class="nav-item"><a href="/refund" class="nav-link d-inline-block px-0 pt-1 pb-2">Return and Refund Policy</a></li>
                     <li class="nav-item"><a href="/donotsell" class="nav-link d-inline-block px-0 pt-1 pb-2">Do not sell my personal information</a></li>
                   </ul>
                 </div>

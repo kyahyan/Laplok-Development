@@ -29,7 +29,7 @@
               <h2 class="h3 pt-5">Works with all laptops and tablets</h2>
               <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">Your workflow relies on a host of devices which is why LapLok is designed to accommodate all laptops and tablets, no matter the brand or design. 
                   This gives you ultimate protection over your entire suite of devices </p>
-            <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">Additionally, you can buy an additional mount arm to use LapLok with numerous devices if you have multiple devices.</p>
+            <p class="d-md-none d-lg-block pb-1 mb-1 mb-md-2">Additionally, you can buy additional mount arms to use LapLok with numerous devices if you have multiple devices.</p>
             </div>
           </div>
         </div>

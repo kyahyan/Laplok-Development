@@ -11,7 +11,7 @@
       <div class="row justify-content-center pt-3 mt-3">
         <div class="col-xl-6 col-lg-7 col-md-8 col-sm-10 text-center">
           <h1 class="mb-4">Get in Touch</h1>
-          <p class="fs-lg pb-3 mb-3">To request a quote contact us directly or fill out the form and let us know how we can help.</p>
+          <p class="fs-lg pb-3 mb-3">To request a quote, contact us directly or fill out the form and let us know how we can help.</p>
        <div class="d-flex justify-content-center">
             <a href="https://www.facebook.com/TechlokSolutions" class="btn btn-icon btn-secondary btn-facebook rounded-circle mx-2">
               <i class="bx bxl-facebook"></i>
@@ -44,9 +44,44 @@
     </div>
   </section>
 
-     <!-- FAQ (Accordion) -->
- <section class="container py-lg-5 py-2 my-md-3 my-lg-5 my-xl-5">
-  <div class="position-relative bg-primary rounded-3 overflow-hidden px-3 px-sm-4 px-md-0 py-5 mt-5">
+
+    
+  <!-- Email + Phone -->
+  <section class="container py-lg-5 py-2 my-md-3 my-lg-5 my-xl-5">
+    <div class="row justify-content-center pt-5 pb-1 pb-sm-2 pb-md-3">
+      <div class="col-xxl-8 col-xl-9 col-lg-10 pt-sm-2 pt-md-5">
+        <div class="d-sm-flex">
+          <div class="d-flex flex-column w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5 pb-3 pb-sm-0 mb-4 mb-sm-0">
+            <div class="card-body p-0">
+              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
+                <i class="bx bx-envelope"></i>
+              </div>
+              <p class="pb-2 pb-sm-3 mb-3">Please feel free to drop us a line. We will respond as soon as possible.</p>
+            </div>
+            <div class="card-footer border-0 p-0">
+              <a href="mailto:contact-us@Laplok.com" class="btn btn-lg btn-primary">Send email</a>
+            </div>
+          </div>
+          <div class="vr text-border d-none d-sm-inline-block m-4"></div>
+          <div class="card w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5">
+            <div class="card-body p-0">
+              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
+                <i class="bx bx-phone-call"></i>
+              </div>
+              <p class="pb-2 pb-sm-3 mb-3">If you need immediate assistance feel free to call us any time.</p>
+            </div>
+            <div class="card-footer border-0 p-0">
+              <a href="tel:4065550120" class="btn btn-lg btn-primary">Call us</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+           <!-- FAQ (Accordion) -->
+      <section class="container pt-1 pt-lg-3">
+  <div class="position-relative bg-primary rounded-3 overflow-hidden px-3 px-sm-4 px-md-0 py-5">
 
     <!-- Parallax patterns -->
     <div class="rellax position-absolute top-0 start-0 w-100 h-100 d-none d-lg-block" data-rellax-percentage="0.5" data-rellax-speed="1.75">
@@ -55,7 +90,8 @@
       <img src="assets/img/landing/online-courses/pattern-3.svg" class="position-absolute top-100 start-100 translate-middle ms-n5 mt-n5" alt="Pattern">
     </div>
 
-    <div class="row justify-content-center position-relative zindex-2 py-lg-4">
+    
+     <div class="row justify-content-center position-relative zindex-2 py-lg-4">
       <div class="col-xl-8 col-lg-9 col-md-10 py-2">
         <h2 class="h1 text-light text-center mt-n2 mt-lg-0 mb-4 mb-lg-5">Frequently Asked Questions</h2>
         <div class="accordion" id="faq">
@@ -111,7 +147,7 @@
             <div class="accordion-collapse collapse" id="q-4" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
                 <p>We would not recommend using LapLok with your laptop case. Based on our internal testing,
-                    if a grab & go thief were to grab your laptop off the table, and it was attached to your case, 
+                    if a grab & go thief were to grab your laptop off the table and it was attached to your case, 
                     the case would quickly snap off & break.</p>
               </div>
             </div>
@@ -125,7 +161,7 @@
             </h3>
             <div class="accordion-collapse collapse" id="q-5" data-bs-parent="#faq">
               <div class="accordion-body fs-sm pt-0">
-                <p>Yes, it does. LapLok is a great product to use in a trade show environment or station,
+                <p>Yes, it does. LapLok is a great product to use in a trade show environment or station
                     where you want people to fill out the information on a 
                     tablet.</p>
               </div>
@@ -275,9 +311,9 @@
                   <div class="accordion-body fs-sm pt-0">
                     <p>We require all users to register their pin on our website on this <a class="text-primary" href="/recordingandresetting">page</a>.
                       We can then automatically resend your pin code. 
-                        However, we suggest you store your Pin on your smartphone with your other important passwords. 
+                        However, we suggest you store your pin on your smartphone with your other important passwords. 
                         We can only remind you of this code if you register.</p>
-                        <p>If you are unregistered and forget your code, you can visit this link <a href="/recordingandresetting" class="text-primary">here</a> to reset & record your new password. You will need to reference your serial # which is located on the bottom of your LapLok.</p>
+                        <p>If you are unregistered and forget your code, you can visit this link <a href="/recordingandresetting" class="text-primary">here</a> to reset & record your new password. You will need to reference your serial number which is located on the bottom of your LapLok.</p>
                   </div>
                 </div>
               </div>
@@ -353,48 +389,11 @@
                   </div>
                 </div>
               </div>
-         
-
         </div>
       </div>
     </div>
   </div>
 </section>      
-    
-  <!-- Email + Phone -->
-  <section class="container pt-1 pt-lg-3 pb-5 mb-5">
-    <div class="row justify-content-center pt-5 pb-1 pb-sm-2 pb-md-3">
-      <div class="col-xxl-8 col-xl-9 col-lg-10 pt-sm-2 pt-md-5">
-        <div class="d-sm-flex">
-          <div class="d-flex flex-column w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5 pb-3 pb-sm-0 mb-4 mb-sm-0">
-            <div class="card-body p-0">
-              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
-                <i class="bx bx-envelope"></i>
-              </div>
-              <p class="pb-2 pb-sm-3 mb-3">Please feel free to drop us a line. We will respond as soon as possible.</p>
-            </div>
-            <div class="card-footer border-0 p-0">
-              <a href="mailto:contact-us@Laplok.com" class="btn btn-lg btn-primary">Send email</a>
-            </div>
-          </div>
-          <div class="vr text-border d-none d-sm-inline-block m-4"></div>
-          <div class="card w-sm-50 border-0 bg-transparent text-center px-sm-1 px-md-5">
-            <div class="card-body p-0">
-              <div class="d-inline-block bg-secondary text-primary rounded-circle fs-3 lh-1 p-3 mb-3">
-                <i class="bx bx-phone-call"></i>
-              </div>
-              <p class="pb-2 pb-sm-3 mb-3">If you need immediate assistance feel free to call us any time.</p>
-            </div>
-            <div class="card-footer border-0 p-0">
-              <a href="tel:4065550120" class="btn btn-lg btn-primary">Call us</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-      
 
 
 

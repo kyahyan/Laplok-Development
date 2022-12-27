@@ -38,12 +38,12 @@
                 <p class="fs-sm mb-0">We measure our success by satisfying our customers, which is why we’re committed to providing top-of-the-line 
                     products that protect our clients and their belongings. 
                     We’re dedicated to always looking for ways to improve, so you always get the best. </p>
-              </div>
+              </div>    
               <div class="text-center text-lg-end pb-2 mb-4 mb-xl-5">
                 <img src="assets/img/services/single/icons/03.svg" class="d-inline-block" width="56" alt="Icon">
                 <h3 class="h5 pt-1 my-2">Gratitude</h3>
                 <p class="fs-sm mb-0">We firmly believe that gratitude is the best attitude. 
-                    It allows us to focus on what we have, appreciates it regularly, and stay centered on our mission. 
+                    It allows us to focus on what we have, appreciate it regularly, and stay centered on our mission. 
                     We’re wholly grateful for every customer who uses our products, as we know you’re the driver of our success. </p>
               </div>
            
