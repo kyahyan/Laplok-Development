@@ -10,7 +10,7 @@
           
           <div class="row justify-content-center pt-3 mt-3">
             <div class="col-xl-6 col-lg-7 col-md-8 col-sm-10 text-center">
-              <h1 class="display-3">Terms of Service</h1>
+              <h1 class="display-4">Website Terms of Use</h1>
             <%--  <div class="d-flex justify-content-center">
                 <a href="https://www.facebook.com/TechlokSolutions" class="btn btn-icon btn-secondary btn-facebook rounded-circle mx-2">
                   <i class="bx bxl-facebook"></i>
@@ -44,177 +44,315 @@
         <div class="row">
           <div class="mb-4 mb-lg-0">
             <div class="pe-lg-4 me-lg-3 pe-xl-0 me-xl-0">
-              <ol>
+              <ul class="list-unstyled">
                 <li>
-                  <p class="fs-lg fw-bolder mb-3">THIS DOCUMENT CONTAINS VERY IMPORTANT INFORMATION REGARDING YOUR RIGHTS AND OBLIGATIONS, AS WELL AS CONDITIONS, LIMITATIONS, AND EXCLUSIONS THAT MIGHT APPLY TO YOU. PLEASE READ IT CAREFULLY. THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS.</p>
-                  <p class="fs-lg fw-bolder mb-3">BY PLACING AN ORDER FOR PRODUCTS OR SERVICES FROM THIS WEBSITE, YOU ACCEPT AND ARE BOUND BY THESE TERMS AND CONDITIONS. YOU MAY NOT ORDER OR OBTAIN PRODUCTS OR SERVICES FROM THIS WEBSITE IF YOU (A) DO NOT AGREE TO THESE TERMS, (B) ARE NOT THE OLDER OF (i) AT LEAST 18 YEARS OF AGE OR (ii) LEGAL AGE TO FORM A BINDING CONTRACT WITH TechLok Solutions, LLC OR (C) ARE PROHIBITED FROM ACCESSING OR USING THIS WEBSITE OR ANY OF THIS WEBSITE’S CONTENTS, GOODS OR SERVICES BY APPLICABLE LAW.</p>
-                  <p class="fs-5 mb-3"> These terms and conditions (these “Terms”) apply to the purchase and sale of products and services through www.LapLok.com (the “Site”). These Terms are subject to change by TechLok Solutions, LLC (referred to as “us”, “we”, or “our” as the context may require) without prior written notice at any time, in our sole discretion. The latest version of these Terms will be posted on this Site, and you should review these Terms before purchasing any product or services that are available through this Site. Your continued use of this Site after a posted change in these Terms will constitute your acceptance of and agreement to such changes.</p>
-            
+                  <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Acceptance of the Terms of Use</p>
+                    <p class="fs-5 mb-3">These terms of use are entered into by and between You and Techlok Solutions, LLC (“<span class="fw-bolder">Company</span>,” “<span class="fw-bolder">we</span>,” or “<span class="fw-bolder">us</span>”). The following terms and conditions (“<span class="fw-bolder">Terms of Use</span>”) govern your access to and use of www.laplok.com, including any content, functionality and services offered on or through www.laplok.com (the “<span class="fw-bolder">Website</span>”), whether as a guest or a registered user.</p>
+                  <p class="fs-5 mb-3">Please read the Terms of Use carefully before you start to use the Website. 
+                      <span class="fw-bolder">By using the Website, you accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at <a href="http://laplok.com/privacy" class="text-primary">http://laplok.com/privacy</a>, which is incorporated by reference into these Terms of Use. </span>
+                        If you do not want to agree to these Terms of Use or the Privacy Policy, you must not access or use the Website.
+                      </p>
+                    <p class="fs-5 mb-3">This Website is offered and available to users who are 16 years of age or older. By using this Website, you represent and warrant that you meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Website.</p>
                 </li>
                 <li>
-                  <p class="fs-lg fw-bolder mb-0">ORDER ACCEPTANCE AND CANCELLATION</p>
-                  <p class="fs-5 mb-3">You agree that your order is an offer to buy, under these Terms, all products and services listed in your order. All orders must be accepted by us or we will not be obligated to sell the products or services to you. We may choose not to accept any orders in our sole discretion. After having received your order, we will send you a confirmation email with your order number and details of the items you have ordered. Acceptance of your order and the formation of the contract of sale between TechLok Solutions, LLC and you will not take place unless and until you have received your order confirmation email.</p>
-                </li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Changes to the Terms of Use</p>
+                     <p class="fs-5 mb-3">We may revise and update these Terms of Use from time to time in our sole discretion. All changes are effective immediately when we post them.</p>
+                   <p class="fs-5 mb-3"> Your continued use of the Website following the posting of revised Terms of Use means that you accept and agree to the changes. You are expected to check this page from time to time so you are aware of any changes, as they are binding on you.</p>
+                    </li>
                 <li>
-                  <p class="fs-lg fw-bolder mb-0">PRICES AND PAYMENT TERMS</p>
-                  <p class="fs-5 mb-3">All prices posted on this Site are subject to change without notice. The price charged for a product or service will be the price in effect at the time the order is placed and will be set out in your order confirmation email. Price increases will only apply to orders placed after such changes. Posted prices do not include taxes or charges for shipping and handling. All such taxes and charges will be added to your merchandise total and will be itemized in your shopping cart and in your order confirmation email. We are not responsible for pricing, typographical, or other errors in any offer by us and we reserve the right to cancel any orders arising from such errors. Terms of payment are within our sole discretion and, unless otherwise agreed by us in writing, payment must be received by us before our acceptance of an order. You represent and warrant that (i) the credit card information you supply to us is true, correct, and complete, (ii) you are duly authorized to use such credit card for the purchase, (iii) charges incurred by you will be honored by your credit card company, and (iv) you will pay charges incurred by you at the posted prices, including all applicable taxes, if any.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">SHIPMENTS, DELIVERY, TITLE AND RISK OF LOSS</p>
-                  <p class="fs-5 mb-3">We will arrange for shipment of the products to you. Please check the individual product page for specific delivery options. You will pay all shipping and handling charges specified during the ordering process. Title and risk of loss pass to you upon our transfer of the products to the carrier. Shipping and delivery dates are estimates only and cannot be guaranteed. We are not liable for any delays in shipments.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">RETURNS AND REFUNDS</p>
-                  <p class="fs-5 mb-3">Except for any products designated on the Site as non-returnable, we will accept a return of the products for a refund of your purchase price, less the original shipping and handling costs, provided such return is made within 30 days of shipment and provided such products are returned in their original condition. To return products, you must call  <a href="tel:4065550120" class="text-primary">1-800-TechLok</a> or email our Returns Department at <a class="text-primary" href="mailto:Returns@LapLok.com">Returns@LapLok.com</a>  to obtain aCustomer Return Authorization (<span class="fw-bolder">CRA</span>) number before shipping your product. No returns of any type will be accepted without an CRA number. You are responsible for all shipping and handling charges on returned items. You bear the risk of loss during shipment. Your refund will be credited back to the same payment method used to make the original purchase on the Site. WE OFFER NO REFUNDS ON ANY PRODUCTS DESIGNATED ON THIS SITE AS NON-RETURNABLE.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">LIMITED WARRANTY</p>
-                  <p class="fs-5 fw-bolder mb-3">THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO HAVE OTHER RIGHTS, WHICH VARY FROM STATE TO STATE. WE WARRANT THAT DURING THE WARRANTY PERIOD, THE PRODUCTS PURCHASED FROM THE SITE WILL BE FREE FROM DEFECTS IN MATERIALS AND WORKMANSHIP. WE LIMIT THE DURATION AND REMEDIES OF ALL IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TO THE DURATION OF THIS LIMITED WARRANTY. SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.</p>
-                  <p class="fs-5 fw-bolder mb-3">OUR RESPONSIBILITY FOR DEFECTIVE PRODUCTS IS LIMITED TO REPAIR, REPLACEMENT OR REFUND AS SET FORTH IN THIS WARRANTY STATEMENT. NEITHER ANY PERFORMANCE OR OTHER CONDUCT, NOR ANY ORAL OR WRITTEN INFORMATION, STATEMENT OR ADVICE PROVIDED BY US OR ANY OF OUR SUPPLIERS, AGENTS OR EMPLOYEES WILL CREATE A WARRANTY, OR IN ANY WAY INCREASE THE SCOPE OR DURATION OF THIS LIMITED WARRANTY.</p>
-
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Accessing the Website and Account Security</p>
+                 <p class="fs-5 mb-3">We reserve the right to withdraw or amend this Website, and any service or material we provide on the Website, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Website, or the entire Website, to users, including registered users.</p>
+                <p class="fs-5 mb-3">You are responsible for both:</p>
                     <ul>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">who May Use This Warranty?</p>
-                        <p class="fs-5 mb-2">This limited warranty extends only to the original purchaser of products and services from the Site. It does not extend to any subsequent or other owner or transferee of the product or any transferee or other beneficiary of the service.</p>
-                      </li>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">What Does This Warranty Cover?</p>
-                        <p class="fs-5 mb-2">This limited warranty covers during the Warranty Period (as defined below) defects in materials and workmanship in products purchased from the Site.</p>
-                      </li>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">What Does This Warranty Not Cover?</p>
-                        <p class="fs-5 mb-2"> This limited warranty does not cover any damages due to:</p>
-                        <ul>
-                          <li>
-                            <p class="fs-5 mb-1">transportation</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">storage</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">improper use</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">failure to follow the product instructions or to perform any preventive maintenance</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">combination or use with any products, materials, processes, systems or other matter not provided or authorized in writing by us</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">unauthorized repair</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">normal wear and tear</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">water damage</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">damage from weather conditions, such as excessive heat or rain</p>
-                          </li>
-                          <li>
-                            <p class="fs-5 mb-1">external causes such as accidents, abuse, or other actions or events beyond our reasonable control.</p>
-                          </li>
-                        </ul>
-                      </li>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">What is the Period of Coverage?</p>
-                        <p class="fs-5 mb-3">This limited warranty starts on the date of your purchase and lasts for one year (the <span class="fw-bolder">Warranty Period</span>). The Warranty Period is not extended if we repair or replace a warranted product or re-perform a warranted service. We may change the availability of this limited warranty at our discretion, but any changes will not be retroactive.</p>
-                
-                      </li>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">What Are Your Remedies Under This Warranty?</p>
-                        <p class="fs-5 mb-3">With respect to any defective products during the Warranty Period, we will, in our sole discretion, either:</p>
-                          <ul>
-                            <li><p class="fs-5 mb-1">repair or replace such products (or the defective part) free of charge or</p></li>
-                            <li><p class="fs-5 mb-1">refund the purchase price of such products.</p></li>
-                          </ul>
-                      </li>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">How Do You Obtain Warranty Service?</p>
-                        <p class="fs-5 mb-3"> To obtain warranty service, you must call <a href="tel:4065550120" class="text-primary">1-800-TechLok</a> or email our Customer Service Department at <a class="text-primary" href="mailto:Returns@LapLok.com">Returns@LapLok.com</a>  during the Warranty Period to obtain an CRA number. No warranty service will be provided without an CRA number.</p>
-                
-                      </li>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">Limitation of Liability</p>
-                        <p class="fs-5 fw-bolder mb-3">THE REMEDIES DESCRIBED ABOVE ARE YOUR SOLE AND EXCLUSIVE REMEDIES AND OUR ENTIRE OBLIGATION AND LIABILITY FOR ANY BREACH OF THIS LIMITED WARRANTY. OUR LIABILITY WILL UNDER NO CIRCUMSTANCES EXCEED THE ACTUAL AMOUNT PAID BY YOU FOR THE DEFECTIVE PRODUCT OR SERVICE THAT YOU HAVE PURCHASED THROUGH THE SITE, NOR WILL WE UNDER ANY CIRCUMSTANCES BE LIABLE FOR ANY LOSS OF PRODUCTION, WORK, DATA, USE, BUSINESS, GOODWILL, REPUTATION, REVENUE OR PROFIT, ANY DIMINUTION IN VALUE, COSTS OF REPLACEMENT GOODS OR SERVICES, OR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES OR LOSSES, WHETHER DIRECT OR INDIRECT. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.</p>
-                
-                      </li>
-                      <li>
-                        <p class="fs-lg fw-bolder mb-0">What can you do in case of a dispute with us?</p>
-                        <p class="fs-5 mb-3">The informal dispute resolution procedure detailed in 12 is available to you if you believe that we have not performed our obligations under this limited warranty or these Terms.</p>
-                
-                      </li>
+                        <li>
+                            <p class="fs-5 mb-3">Making all arrangements necessary for you to have access to the Website.</p>
+                        </li>
+                         <li>
+                            <p class="fs-5 mb-3">Ensuring that all persons who access the Website through your internet connection are aware of these Terms of Use and comply with them.</p>
+                        </li>
                     </ul>
+                     <p class="fs-5 mb-3">To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. You agree that all information you provide to register with this Website or otherwise, including through the use of any interactive features on the Website, is governed by our Privacy Policy, and you consent to all actions we take with respect to your information consistent with our <a href="https://laplok.com/privacy" class="text-primary">Privacy Policy</a>.</p>
+                    <p class="fs-5 mb-3">If you choose, or are provided with, a user name, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Website or portions of it using your user name, password or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.</p>
+                 <p class="fs-5 mb-3">We have the right to disable any user name, password or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms of Use.</p>
                 </li>
                 <li>
-                  <p class="fs-lg fw-bolder mb-0">GOODS NOT FOR RESALE OR EXPORT</p>
-                  <p class="fs-5 mb-3">You agree to comply with all applicable laws and regulations of the various states and of the United States including all Export Regulations, as defined below. You represent and warrant that you are buying products or services from the Site for your own personal or household use only, and not for resale or export. Products and services purchased from the Site may be controlled for export purposes by export regulations, including but not limited to, the Export Control Reform Act of 2018 (ECRA) (Title XVII, Subtitle B of Pub. L. No. 115-232), the Export Administration Regulations (15 C.F.R. 768-799) for which ECRA is permanent statutory authority, the International Traffic in Arms Regulations (22 C.F.R. 120-128 and 130) and their successor and supplemental regulations (collectively, <span class="fw-bolder">Export Regulations</span>).</p>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Intellectual Property Rights</p>
+                  <p class="fs-5 mb-3">The Website and its entire contents, features and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by the Company, its licensors or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws.</p>
+                    <p class="fs-5 mb-3">These Terms of Use permit you to use the Website for your use only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material on our Website, except as follows:</p>
+                    <ul>
+                        <li>
+                           <p class="fs-5 mb-3"> Your computer may temporarily store copies of such materials incidental to your accessing and viewing those materials.</p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> You may store files that are automatically cached by your Web browser for display enhancement purpose. </p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> You may print one copy of a reasonable number of pages of the Website for your own personal, non-commercial use and not for further reproduction, publication or distribution.</p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> If we provide desktop, mobile or other applications for download, you may download a single copy to your computer or mobile device solely for your own personal, non-commercial use, provided you agree to be bound by our end user license agreement for such applications.</p>
+                        </li>
+                    </ul>
+                     <p class="fs-5 mb-3">You must not:</p>
+                       <ul>
+                        <li>
+                           <p class="fs-5 mb-3"> Modify copies of any materials from this site.</p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> Use any illustrations, photographs, video, or audio sequences or any graphics separately from the accompanying text. </p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> Delete or alter any copyright, trademark or other proprietary rights notices from copies of materials from this site.</p>
+                        </li>
+                    </ul>
+                      <p class="fs-5 mb-3">You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website.</p>
+                     <p class="fs-5 mb-3">If you wish to make any use of material on the Website other than that set out in this section, please address your request to: <a href="mailto:contact-us@laplok.com" class="text-primary">contact-us@laplok.com</a>. </p>
+                     <p class="fs-5 mb-3">If you print, copy, modify, download or otherwise use or provide any other person with access to any part of the Website in breach of the Terms of Use, your right to use the Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. No right, title or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by the Company. Any use of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark and other laws.</p>
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Trademarks</p>
+                  <p class="fs-5 mb-3">The Company name, the terms LAPLOK, the Company logo, and all related names, logos, product and service names, designs and slogans are trademarks of the Company or its affiliates or licensors. You must not use such marks without the prior written permission of the Company. All other names, logos, product and service names, designs and slogans on this Website are the trademarks of their respective owners.</p>
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Prohibited Uses</p>
+                  <p class="fs-5 mb-3">You may use the Website only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Website:</p>
+                   <ul>
+                        <li>
+                           <p class="fs-5 mb-3"> In any way that violates any applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries). </p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise. </p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3">To send, knowingly receive, upload, download, use or re-use any material which does not comply with the <a href="/terms-services#content_standards" class="text-primary">Content Standards</a> set out in these Terms of Use.</p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail,” “chain letter,” “spam,” or any other similar solicitation.</p>
+                        </li>
+                         <li>
+                           <p class="fs-5 mb-3"> To impersonate or attempt to impersonate the Company, a Company employee, another user or any other person or entity (including, without limitation, by using e-mail addresses or screen names associated with any of the foregoing).</p>
+                        </li>
+                         <li>
+                           <p class="fs-5 mb-3">To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Website, or which, as determined by us, may harm the Company or users of the Website, or expose them to liability..</p>
+                        </li>
+                    </ul>
+                    <p class="fs-5 fw-bolder mb-3">Additionally, you agree not to:</p>
+                      <ul>
+                        <li>
+                           <p class="fs-5 mb-3"> Use the Website in any manner that could disable, overburden, damage, or impair the site or interfere with any other party’s use of the Website, including their ability to engage in real time activities through the Website. </p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on the Website. </p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3">Use any manual process to monitor or copy any of the material on the Website, or for any other purpose not expressly authorized in these Terms of Use, without our prior written consent.</p>
+                        </li>
+                        <li>
+                           <p class="fs-5 mb-3"> Use any device, software or routine that interferes with the proper working of the Website.</p>
+                        </li>
+                         <li>
+                           <p class="fs-5 mb-3"> Introduce any viruses, trojan horses, worms, logic bombs or other material which is malicious or technologically harmful.</p>
+                        </li>
+                         <li>
+                           <p class="fs-5 mb-3">Attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Website, the server on which the Website is stored, or any server, computer or database connected to the Website.</p>
+                        </li>
+                           <li>
+                           <p class="fs-5 mb-3">Attack the Website via a denial-of-service attack or a distributed denial-of-service attack.</p>
+                        </li>
+                             <li>
+                           <p class="fs-5 mb-3">Otherwise attempt to interfere with the proper working of the Website.</p>
+                        </li>
+                    </ul>
+                  
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">User Contributions</p>
+                  <p class="fs-5 mb-3">The Website may contain message boards, chat rooms, personal web pages or profiles, forums, bulletin boards, and other interactive features (collectively, “<span class="fw-bolder">Interactive Services</span>”) that allow users to post, submit, publish, display or transmit to other users or other persons (hereinafter, “<span class="fw-bolder">post</span>”) content or materials (collectively, “<span class="fw-bolder">User Contributions</span>”) on or through the Website.</p>
+                  <p class="fs-5 mb-3">All User Contributions must comply with the Content Standards set out in these Terms of Use.</p>
+                  <p class="fs-5 mb-3">Any User Contribution you post to the site will be considered non-confidential and non-proprietary. By providing any User Contribution on the Website, you grant us and our affiliates and service providers, and each of their and our respective licensees, successors and assigns the right to use, reproduce, modify, perform, display, distribute and otherwise disclose to third parties any such material for any purpose.</p>
+                 <p class="fs-5 mb-3">You represent and warrant that:</p>
+                    <ul>
+                        <li>
+                             <p class="fs-5 mb-3">You own or control all rights in and to the User Contributions and have the right to grant the license granted above to us and our affiliates and service providers, and each of their and our respective licensees, successors and assigns.</p>
+                        </li>
+                          <li>
+                             <p class="fs-5 mb-3">All of your User Contributions do and will comply with these Terms of Use.</p>
+                        </li>
+                    </ul>
+                     <p class="fs-5 mb-3">You understand and acknowledge that you are responsible for any User Contributions you submit or contribute, and you, not the Company, have fully responsibility for such content, including its legality, reliability, accuracy and appropriateness.</p>
+                    <p class="fs-5 mb-3">We are not responsible, or liable to any third party, for the content or accuracy of any User Contributions posted by you or any other user of the Website.</p>
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Monitoring and Enforcement; Termination</p>
+                  <p class="fs-5 mb-3">We have the right to:</p>
+                    <ul>
+                        <li>
+                             <p class="fs-5 mb-3">Remove or refuse to post any User Contributions for any or no reason in our sole discretion.</p>
+                        </li>
+                          <li>
+                             <p class="fs-5 mb-3">Take any action with respect to any User Contribution that we deem necessary or appropriate in our sole discretion, including if we believe that such User Contribution violates the Terms of Use, including the Content Standards, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Website or the public or could create liability for the Company.</p>
+                        </li>
+                          <li>
+                             <p class="fs-5 mb-3">Disclose your identity or other information about you to any third party who claims that material posted by you violates their rights, including their intellectual property rights or their right to privacy.</p>
+                        </li>
+                          <li>
+                             <p class="fs-5 mb-3">Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Website.</p>
+                        </li>
+                          <li>
+                             <p class="fs-5 mb-3">Terminate or suspend your access to all or part of the Website for any or no reason, including without limitation, any violation of these Terms of Use.</p>
+                        </li>
+                    </ul>
+                    <p class="fs-5 mb-3">Without limiting the foregoing, we have the right to fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Website. <span class="text-uppercase">YOU WAIVE AND HOLD HARMLESS THE COMPANY AND ITS AFFILIATES, LICENSEES AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING OR AS A RESULT OF ITS INVESTIGATIONS AND FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER SUCH PARTIES OR LAW ENFORCEMENT AUTHORITIES.</span></p>
+                    <p class="fs-5 mb-3"> However, we cannot review all material before it is posted on the Website, and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions,communications or content provided by any user or third party. We have no liability or responsibility to anyone for performance or nonperformance of the activities described in this section.</p>
+                </li>
+                
+                <li id="content_standards">
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Content Standards</p>
+                  <p class="fs-5 mb-3">These content standards apply to any and all User Contributions and use of Interactive Services. User Contributions must in their entirety comply with all applicable federal, state, local and international laws and regulations. Without limiting the foregoing, User Contributions must not:</p>
+                 <ul>
+                     <li>
+                         <p class="fs-5 mb-3">Contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory or otherwise objectionable.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Infringe any patent, trademark, trade secret, copyright or other intellectual property or other rights of any other person.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our <a href="/privacy">Privacy Policy</a>.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Be likely to deceive any person.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Promote any illegal activity, or advocate, promote or assist any unlawful act.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Cause annoyance, inconvenience or needless anxiety or be likely to upset, embarrass, alarm or annoy any other person.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Impersonate any person, or misrepresent your identity or affiliation with any person or organization.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Involve commercial activities or sales, such as contests, sweepstakes and other sales promotions, barter or advertising.</p>
+                     </li>
+                       <li>
+                         <p class="fs-5 mb-3">Give the impression that they emanate from or are endorsed by us or any other person or entity, if this is not the case.</p>
+                     </li>
+                 </ul>   
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Copyright Infringement</p>
+                  <p class="fs-5 mb-3">If you believe that any User Contributions violate your copyright, please see our {Invalid hyperlink URL} for instructions on sending us a notice of copyright infringement. It is the policy of the Company to terminate the user accounts of repeat infringers.</p>
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Reliance on Information Posted</p>
+                <p class="fs-5 mb-3">The information presented on or through the Website is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other visitor to the Website, or by anyone who may be informed of any of its contents.</p>
+                  <p class="fs-5 mb-3">This Website may include content provided by third parties, including materials provided by other users, bloggers and third-party licensors, syndicators, aggregators and/or reporting services. All statements and/or opinions expressed in these materials, and all articles and responses to questions and other content, other than the content provided by the Company, are solely the opinions and the responsibility of the person or entity providing those materials. These materials do not necessarily reflect the opinion of the Company. We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by any third parties.</p>
+
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Changes to the Website</p>
+                  <p class="fs-5 mb-3">We may update the content on this Website from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation to update such material.</p>
+
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Information About You and Your Visits to the Website</p>
+                  <p class="fs-5 mb-3">All information we collect on this Website is subject to our <a href="/privacy" class="text-primary">Privacy Policy</a>. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.</p>
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Online Purchases and Other Terms and Conditions</p>
+                  <p class="fs-5 mb-3">All purchases through our site or other transactions for the sale of goods formed through the Website, or as a result of visits made by you are governed by our {Invalid hyperlink URL}, which are hereby incorporated into these Terms of Use.</p>
+                    <p class="fs-5 mb-3">Additional terms and conditions may also apply to specific portions, services or features of the Website. All such additional terms and conditions are hereby incorporated by this reference into these Terms of Use.</p>
+                    </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Linking to the Website and Social Media Features</p>
+                     <p class="fs-5 mb-3">You may link to our homepage, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part.</p>
+                 <p class="fs-5 mb-3">This Website may provide certain social media features that enable you to:</p>
+                    <ul>
+                    <li>
+                      <p class="fs-5 mb-3">Link from your own or certain third-party websites to certain content on this Website.</p>
+                    </li>
+                    <li>
+                      <p class="fs-5 mb-3">Send e-mails or other communications with certain content, or links to certain content, on this Website.</p>
+                    </li>
+                      <li>
+                      <p class="fs-5 mb-3">Cause limited portions of content on this Website to be displayed or appear to be displayed on your own or certain third-party websites.</p>
+                    </li>
+                  </ul>
+                     <p class="fs-5 mb-3">You may use these features solely as they are provided by us, solely with respect to the content they are displayed with, and otherwise in accordance with any additional terms and conditions we provide with respect to such features. Subject to the foregoing, you must not:</p>
+                      <ul>
+                    <li>
+                      <p class="fs-5 mb-3">Establish a link from any website that is not owned by you.</p>
+                    </li>
+                    <li>
+                      <p class="fs-5 mb-3">Cause the Website or portions of it to be displayed, or appear to be displayed by, for example, framing, deep linking or in-line linking, on any other site.</p>
+                    </li>
+                      <li>
+                      <p class="fs-5 mb-3">Link to any part of the Website other than the homepage.</p>
+                    </li>
+                      <li>
+                      <p class="fs-5 mb-3">Otherwise take any action with respect to the materials on this Website that is inconsistent with any other provision of these Terms of Use.</p>
+                    </li>
+                  </ul>
+                    <p class="fs-5 mb-3">You agree to cooperate with us in causing any unauthorized framing or linking immediately to cease. We reserve the right to withdraw linking permission without notice.</p>
+                    <p class="fs-5 mb-3">We may disable all or any social media features and any links at any time without notice in our discretion.</p>
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Links from the Website</p>
+                  <p class="fs-5 mb-3">If the Website contains links to other sites and resources provided by third parties, these links are provided for your convenience only. This includes links contained in advertisements, including banner advertisements and sponsored links. We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third party websites linked to this Website, you do so entirely at your own risk and subject to the terms and conditions of use for such websites.</p>
+                </li>
+                <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Geographic Restrictions</p>
+                  <p class="fs-5 mb-3">The owner of the Website is based in the State of Michigan in the United States. We provide this Website for use only by persons located in the United States. We make no claims that the Website or any of its content is accessible or appropriate outside of the United States. Access to the Website may not be legal by certain persons or in certain countries. If you access the Website from outside the United States, you do so on your own initiative and are responsible for compliance with local laws.</p>
+                </li>
+                 <li>
+                 <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Disclaimer of Warranties</p>
+                  <p class="fs-5 mb-3">You understand that we cannot and do not guarantee or warrant that files available for downloading from the internet or the Website will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for any reconstruction of any lost data.
+                      <span class="text-uppercase"> WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE WEBSITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY WEBSITE LINKED TO IT.</span>
+                  </p>
+                         <p class="fs-5 mb-3"><span class="text-uppercase">YOUR USE OF THE WEBSITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE IS AT YOUR OWN RISK. THE WEBSITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER THE COMPANY NOR ANY PERSON ASSOCIATED WITH THE COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE WEBSITE. WITHOUT LIMITING THE FOREGOING, NEITHER THE COMPANY NOR ANYONE ASSOCIATED WITH THE COMPANY REPRESENTS OR WARRANTS THAT THE WEBSITE, ITS CONTENT OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE WEBSITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.</span></p>
+                        <p class="fs-5 mb-3"><span class="text-uppercase">THE COMPANY HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR PARTICULAR PURPOSE.</span></p>
+                        <p class="fs-5 mb-3"><span class="text-uppercase">THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.</span></p>
+                </li>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Limitation on Liability</p>
+                       <p class="fs-5 mb-3"><span class="text-uppercase">TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL THE COMPANY, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE.</span></p>
+                      <p class="fs-5 mb-3"><span class="text-uppercase">THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.</span></p>
                   </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">INTELLECTUAL PROPERTY USE AND OWNERSHIP</p>
-                  <p class="fs-5 mb-3">We and our licensors are and will remain the sole and exclusive owners of all intellectual property rights in and to each product and service made available on this Site and any related specifications, instructions, documentation or other materials, including, but not limited to, all related copyrights, patents, trademarks and other intellectual property rights. You do not and will not have or acquire any ownership of these intellectual property rights in or to the products or services made available through this Site, or of any intellectual property rights relating to those products or services.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">FORCE MAJURE</p>
-                  <p class="fs-5 mb-3">Neither party shall be liable or responsible to the other party, nor be deemed to have defaulted under or breached this Agreement, for any failure or delay in fulfilling or performing any term of this Agreement (except for any of your obligations to make payments to us hereunder), when and to the extent such failure or delay is caused by or results from acts beyond the impacted party’s reasonable control.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">GOVERNING LAW AND JURISDICTION</p>
-                  <p class="fs-5 mb-3">All matters arising out of or relating to these Terms are governed by and construed in accordance with the internal laws of the State of Michigan without giving effect to any choice or conflict of law provision or rule (whether of the State of Michigan or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than those of the State of Michigan.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">DISPUTE RESOLUTION AND BINDING ARBITRATION</p>
-                
-                  <ul>
-                    <li>
-                      <p class="fs-5 fw-bolder mb-3">YOU AND TechLok Solutions, LLC ARE AGREEING TO GIVE UP ANY RIGHTS TO LITIGATE CLAIMS IN A COURT OR BEFORE A JURY, OR TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO A CLAIM. OTHER RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT MAY ALSO BE UNAVAILABLE OR MAY BE LIMITED IN ARBITRATION.
-                        ANY CLAIM, DISPUTE OR CONTROVERSY (WHETHER IN CONTRACT, TORT OR OTHERWISE, WHETHER PRE-EXISTING, PRESENT OR FUTURE, AND INCLUDING STATUTORY, CONSUMER PROTECTION, COMMON LAW, INTENTIONAL TORT, INJUNCTIVE AND EQUITABLE CLAIMS) BETWEEN YOU AND US ARISING FROM OR RELATING IN ANY WAY TO YOUR PURCHASE OF PRODUCTS OR SERVICES THROUGH THE SITE, WILL BE RESOLVED EXCLUSIVELY AND FINALLY BY BINDING ARBITRATION.</p>
-                    </li>
-                    <li>
-                      <p class="fs-5 mb-1">The arbitration will be administered by the American Arbitration Association (“AAA”) in accordance with the Consumer Arbitration Rules (the “AAA Rules”) then in effect, except as modified by this 12. (The AAA Rules are available at adr.org or by calling the AAA at 1-800-778-7879.) The Federal Arbitration Act will govern the interpretation and enforcement of this section.</p>
-                      <p class="fs-5 mb-1">The arbitrator will have exclusive authority to resolve any dispute relating to arbitrability and/or enforceability of this arbitration provision, including any unconscionability challenge or any other challenge that the arbitration provision or the Agreement is void, voidable or otherwise invalid. The arbitrator will be empowered to grant whatever relief would be available in court under law or in equity. Any award of the arbitrator(s) will be final and binding on each of the parties and may be entered as a judgment in any court of competent jurisdiction.</p>
-                      <p class="fs-5 mb-2">You agree to an arbitration on an individual basis. In any dispute, <span class="fw-bolder">NEITHER YOU NOR TechLok Solutions, LLC WILL BE ENTITLED TO JOIN OR CONSOLIDATE CLAIMS BY OR AGAINST OTHER CUSTOMERS IN COURT OR IN ARBITRATION OR OTHERWISE PARTICIPATE IN ANY CLAIM AS A CLASS REPRESENTATIVE, CLASS MEMBER OR IN A PRIVATE ATTORNEY GENERAL CAPACITY.</span> The arbitral tribunal may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding. The arbitral tribunal has no power to consider the enforceability of this class arbitration waiver and any challenge to the class arbitration waiver may only be raised in a court of competent jurisdiction.</p>
-                      <p class="fs-5 mb-1">If any provision of this arbitration agreement is found unenforceable, the unenforceable provision will be severed and the remaining arbitration terms will be enforced.</p>
-                    </li>
-                  </ul>
-                
-                
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">ASSIGNMENT</p>
-                  <p class="fs-5 mb-3">You will not assign any of your rights or delegate any of your obligations under these Terms without our prior written consent. Any purported assignment or delegation in violation of this 13 is null and void. No assignment or delegation relieves you of any of your obligations under these Terms.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">NO WAIVERS</p>
-                  <p class="fs-5 mb-3">The failure by us to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any right or provision will be effective only if in writing and signed by a duly authorized representative of TechLok Solutions, LLC.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">NO THIRD-PARTY BENEFICIARIES</p>
-                  <p class="fs-5 mb-3">These Terms do not and are not intended to confer any rights or remedies upon any person other than you.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">NOTICES</p>
-                  <ul>
-                    <li>
-                      <p class="fs-5 fw-bolder mb-0">To You</p>
-                      <p class="fs-5 mb-3">We may provide any notice to you under these Terms by: (i) sending a message to the email address you provide or (ii) by posting to the Site. Notices sent by email will be effective when we send the email and notices we provide by posting will be effective upon posting. It is your responsibility to keep your email address current.</p>
-                    </li>
-                    <li>
-                      <p class="fs-5 fw-bolder mb-0">To Us</p>
-                      <p class="fs-5 mb-3"> To give us notice under these Terms, you must contact us as follows: by personal delivery, overnight courier or registered or certified mail to TechLok Solutions, LLC 33717 Woodward Ave. Birmingham, MI 48009 #588. We may update the address for notices to us by posting a notice on the Site. Notices provided by personal delivery will be effective immediately. Notices provided by overnight courier will be effective one business day after they are sent. Notices provided by registered or certified mail will be effective three business days after they are sent.</p>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">SEVERABILITY</p>
-                  <p class="fs-5 mb-3">If any provision of these Terms is invalid, illegal, void or unenforceable, then that provision will be deemed severed from these Terms and will not affect the validity or enforceability of the remaining provisions of these Terms.</p>
-                </li>
-                <li>
-                  <p class="fs-lg fw-bolder mb-0">ENTIRE AGREEMENT</p>
-                  <p class="fs-5 mb-3">These Terms will be deemed the final and integrated agreement between you and us on the matters contained in these Terms.</p>
-                </li>
-              </ol>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Indemnification</p>
+                      <p class="fs-5 mb-3">You agree to defend, indemnify and hold harmless the Company, its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys’ fees) arising out of or relating to your violation of these Terms of Use or your use of the Website, including, but not limited to, your User Contributions, any use of the Website’s content, services and products other than as expressly authorized in these Terms of Use, or your use of any information obtained from the Website.</p>
+                  </li>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Governing Law and Jurisdiction</p>
+                       <p class="fs-5 mb-3">All matters relating to the Website and these Terms of Use, and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), will be governed by and construed in accordance with the internal laws of the State of Michigan without giving effect to any choice or conflict of law provision or rule (whether of the State of Michigan or any other jurisdiction).</p>
+                         <p class="fs-5 mb-3">Any legal suit, action or proceeding arising out of, or related to, these Terms of Use or the Website will be instituted exclusively in the federal courts of the United States or the courts of the State of Michigan although we retain the right to bring any suit, action or proceeding against you for breach of these Terms of Use in your country of residence or any other relevant country. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.</p>
+                      </li>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Arbitration</p>
+                       <p class="fs-5 mb-3">At Company’s sole discretion, it may require You to submit any disputes arising from these Terms of Use or use of the Website, including disputes arising from or concerning their interpretation, violation, invalidity, non-performance, or termination, to final and binding arbitration under the Rules of Arbitration of the American Arbitration Association applying Michigan law.</p>
+                  </li>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Limitation on Time to File Claims</p>
+                       <p class="fs-5 mb-3">ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OF USE OR THE WEBSITE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES; OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.</p>
+                  </li>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Waiver and Severability</p>
+                       <p class="fs-5 mb-3">No waiver of by the Company of any term or condition set forth in these Terms of Use will be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under these Terms of Use will not constitute a waiver of such right or provision.</p>
+                       <p class="fs-5 mb-3">If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision will be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect.</p>
+                  </li>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Entire Agreement</p>
+                       <p class="fs-5 mb-3">The Terms of Use, our Privacy Policy, and Terms of Sale constitute the sole and entire agreement between you and Techlok Solutions, LLC with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Website.</p>
+                  </li>
+                  <li>
+                      <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Your Comments and Concerns</p>
+                       <p class="fs-5 mb-3">This website is operated by Techlok Solutions, LLC, 33717 Woodward Ave.#588, Birmingham, Michigan 48009.</p>
+                       <p class="fs-5 mb-3">All feedback, comments, requests for technical support and other communications relating to the Website should be directed to: <a href="mailto:contact-us@laplok.com" class="text-primary">contact-us@laplok.com</a> </p>
+                  </li>
+              </ul>
             </div>
           </div>
       
