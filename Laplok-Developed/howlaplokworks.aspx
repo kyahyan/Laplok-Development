@@ -77,11 +77,17 @@
       <div class="tab-pane fade show active" id="education" role="tabpanel" aria-labelledby="education-tab">
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
-            <h3 class="mb-lg-4">Install semi-permanent mounting arm</h3>
-            <p>First, ensure that your LapLok has a clean surface to which you can adhere the mounting arm. 
-                <br /> Clean the device (bottom of the laptop or back of the tablet) with the included alcohol wipe.</p>
-            <p>Then, install the semi-permanent adhesive mounting arm.</p>
-              <a class="btn btn-primary btnNext">Next</a>
+              <div class="row">
+                  <div class="col-12 my-lg-2 pb-lg-1">
+                     <h3 class="mb-lg-4">Install semi-permanent mounting arm</h3>
+                    <p>First, ensure that your LapLok has a clean surface to which you can adhere the mounting arm. 
+                    <br /> Clean the device (bottom of the laptop or back of the tablet) with the included alcohol wipe.</p>
+                    <p>Then, install the semi-permanent adhesive mounting arm.</p>
+                  </div>
+                     <div class="col-12 justify-content-lg-end">
+                   <a class="btn btn-primary btnNext">Next</a>
+              </div>
+              </div>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/1.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -91,10 +97,16 @@
       <div class="tab-pane fade" id="ecommerce" role="tabpanel" aria-labelledby="ecommerce-tab">
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
+            <div class="row">
+             <div class="col-12 my-lg-3 pb-lg-5">
             <h3 class="mb-lg-4">Swing out the mounting arm</h3>
             <p>Take the mounting arm and swing it out to give the space for your LapLok to connect.</p>
+                            </div>
+               <div class="col-12 gy-lg-5 pt-lg-5 mt-lg-5 justify-content-lg-end">
              <a class="btn btn-primary btnPrevious">Back</a>
              <a class="btn btn-primary btnNext">Next</a>
+                   </div>
+            </div>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/2.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -104,11 +116,17 @@
       <div class="tab-pane fade" id="sports" role="tabpanel" aria-labelledby="sports-tab">
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
+              <div class="row">
+                <div class="col-12 my-lg-3 pb-lg-5">
             <h3 class="mb-lg-4">Adjust the lower arm to the height of the table</h3>
             <p>Take your LapLok and measure the surface height on which you wish to install it. 
                 Then, adjust the lower arm to the height of the table. You will be moving this later on to ensure a safe connection.</p>
+                      </div>
+             <div class="col-12 gy-lg-5 pt-lg-1 mt-lg-1 justify-content-lg-end">
              <a class="btn btn-primary btnPrevious">Back</a>
              <a class="btn btn-primary btnNext">Next</a>
+                      </div>
+                  </div>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/3.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -118,10 +136,18 @@
       <div class="tab-pane fade" id="construction" role="tabpanel" aria-labelledby="construction-tab">
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
-            <h3 class="mb-lg-4">Put the mount arm into the mouth of the LapLok</h3>
+               <div class="row">
+                   <div class="col-12 my-lg-3 pb-lg-5">
+                         <h3 class="mb-lg-4">Put the mount arm into the mouth of the LapLok</h3>
             <p>Take the arm that's attached to your computer and place LapLok into the mouth of the locking arm.</p>
-             <a class="btn btn-primary btnPrevious">Back</a>
+                   </div>
+                   <div class="col-12 gy-lg-5 pt-lg-5 mt-lg-2 justify-content-lg-end">
+                   <a class="btn btn-primary btnPrevious">Back</a>
              <a class="btn btn-primary btnNext">Next</a>
+                   </div>
+          
+           
+                   </div>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/4.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -131,10 +157,16 @@
       <div class="tab-pane fade" id="medicine" role="tabpanel" aria-labelledby="medicine-tab">
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
+                 <div class="row">
+                   <div class="col-12 my-lg-3 pb-lg-5">
             <h3 class="mb-lg-4">Raise the lower arm to the bottom of the table</h3>
             <p>Take the lower arm of LapLok and raise it to the same level as the surface you're securing it into.</p>
+                       </div>
+                     <div class="col-12 gy-lg-5 pt-lg-5 mt-lg-2 justify-content-lg-end">
             <a class="btn btn-primary btnPrevious">Back</a>
              <a class="btn btn-primary btnNext">Next</a>
+                         </div>
+                     </div>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/5.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -144,9 +176,17 @@
       <div class="tab-pane fade" id="real-estate" role="tabpanel" aria-labelledby="real-estate-tab">
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
-            <h3 class="mb-lg-4">Pull the top LapLok down to secure</h3>
+                <div class="row">
+                <div class="col-12 my-lg-3 pb-lg-5">
+                      <h3 class="mb-lg-4">Pull the top LapLok down to secure</h3>
             <p>When your LapLok is in place, pull it down to secure it. It's that easy.</p>
+                </div>
+          
+                    </div>
+          <div class="col-12 gy-lg-5 pt-lg-5 mt-lg-2 justify-content-lg-end">
                <a class="btn btn-primary btnPrevious">Back</a>
+              </div>
+              
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/6.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
