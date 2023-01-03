@@ -33,13 +33,13 @@ namespace Laplok_Developed
         protected global::System.Web.UI.WebControls.TextBox emailAddress;
 
         /// <summary>
-        /// SiteReqVal control.
+        /// SiteReqFieldVal control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator SiteReqVal;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator SiteReqFieldVal;
 
         /// <summary>
         /// SiteRegVal control.

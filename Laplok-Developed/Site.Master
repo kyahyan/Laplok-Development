@@ -151,7 +151,7 @@
                     <asp:TextBox ID="emailAddress" runat="server" CssClass="form-control rounded-start ps-5" placeholder="Your email" ClientIDMode="Static"></asp:TextBox>
                 <i class="bx bx-envelope fs-lg text-muted position-absolute top-50 start-0 translate-middle-y ms-3 ms-sm-3 zindex-5"></i>
                   <!--Validates the value of the textbox if empty-->  
-                  <asp:RequiredFieldValidator ID="SiteReqVal" ValidationGroup="SiteValidator" 
+                  <asp:RequiredFieldValidator ID="SiteReqFieldVal" ValidationGroup="SiteValidator" 
                         runat="server"
                         ErrorMessage="Please provide a valid email address!"
                         CssClass="invalid-tooltip position-absolute top-100 start-0" 
@@ -160,13 +160,13 @@
                         Display="Dynamic" 
                         ></asp:RequiredFieldValidator>
                   <!--Validates the value of the textbox if the email address provided is valid-->
-                    <asp:RegularExpressionValidator ID="SiteRegVal" runat="server" 
+                    <asp:RegularExpressionValidator ID="SiteRegVal" ValidationGroup="SiteValidator" runat="server" 
                         ErrorMessage="Please provide a valid email address!"  
                         CssClass="invalid-tooltip position-absolute top-100 start-0" 
                         ControlToValidate="emailAddress"
                         SetFocusOnError="true" 
                         Display="Dynamic" 
-                        ValidationExpression="^\S+@\S+$" ValidationGroup="SiteValidator"> </asp:RegularExpressionValidator>
+                        ValidationExpression="^\S+@\S+$" > </asp:RegularExpressionValidator>
 
                   <asp:Button ID="subsBtn" 
                       runat="server" 
