@@ -66,7 +66,7 @@
               <form class="row g-4 needs-validation" novalidate> <div class="col-12">
                     
                   <label for="fn" class="form-label fs-base">Full name</label>
-                  <asp:TextBox ID="fullnameText" runat="server" CssClass="form-control form-control-lg" ClientIDMode="Static" ></asp:TextBox>
+                  <asp:TextBox ID="fullnameText" runat="server" CssClass="form-control form-control-lg" ClientIDMode="Static"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" 
                         runat="server"
                         ErrorMessage="Please enter your full name!" 
@@ -214,7 +214,7 @@
           </li>
               <li class="d-flex pb-1 mb-2">
            <i class="bx bx-envelope text-primary fs-xl me-2" style="margin-top: .125rem;"></i>
-           <a class="text-primary" href="mailto:contact-us@laplok.com" > contact-us&#64;laplok.com</a>
+           <a class="text-primary" href="mailto:contact-us@laplok.com" > contact-us&#64;LapLok.com</a>
           </li>
           <li class="d-flex">
             <i class="bx bx-time-five text-primary fs-xl me-2" style="margin-top: .125rem;"></i>

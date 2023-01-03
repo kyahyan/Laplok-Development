@@ -73,7 +73,7 @@
                 <li>
                    <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Children Under the Age of 16</p>
                      <p class="fs-5 mb-3">Our Website is not intended for children under 16 years of age. No one under age 16 may provide any information to or on the Website. We do not knowingly collect personal information from children under 16. If you are under 16, do not use or provide any information on this Website or on or through any of its features. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at:</p>
-                    <p class="fs-5 mb-3 ms-4"><a href="mailto:contact-us@laplok.com" class="text-primary">contact-us@laplok.com</a></p>
+                    <p class="fs-5 mb-3 ms-4"><a href="mailto:contact-us@laplok.com" class="text-primary">contact-us@LapLok.com</a></p>
                     </li>
                 <li>
                    <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Information We Collect About You and How We Collect It</p>
@@ -242,7 +242,7 @@
                 <li>
                    <p class="fs-lg fw-bolder mb-3 text-decoration-underline">Contact Information</p>
                 <p class="fs-5 mb-3">To ask questions or comment about this privacy policy and our privacy practices, contact us at:</p>
-                    <p class="fs-5 mb-3 ms-4"><a href="mailto:contact-us@laplok.com" class="text-primary">contact-us@laplok.com</a></p>
+                    <p class="fs-5 mb-3 ms-4"><a href="mailto:contact-us@laplok.com" class="text-primary">contact-us@LapLok.com</a></p>
                 </li>
               
               </ul>
