@@ -4225,6 +4225,7 @@
     <Content Include="assets\vendor\vanilla-tilt\README.md" />
     <Content Include="Errors\PageNotFound.aspx" />
     <Content Include="howlaplokworks.aspx" />
+    <Content Include="terms-of-use.aspx" />
     <Content Include="whylaplok.aspx" />
     <Content Include="libman.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -4407,6 +4408,13 @@
     </Compile>
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="terms-of-use.aspx.cs">
+      <DependentUpon>terms-of-use.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="terms-of-use.aspx.designer.cs">
+      <DependentUpon>terms-of-use.aspx</DependentUpon>
     </Compile>
     <Compile Include="terms-services.aspx.cs">
       <DependentUpon>terms-services.aspx</DependentUpon>
